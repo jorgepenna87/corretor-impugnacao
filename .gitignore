@@ -1,0 +1,11 @@
+node_modules/
+__pycache__/
+*.pyc
+_build/mentoria/*.wav
+_build/mentoria/*.mp4
+_build/mentoria/*.log
+.wrangler/
+desktop.ini
+Thumbs.db
+.venv/
+*.tmp

@@ -1,0 +1,72 @@
+[
+  {
+    "tema": "Multa art. 467 — verba indeferida incluída indevidamente",
+    "dimensao": 2,
+    "dimensao_label": "Verbas deferidas apuradas",
+    "keywords": ["multa 467", "art. 467", "verbas incontroversas", "vínculo contestado", "verba não deferida", "coisa julgada", "extrapolação", "art. 879", "liquidação", "título executivo", "parcela indeferida", "indevida"],
+    "explicacao_curta": "A sentença indeferiu expressamente a multa do art. 467 da CLT porque, ao tempo da primeira audiência, a reclamada contestava o próprio vínculo de emprego, afastando o pressuposto de incidência. O reclamante incluiu essa verba na planilha, extrapolando os limites objetivos da coisa julgada (art. 879, §1º, da CLT). O correto é excluir integralmente a multa do art. 467 do cálculo."
+  },
+  {
+    "tema": "Adicional de insalubridade — percentual majorado (40% × 20%)",
+    "dimensao": 2,
+    "dimensao_label": "Verbas deferidas apuradas",
+    "keywords": ["adicional de insalubridade", "insalubridade", "grau médio", "20%", "40%", "grau máximo", "salário mínimo", "coisa julgada", "art. 879", "percentual incorreto", "extrapolação", "reflexos", "pó de serragem", "metais pesados"],
+    "explicacao_curta": "A sentença deferiu adicional de insalubridade em grau médio (20%), calculado sobre o salário mínimo, com reflexos em férias+1/3, 13º, aviso prévio, saldo salarial e FGTS+40%. O reclamante apurou o adicional no percentual de 40% (grau máximo), majorando indevidamente a verba e todos os seus reflexos. A impugnação deve exigir a retificação para 20% com recálculo de todos os reflexos."
+  },
+  {
+    "tema": "Base salarial fixa × evolução pelo salário mínimo",
+    "dimensao": 5,
+    "dimensao_label": "Divisor e maior remuneração",
+    "keywords": ["evolução salarial", "salário mínimo", "salário base", "salário fixo", "3.900", "variação do salário mínimo", "reajuste", "coisa julgada", "remuneração", "histórico salarial", "base de cálculo", "art. 879", "última remuneração"],
+    "explicacao_curta": "A sentença fixou R$ 3.900,00 como última remuneração e determinou expressamente a evolução salarial pela variação do salário mínimo ao longo de todo o período (01/02/2020 a 15/03/2024). O reclamante adotou o valor de R$ 3.900,00 como base estática para todo o contrato, desconsiderando os reajustes do salário mínimo mês a mês. Isso majorou todas as verbas calculadas sobre a remuneração de base e seus reflexos."
+  },
+  {
+    "tema": "Honorários sucumbenciais — percentual majorado (10% × 5%)",
+    "dimensao": 2,
+    "dimensao_label": "Verbas deferidas apuradas",
+    "keywords": ["honorários advocatícios", "honorários sucumbenciais", "5%", "10%", "art. 791-A", "CLT", "percentual fixado", "coisa julgada", "valor líquido", "condenação", "advocatícios do reclamante"],
+    "explicacao_curta": "A sentença fixou honorários advocatícios sucumbenciais em 5% sobre o valor líquido da condenação, nos termos do art. 791-A da CLT. O reclamante apurou honorários de 10%, dobrando unilateralmente o percentual determinado pelo Juízo. A impugnação deve exigir a readequação ao percentual de 5% expressamente fixado na sentença."
+  },
+  {
+    "tema": "Custas processuais — valor incorreto",
+    "dimensao": 23,
+    "dimensao_label": "Custas pagas deduzidas",
+    "keywords": ["custas", "2%", "valor da causa", "29.895,50", "597,91", "4.809,35", "custas processuais", "art. 879", "base de cálculo das custas", "sentença", "liquidação", "reclamado"],
+    "explicacao_curta": "A sentença fixou custas de 2% sobre o valor da causa de R$ 29.895,50, resultando em R$ 597,91. O reclamante apresentou custas de R$ 4.809,35, em flagrante desacordo com o critério estabelecido no título executivo. A liquidação deve observar estritamente os limites da condenação (art. 879, §1º, CLT), sendo vedada a majoração unilateral das custas."
+  },
+  {
+    "tema": "Honorários periciais — verba omitida pelo reclamante",
+    "dimensao": 2,
+    "dimensao_label": "Verbas deferidas apuradas",
+    "keywords": ["honorários periciais", "perito", "insalubridade", "3.900,00", "perícia", "verba omitida", "sucumbência", "conta de liquidação", "título executivo", "honorários do perito", "atualização"],
+    "explicacao_curta": "A sentença condenou a reclamada ao pagamento de honorários periciais de R$ 3.900,00 em razão de sua sucumbência no objeto da perícia de insalubridade. O reclamante não incluiu essa verba em sua planilha de liquidação. Trata-se de verba expressamente deferida no título executivo que deve integrar obrigatoriamente a conta de liquidação."
+  },
+  {
+    "tema": "FGTS — natureza da obrigação (depósito × pagamento direto)",
+    "dimensao": 17,
+    "dimensao_label": "Base FGTS",
+    "keywords": ["FGTS", "conta vinculada", "depósito", "obrigação de fazer", "pagamento direto", "coisa julgada", "art. 879", "bis in idem", "duplicidade", "recolhimento", "conta do FGTS", "8%", "multa 40%"],
+    "explicacao_curta": "A sentença condenou a reclamada ao recolhimento do FGTS de todo o contrato (acrescido da multa de 40%) na conta vinculada do trabalhador — obrigação de fazer, não de pagar. O reclamante lançou o FGTS como valor de pagamento direto ao autor, alterando a natureza da obrigação, extrapolando a coisa julgada (art. 879, §1º, CLT) e gerando risco de duplicidade. O correto é tratar o FGTS apenas como obrigação de depósito na conta vinculada."
+  },
+  {
+    "tema": "Juros e correção — Lei 14.905/2024 a partir de 30/08/2024",
+    "dimensao": 16,
+    "dimensao_label": "Juros e correção",
+    "keywords": ["Lei 14.905", "ADC 58", "IPCA-E", "SELIC", "taxa legal", "30/08/2024", "30 de agosto de 2024", "juros de mora", "correção monetária", "fase judicial", "art. 406", "código civil", "selic menos ipca", "índice de correção", "fase pré-judicial", "TRD", "art. 879"],
+    "explicacao_curta": "A sentença determinou regime misto de atualização: fase pré-judicial com IPCA-E + TRD (juros art. 39 da Lei 8.177/91); do ajuizamento (30/03/2024) até 29/08/2024 com SELIC (englobando correção e juros); a partir de 30/08/2024 com IPCA-E como correção e juros pela Taxa Legal (SELIC − IPCA, art. 406 CC, conforme Lei 14.905/2024). O reclamante não observou corretamente o índice aplicável a partir de 30/08/2024, mantendo critério diverso do fixado no título executivo e violando a coisa julgada (art. 879, §1º, CLT)."
+  },
+  {
+    "tema": "Multa 40% FGTS — base de cálculo (exclusão do aviso prévio)",
+    "dimensao": 18,
+    "dimensao_label": "Base multa 40%",
+    "keywords": ["multa 40%", "multa sobre FGTS", "aviso prévio", "base da multa", "FGTS sobre aviso prévio", "exclusão aviso prévio", "base de cálculo multa", "rescisão", "8%", "conta vinculada", "gabarito"],
+    "explicacao_curta": "No gabarito (cálculo da reclamada), a multa de 40% sobre o FGTS é apurada sobre o total do FGTS devido no contrato, excluindo o FGTS sobre o aviso prévio indenizado, conforme parametrização correta no PJe-Calc. O reclamante pode ter calculado a multa sobre base diversa ou incluído verbas não previstas, gerando majoração indevida do valor. A base da multa deve respeitar estritamente as verbas sobre as quais o FGTS foi deferido na sentença."
+  },
+  {
+    "tema": "Férias em dobro × simples — conformidade com a sentença",
+    "dimensao": 10,
+    "dimensao_label": "Verbas-período",
+    "keywords": ["férias em dobro", "férias simples", "período aquisitivo", "2020/2021", "2021/2022", "2022/2023", "2023/2024", "férias proporcionais", "1/3 constitucional", "indenizadas", "coisa julgada", "reflexos férias", "insalubridade férias"],
+    "explicacao_curta": "A sentença deferiu férias em dobro para os períodos aquisitivos 2020/2021, 2021/2022 e 2022/2023, e férias simples para 2023/2024, além das férias proporcionais, todas com 1/3 constitucional. Há risco de o reclamante ter calculado as férias em dobro de forma incorreta (ex.: usando base salarial fixa de R$ 3.900,00, sem a evolução pelo salário mínimo) ou ter omitido períodos, com impacto direto no adicional de insalubridade que também tem reflexos em férias+1/3."
+  }
+]

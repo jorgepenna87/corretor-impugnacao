@@ -1,0 +1,230 @@
+PARECER TÉCNICO
+DADOS PROCESSUAIS
+Autos principais
+0100333-87.2023.5.01.0005
+Juízo
+5ª VARA DO TRABALHO DO RIO DE JANEIRO — TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+Reclamante
+MÁRCIO DUARTE FONSECA
+Reclamada
+COMERCIAL VEROCITY DISTRIBUIDORA LTDA
+Ajuizamento
+22/02/2025
+Prescrição
+—
+DADOS CONTRATUAIS
+Admissão
+13/05/2019
+Rescisão
+23/12/2024
+Modalidade
+Dispensa Sem justa Causa
+DOS PEDIDOS DEFERIDOS
+INTEGRAÇÕES DE COMISSÕES
+SENTENÇA
+Trecho da sentença
+"Arbitro o valor médio das comissões pagas “por fora” em R$ 1.700,00 mensais, montante que se extrai da média dos créditos identificados nos extratos e que melhor se ajusta à prova dos autos, devendo tal parcela ser incorporada à base remuneratória do reclamante ao longo de todo o pacto laboral.
+Por conseguinte, resta procedente o pedido para reconhecer a natureza salarial das comissões pagas “por fora”, conforme planilha apresentada pela parte autora na inicial, condenando a reclamada ao pagamento das diferenças daí decorrentes, observada a habitualidade.
+As comissões pagas “por fora”, ora reconhecidas como salário, repercutem no repouso semanal remunerado (RSR), na forma da Lei 605/49 e da Súmula 27 do TST, e, uma vez integradas com o respectivo RSR, projetam-se no 13º salário, nas férias acrescidas de 1/3, no aviso prévio e no FGTS + 40%, tudo a ser apurado em regular liquidação, observada a evolução da parcela ao longo do contrato."
+Resumo técnico da parametrização
+Verba deferida: Integração das comissões pagas "por fora".
+Natureza jurídica: Salarial (art. 457, §1º, da CLT).
+Valor arbitrado: R$ 1.700,00 mensais.
+Período: Todo o pacto laboral.
+Critério de apuração: Conforme planilha apresentada na petição inicial, observada a habitualidade e a evolução da parcela ao longo do contrato.
+Integração inicial: Comissões pagas por fora incorporadas à remuneração.
+Reflexo direto: RSR.
+Reflexos subsequentes: 13º salário, férias acrescidas de 1/3, aviso-prévio e FGTS + 40%.
+Liquidação: Apuração em regular liquidação de sentença.
+HORAS EXTRAS 50%
+SENTENÇA
+"Reputo, assim, demonstrada a jornada declinada na inicial, que ora fixo nos seguintes termos: de segunda a sexta-feira, das 8h às 19h, com 30 minutos de intervalo; e, em sábados e domingos alternados, das 8h às 15h, sem intervalo, observada a folga compensatória do dia subsequente do final de semana.
+Sobre tal jornada, são devidas horas extras, assim consideradas as excedentes da 8ª (oitava) diária e, sucessivamente e de forma não cumulativa, as excedentes da 44ª (quadragésima quarta) semanal, adotando-se, para o cálculo, o critério que se revelar mais benéfico ao trabalhador em cada período, a fim de se evitar bis in idem.
+As horas extras serão remuneradas com o adicional de 50% (cinquenta por cento), ou outro mais vantajoso previsto em norma coletiva, e calculadas mediante a observância das seguintes diretrizes: (i) a base de cálculo deverá integrar todas as parcelas de natureza salarial percebidas pelo reclamante, inclusive as comissões pagas “por fora” ora reconhecidas, na forma da Súmula 264 do TST; (ii) quanto à parcela variável da remuneração (comissões), observar-se-á a Súmula 340 do TST, sendo devido, sobre as horas extras correspondentes ao labor já remunerado por comissão, apenas o adicional respectivo, calculado sobre o valor-hora das comissões, sem prejuízo da hora cheia (hora normal acrescida do adicional) incidente sobre a parcela fixa; (iii) adotar-se-á o divisor 220.
+As horas extras deferidas, ante a sua habitualidade, repercutem em repousos semanais remunerados (Súmula 172 do TST) e, com estes, em 13º salário, férias acrescidas de 1/3, aviso prévio e FGTS + 40%, observada, quanto à integração dos reflexos do RSR majorado nas demais parcelas, a orientação da OJ 394 da SDI-1 do TST, na redação que lhe foi conferida pelo Tema Repetitivo respectivo, a partir de sua vigência."
+Resumo técnico da parametrização
+Verba deferida: Horas extras.
+Jornada fixada:
+Segunda a sexta-feira: das 8h às 19h, com 30 minutos de intervalo.
+Sábados e domingos alternados: das 8h às 15h, sem intervalo.
+Folga compensatória no dia subsequente ao labor de final de semana.
+Horas extras devidas:
+Excedentes da 8ª hora diária.
+Sucessivamente e sem cumulação, excedentes da 44ª hora semanal.
+Aplicação do critério mais benéfico ao trabalhador em cada período, vedado bis in idem.
+Adicional: 50%, ou percentual superior previsto em norma coletiva.
+Base de cálculo: Todas as parcelas de natureza salarial, inclusive as comissões pagas "por fora" reconhecidas na sentença.
+Comissões: Aplicação da Súmula 340 do TST.
+Sobre a parcela variável (comissões), devido apenas o adicional de horas extras.
+Sobre a parcela fixa, devido o pagamento da hora normal acrescida do adicional.
+Divisor: 220.
+Reflexos diretos: RSR (Súmula 172 do TST).
+Reflexos subsequentes: 13º salário, férias acrescidas de 1/3, aviso-prévio e FGTS + 40%.
+Integração do RSR majorado: Observância da OJ 394 da SDI-1 do TST, na redação do Tema Repetitivo aplicável, a partir de sua vigência.
+INTERVALO INTRAJORNADA
+SENTENÇA
+"Reconhecida a supressão parcial e total do intervalo intrajornada, e na forma do art. 71, §4º, da CLT, com a redação que lhe foi dada pela Lei 13.467/2017, condeno a reclamada ao pagamento do período suprimido, com acréscimo de 50% sobre o valor da hora normal de trabalho, parcela de natureza indenizatória, assim quantificada: (i) nos dias úteis, 30 (trinta) minutos diários correspondentes à fração suprimida; e (ii) nos sábados e domingos efetivamente laborados, 1 (uma) hora diária. Por ostentar a verba, no atual regime legal, natureza indenizatória, não há reflexos a deferir."
+Resumo técnico da parametrização
+Verba deferida: Intervalo intrajornada suprimido.
+Fundamento: Art. 71, §4º, da CLT (redação da Lei 13.467/2017).
+Período deferido:
+Dias úteis: 30 minutos diários (supressão parcial do intervalo).
+Sábados e domingos efetivamente trabalhados: 1 hora diária (supressão total do intervalo).
+Critério de cálculo: Pagamento apenas do período suprimido.
+Adicional: 50% sobre o valor da hora normal.
+Natureza da parcela: Indenizatória.
+Base de cálculo: Valor da hora normal de trabalho.
+Reflexos: Indevidos, em razão da natureza indenizatória da parcela.
+HONORÁRIOS DE SUCUMBÊNCIA
+SENTENÇA
+"Devidos honorários advocatícios sucumbenciais aos patronos do reclamante, na forma do art. 791-A da CLT, fixados em 10% (dez por cento) sobre o valor líquido da condenação, assim entendido aquele apurado em liquidação, sem a dedução dos descontos fiscais e previdenciários, nos termos da Orientação Jurisprudencial 348 da SDI-1 do TST."
+Resumo técnico da parametrização
+Verba deferida: Honorários advocatícios sucumbenciais em favor dos patronos do reclamante.
+Fundamento: Art. 791-A da CLT.
+Percentual: 10%.
+Base de cálculo: Valor líquido da condenação apurado em liquidação.
+Critério específico: A base de cálculo deve ser apurada sem dedução das contribuições previdenciárias e do imposto de renda.
+Observância: OJ 348 da SDI-1 do TST.
+ATUALIZAÇÃO MONETÁRIA E JUROS
+SENTENÇA
+"Nos termos do quanto decidido pelo Supremo Tribunal Federal no julgamento das ADCs 58 e 59 e das ADIs 5867 e 6021, determino, para a atualização dos créditos trabalhistas ora reconhecidos, a aplicação dos seguintes critérios:
+• na fase pré-judicial, isto é, até a data do ajuizamento da ação, incidirá o IPCA-E a título de correção monetária, acrescido dos juros de mora de 1% (um por cento) ao mês, na forma do art. 39, caput, da Lei 8.177/91;
+• a partir do ajuizamento da ação, incidirá, de forma única e exclusiva, a taxa SELIC, que já engloba, a um só tempo, a correção monetária e os juros de mora, vedada a sua cumulação com qualquer outro índice de atualização ou juros, sob pena de bis in idem.
+Observe-se, quanto aos juros, o disposto na Súmula 200 do TST, devendo incidir sobre o valor bruto da condenação."
+Resumo técnico da parametrização
+Correção monetária pré-judicial: IPCA-E.
+Período pré-judicial: Do vencimento de cada parcela até a data do ajuizamento da ação.
+Juros pré-judiciais: 1% ao mês, nos termos do art. 39 da Lei 8.177/91.
+Período judicial: A partir da data do ajuizamento da ação.
+Índice aplicável após o ajuizamento: Taxa SELIC.
+Composição da SELIC: Engloba simultaneamente correção monetária e juros de mora.
+Vedação: Proibida a cumulação da SELIC com qualquer outro índice de correção monetária ou juros de mora.
+Fundamento: ADCs 58 e 59 e ADIs 5.867 e 6.021 do STF.
+Base de incidência dos juros: Valor bruto da condenação.
+Observância: Súmula 200 do TST.
+CUSTAS PROCESSUAIS
+SENTENÇA
+Custas pela reclamada, no valor de R$ 1.353,44, calculadas à razão de 2% sobre o
+valor da causa de R$ 67.672,00.
+Percentual
+2%
+Responsável
+Reclamada
+Base de cálculo
+67.672,00
+DAS IMPUGNAÇÕES
+DA LIMITAÇÃO INDEVIDA - PRESCRIÇÃO NÃO DECLARADA
+A Reclamada, em seus cálculos, promoveu indevida limitação temporal sob fundamento de prescrição, excluindo parcelas anteriores a determinado marco, como se houvesse pronunciamento judicial nesse sentido.
+Ocorre que tal conduta não encontra qualquer amparo no título executivo judicial.
+A sentença exequenda não fixou prescrição bienal ou quinquenal de forma expressa, tampouco delimitou o período de apuração das parcelas deferidas sob tal critério. Assim, a tentativa da Reclamada de impor restrição temporal na fase de liquidação configura indevida inovação, violando os limites objetivos da coisa julgada, nos termos dos arts. 879, §1º, da CLT e 502 e 503 do CPC.
+A liquidação deve estrita observância ao comando decisório, sendo vedado às partes — especialmente à executada — restringir ou modificar o alcance do título executivo sob fundamento não acolhido na fase de conhecimento.
+Caso houvesse interesse na arguição de prescrição, deveria ter sido oportunamente apreciada e expressamente consignada na sentença, o que não ocorreu. Logo, inexiste base jurídica para qualquer limitação temporal dos créditos reconhecidos.
+Dessa forma, devem ser integralmente afastados os cortes realizados pela Reclamada sob alegação de prescrição, com a consequente recomposição dos cálculos ao período completo reconhecido na condenação.
+DA APURAÇÃO DAS HORAS EXTRAS
+SENTENÇA / DECISÃO
+"Reputo, assim, demonstrada a jornada declinada na inicial, que ora fixo nos seguintes termos: de segunda a sexta-feira, das 8h às 19h, com 30 minutos de intervalo; e, em sábados e domingos alternados, das 8h às 15h, sem intervalo, observada a folga compensatória do dia subsequente do final de semana.
+Sobre tal jornada, são devidas horas extras, assim consideradas as excedentes da 8ª (oitava) diária e, sucessivamente e de forma não cumulativa, as excedentes da 44ª (quadragésima quarta) semanal, adotando-se, para o cálculo, o critério que se revelar mais benéfico ao trabalhador em cada período, a fim de se evitar bis in idem.
+"Reputo, assim, demonstrada a jornada declinada na inicial, que ora fixo nos seguintes termos: de segunda a sexta-feira, das 8h às 19h, com 30 minutos de intervalo; e, em sábados e domingos alternados, das 8h às 15h, sem intervalo, observada a folga compensatória do dia subsequente do final de semana.
+Sobre tal jornada, são devidas horas extras, assim consideradas as excedentes da 8ª (oitava) diária e, sucessivamente e de forma não cumulativa, as excedentes da 44ª (quadragésima quarta) semanal, adotando-se, para o cálculo, o critério que se revelar mais benéfico ao trabalhador em cada período, a fim de se evitar bis in idem.
+A Reclamada apurou as horas extras exclusivamente com base no excesso à 44ª hora semanal, desconsiderando a expressa determinação contida no título executivo quanto à apuração também pelo critério diário.
+Todavia, a sentença foi categórica ao fixar que são devidas horas extras “assim consideradas as excedentes da 8ª (oitava) diária e, sucessivamente e de forma não cumulativa, as excedentes da 44ª (quadragésima quarta) semanal, adotando-se o critério que se revelar mais benéfico ao trabalhador em cada período”.
+Trata-se, portanto, de comando que impõe dupla aferição das horas extraordinárias — tanto sob o prisma diário quanto semanal — com posterior apuração pelo critério mais vantajoso ao trabalhador, vedada qualquer limitação unilateral a apenas uma das metodologias.
+A metodologia adotada pela Reclamada, ao considerar exclusivamente o critério semanal, importa em indevida restrição do comando sentencial, reduzindo artificialmente o quantum devido e violando os limites da coisa julgada (art. 879, §1º, da CLT).
+A apuração correta exige o confronto entre os dois critérios fixados no título executivo, com apuração das horas excedentes à 8ª diária e, igualmente, da 44ª semanal, prevalecendo, em cada período, o resultado mais benéfico ao exequente, sob pena de enriquecimento sem causa da parte executada.
+Dessa forma, impugnam-se os cálculos apresentados, requerendo-se a sua retificação para observância integral do título executivo, com apuração das horas extras pelos critérios diário e semanal, aplicando-se o critério mais favorável ao trabalhador.
+DA APURAÇÂO DAS HORAS EXTRAS - PARTE FIXA
+SENTENÇA / DECISÃO
+As horas extras serão remuneradas com o adicional de 50% (cinquenta por cento), ou outro mais vantajoso previsto em norma coletiva, e calculadas mediante a observância das seguintes diretrizes: (i) a base de cálculo deverá integrar todas as parcelas de natureza salarial percebidas pelo reclamante, inclusive as comissões pagas “por fora” ora reconhecidas, na forma da Súmula 264 do TST; (ii) quanto à parcela variável da remuneração (comissões), observar-se-á a Súmula 340 do TST, sendo devido, sobre as horas extras correspondentes ao labor já remunerado por comissão, apenas o adicional respectivo, calculado sobre o valor-hora das comissões, sem prejuízo da hora cheia (hora normal acrescida do adicional) incidente sobre a parcela fixa; (iii) adotar-se-á o divisor 220.
+A Reclamada apurou as horas extras aplicando de forma uniforme apenas o adicional de 50% tanto sobre a parcela fixa quanto sobre a parcela variável da remuneração, em manifesta desconformidade com o título executivo e com a jurisprudência consolidada do C. TST.
+A sentença foi expressa ao determinar critérios distintos para a composição da remuneração-base das horas extras, estabelecendo que:
+(i) a base de cálculo deve integrar todas as parcelas de natureza salarial, nos termos da Súmula 264 do TST;
+(ii) quanto à parcela variável (comissões), deve ser observada a Súmula 340 do TST, segundo a qual, nas horas extras do empregado com remuneração variável, é devido apenas o adicional respectivo sobre o valor-hora das comissões, sem duplicação da hora normal;
+(iii) adoção do divisor 220.
+Ocorre que a Reclamada desconsidera completamente a sistemática fixada no título executivo ao aplicar apenas o adicional de 50% de forma linear sobre toda a remuneração, sem distinguir a parcela fixa da parcela variável.
+Tal procedimento implica distorção do método de apuração das horas extras, pois:
+quanto à parcela fixa, é devido o pagamento da hora normal acrescida do adicional de 50% (ou convencional mais benéfico);
+quanto à parcela variável (comissões), deve ser observado o entendimento da Súmula 340 do TST, com pagamento apenas do adicional sobre o valor-hora já remunerado pelas comissões, evitando duplicidade de pagamento da hora simples.
+A adoção de critério único de adicional sobre toda a remuneração implica indevida simplificação do cálculo, em afronta direta ao comando sentencial e à técnica consolidada pelo TST, resultando em apuração incorreta do quantum devido.
+Além disso, a ausência de observância da base de cálculo composta por todas as parcelas salariais também viola a Súmula 264 do TST, que determina a integração ampla das verbas de natureza salarial na base das horas extras.
+DA INCLUSÃO DO REPOUSO NA BASE DE CÁLCULO DAS HORAS EXTRAS
+SENTENÇA / DECISÃO
+As horas extras serão remuneradas com o adicional de 50% (cinquenta por cento), ou outro mais vantajoso previsto em norma coletiva, e calculadas mediante a observância das seguintes diretrizes: (i) a base de cálculo deverá integrar todas as parcelas de natureza salarial percebidas pelo reclamante, inclusive as comissões pagas “por fora” ora reconhecidas, na forma da Súmula 264 do TST; (ii) quanto à parcela variável da remuneração (comissões), observar-se-á a Súmula 340 do TST, sendo devido, sobre as horas extras correspondentes ao labor já remunerado por comissão, apenas o adicional respectivo, calculado sobre o valor-hora das comissões, sem prejuízo da hora cheia (hora normal acrescida do adicional) incidente sobre a parcela fixa; (iii) adotar-se-á o divisor 220.
+A Reclamada, ao proceder à apuração das horas extras incidentes sobre a parcela variável da remuneração, com base na Súmula 340 do TST, deixou de incluir o repouso semanal remunerado (RSR) na composição da base de cálculo do valor-hora das comissões.
+Tal metodologia está em desacordo com o título executivo e com a sistemática remuneratória consolidada.
+A sentença foi expressa ao determinar que a base de cálculo das horas extras deve integrar todas as parcelas de natureza salarial percebidas pelo Reclamante, inclusive comissões pagas “por fora”, nos termos da Súmula 264 do TST, bem como que, em relação à parcela variável, deve ser observada a Súmula 340 do TST.
+Ocorre que a correta aplicação da Súmula 340 pressupõe que o valor-hora da remuneração variável reflita a totalidade das comissões efetivamente recebidas, o que inclui os reflexos no repouso semanal remunerado, parcela de natureza salarial e integrante da remuneração habitual do trabalhador.
+Ao excluir o RSR da base de cálculo das comissões para apuração do valor-hora, a Reclamada reduz indevidamente o divisor remuneratório da parcela variável, ocasionando diminuição artificial do adicional de horas extras devido.
+Trata-se, portanto, de erro metodológico que compromete a própria fidelidade da apuração à remuneração efetivamente percebida pelo Reclamante, violando o comando sentencial e o princípio da integralidade da remuneração para fins de cálculo das horas extraordinárias.
+A correta apuração exige que o valor-hora da parcela variável considere a totalidade das comissões habitualmente recebidas, com a devida integração do RSR, sob pena de subdimensionamento indevido da base de cálculo e consequente redução do adicional devido.
+Dessa forma, impugnam-se os cálculos da Reclamada, requerendo-se sua retificação para que, na aplicação da Súmula 340 do TST, seja considerada a integralidade da remuneração variável, inclusive com o repouso semanal remunerado, conforme integração determinada pelo título executivo e pela Súmula 264 do TST.
+DO CÁLCULO INCORRETO DA INDENIZAÇÃO PELO INTERVALO INTRAJORNADA
+SENTENÇA / DECISÃO
+"Reconhecida a supressão parcial e total do intervalo intrajornada, e na forma do art. 71, §4º, da CLT, com a redação que lhe foi dada pela Lei 13.467/2017, condeno a reclamada ao pagamento do período suprimido, com acréscimo de 50% sobre o valor da hora normal de trabalho, parcela de natureza indenizatória, assim quantificada: (i) nos dias úteis, 30 (trinta) minutos diários correspondentes à fração suprimida; e (ii) nos sábados e domingos efetivamente laborados, 1 (uma) hora diária. Por ostentar a verba, no atual regime legal, natureza indenizatória, não há reflexos a deferir."
+A Reclamada apurou a indenização pelo intervalo intrajornada suprimido aplicando apenas o adicional de 50%, com metodologia vinculada indevidamente à lógica da Súmula 340 do TST, além de desconsiderar a integração do repouso semanal remunerado (RSR) na base de cálculo do valor-hora.
+Todavia, tal procedimento está em manifesta desconformidade com o título executivo.
+A sentença foi expressa ao condenar a Reclamada ao pagamento do período suprimido do intervalo intrajornada, com acréscimo de 50% sobre o valor da hora normal de trabalho, nos termos do art. 71, §4º, da CLT, atribuindo à verba natureza indenizatória e afastando expressamente qualquer reflexo.
+Trata-se, portanto, de parcela de natureza própria e autônoma, distinta das horas extras propriamente ditas, razão pela qual não se submete à sistemática da Súmula 340 do TST, a qual se restringe às hipóteses de remuneração variável por comissões nas horas extraordinárias.
+A indevida aplicação da Súmula 340 pela Reclamada distorce a natureza jurídica da verba e conduz à apuração incorreta do quantum devido.
+Além disso, ainda que se trate de indenização correspondente ao valor da hora normal acrescida de adicional de 50%, o cálculo deve observar corretamente o valor-hora integral da remuneração do Reclamante, o qual inclui todas as parcelas de natureza salarial, nos termos da Súmula 264 do TST, sendo indevida a exclusão do repouso semanal remunerado (RSR) da base de cálculo.
+A exclusão do RSR implica redução artificial do valor da hora normal, com consequente diminuição indevida da indenização devida pelo intervalo suprimido.
+DOS HONORÁRIOS - EFEITO SUSPENSIVO
+SENTENÇA / DECISÃO
+Tendo o reclamante decaído dos pedidos de diferenças salariais por acúmulo de
+função, por equiparação e de diferenças de adicional de insalubridade, são devidos
+honorários advocatícios sucumbenciais em favor dos patronos da reclamada, que arbitro,
+considerando os critérios do §2º do art. 791-A da CLT e a expressão econômica dos
+pedidos rejeitados, no valor de R$ 1.500,00 (mil e quinhentos reais).
+Todavia, sendo o reclamante beneficiário da gratuidade de justiça, a exigibilidade
+da referida verba permanecerá suspensa pelo prazo e nas condições do §4º do art. 791-A
+da CLT, somente podendo ser executada se, nos dois anos subsequentes ao trânsito em
+julgado, o credor demonstrar a cessação do estado de hipossuficiência, extinguindo-se,
+decorrido tal prazo, a obrigação.
+A Reclamada procedeu à dedução imediata do valor arbitrado a título de honorários advocatícios sucumbenciais do crédito do Reclamante.
+Todavia, tal conduta afronta diretamente o comando expresso do título executivo judicial.
+A sentença foi categórica ao estabelecer que, sendo o Reclamante beneficiário da gratuidade de justiça, a exigibilidade da verba honorária sucumbencial permanecerá suspensa, nos termos do art. 791-A, §4º, da CLT, somente podendo ser executada se, no prazo legal de dois anos após o trânsito em julgado, o credor demonstrar a cessação da condição de hipossuficiência.
+Dessa forma, não há qualquer autorização judicial para abatimento imediato ou compensação do crédito do Reclamante com honorários de sucumbência devidos à Reclamada.
+A suspensão da exigibilidade implica justamente a impossibilidade de execução presente da verba, não se confundindo com compensação automática ou dedução em fase de liquidação.
+A dedução promovida pela Reclamada altera indevidamente o alcance do título executivo, violando os limites da coisa julgada (art. 879, §1º, da CLT), bem como a sistemática específica do art. 791-A, §4º, da CLT.
+Portanto, deve ser afastada a dedução realizada a tal título, com a consequente recomposição integral do crédito do Reclamante, permanecendo os honorários sucumbenciais sob regime de suspensão de exigibilidade, nos termos estritos da sentença.
+DA INTEGRAÇÃO DOS REPOUSOS NAS DEMAIS VERBAS
+SENTENÇA / DECISÃO
+As horas extras deferidas, ante a sua habitualidade, repercutem em repousos semanais remunerados (Súmula 172 do TST) e, com estes, em 13º salário, férias acrescidas de 1/3, aviso prévio e FGTS + 40%, observada, quanto à integração dos reflexos do RSR majorado nas demais parcelas, a orientação da OJ 394 da SDI-1 do TST, na redação que lhe foi conferida pelo Tema Repetitivo respectivo, a partir de sua vigência.
+A Reclamada apurou os reflexos das horas extras de forma incompleta, deixando de integrar os repousos semanais remunerados majorados nas demais parcelas deferidas, em desacordo com o título executivo.
+A sentença foi expressa ao determinar que as horas extras repercutem em repousos semanais remunerados (Súmula 172 do TST) e, com estes, em 13º salário, férias acrescidas de 1/3, aviso prévio e FGTS + 40%, observando-se, quanto à integração dos reflexos do RSR majorado nas demais parcelas, a orientação da OJ 394 da SDI-1 do TST, na redação vigente.
+Ocorre que a Reclamada não observou tal comando, limitando-se a calcular reflexos diretos das horas extras sobre as verbas principais, sem proceder à correta integração do RSR majorado na base de cálculo das demais parcelas.
+Tal procedimento viola frontalmente a metodologia determinada no título executivo, uma vez que a OJ 394 da SDI-1 do TST estabelece justamente que os repousos semanais remunerados, quando majorados pela integração de horas extras habituais, devem repercutir nas demais verbas salariais, evitando-se a fragmentação indevida da remuneração.
+A ausência dessa integração resulta em subdimensionamento do 13º salário, férias + 1/3, aviso prévio e FGTS + 40%, reduzindo indevidamente o crédito do Reclamante.
+Dessa forma, impugnam-se os cálculos apresentados, requerendo-se sua retificação para que sejam observados integralmente os comandos da sentença, com a correta integração dos repousos semanais remunerados majorados (OJ 394 da SDI-1 do TST) nas demais verbas reflexas.
+DOS JUROS NA FASE PRÉ JUDICIAL
+SENTENÇA / DECISÃO
+SENTENÇA
+"Nos termos do quanto decidido pelo Supremo Tribunal Federal no julgamento das ADCs 58 e 59 e das ADIs 5867 e 6021, determino, para a atualização dos créditos trabalhistas ora reconhecidos, a aplicação dos seguintes critérios:
+• na fase pré-judicial, isto é, até a data do ajuizamento da ação, incidirá o IPCA-E a título de correção monetária, acrescido dos juros de mora de 1% (um por cento) ao mês, na forma do art. 39, caput, da Lei 8.177/91;
+• a partir do ajuizamento da ação, incidirá, de forma única e exclusiva, a taxa SELIC, que já engloba, a um só tempo, a correção monetária e os juros de mora, vedada a sua cumulação com qualquer outro índice de atualização ou juros, sob pena de bis in idem.
+Observe-se, quanto aos juros, o disposto na Súmula 200 do TST, devendo incidir sobre o valor bruto da condenação."
+A Reclamada incorreu em erro material relevante ao apurar a atualização dos créditos na fase pré-judicial mediante aplicação da TRD, em manifesta desconformidade com o título executivo.
+A sentença foi expressa ao determinar que, até a data do ajuizamento da ação, deve ser aplicado o IPCA-E como índice de correção monetária, acrescido de juros de mora de 1% ao mês, nos termos do art. 39, caput, da Lei 8.177/91, em conformidade com o quanto decidido pelo STF nas ADCs 58 e 59 e ADIs 5867 e 6021.
+Ocorre que a Reclamada substituiu indevidamente o critério fixado em sentença pela TRD, índice que não integra o comando condenatório e que, além disso, não corresponde ao regime jurídico estabelecido para a fase pré-judicial.
+Tal substituição altera substancialmente o resultado da atualização, reduzindo indevidamente o crédito exequendo, em violação direta aos limites da coisa julgada e ao art. 879, §1º, da CLT.
+Ressalte-se que a sentença não apenas fixou o IPCA-E como índice de correção, como também determinou a incidência cumulativa de juros de mora de 1% ao mês até o ajuizamento, o que reforça a impropriedade da adoção de qualquer índice substitutivo como a TRD.
+Dessa forma, impugnam-se os cálculos apresentados pela Reclamada, requerendo-se sua retificação para observância estrita do título executivo, com aplicação do IPCA-E acrescido de juros de mora de 1% ao mês na fase pré-judicial, afastando-se integralmente a TRD.
+DOS REFLEXOS NO FGTS
+A Reclamada apurou o FGTS de forma restritiva, deixando de incluir na sua base de cálculo os reflexos das parcelas deferidas, em desconformidade com o título executivo e com a jurisprudência consolidada do C. TST.
+O FGTS deve incidir sobre todas as parcelas de natureza salarial deferidas na condenação, bem como sobre os respectivos reflexos reconhecidos, conforme orientação pacífica do Tribunal Superior do Trabalho.
+Ao excluir os reflexos das verbas deferidas da base de incidência do FGTS, a Reclamada promoveu indevida redução do montante devido, restringindo artificialmente a base de cálculo e violando a integralidade remuneratória reconhecida em juízo.
+Tal procedimento afronta o comando sentencial e o regime jurídico do FGTS, que determina a incidência sobre a remuneração global devida ao trabalhador, incluindo parcelas principais e seus reflexos salariais.
+Dessa forma, impugnam-se os cálculos apresentados, requerendo-se sua retificação para que o FGTS incida sobre todas as parcelas de natureza salarial deferidas, inclusive seus reflexos, conforme determinado pelo título executivo e pela jurisprudência do TST.
+DA BASE DOS HONORÁRIOS
+SENTENÇA / DECISÃO
+"Devidos honorários advocatícios sucumbenciais aos patronos do reclamante, na forma do art. 791-A da CLT, fixados em 10% (dez por cento) sobre o valor líquido da condenação, assim entendido aquele apurado em liquidação, sem a dedução dos descontos fiscais e previdenciários, nos termos da Orientação Jurisprudencial 348 da SDI-1 do TST."
+A Reclamada procedeu à dedução do INSS antes da apuração dos honorários advocatícios sucumbenciais, alterando indevidamente a base de cálculo utilizada para a incidência da verba honorária.
+Todavia, tal metodologia não encontra respaldo no título executivo.
+A sentença determina a apuração dos honorários sucumbenciais com base na expressão econômica dos pedidos deferidos, o que pressupõe a consideração do crédito bruto efetivamente reconhecido em favor da parte vencedora, antes de quaisquer deduções que não estejam expressamente autorizadas no comando condenatório.
+Ao antecipar a dedução do INSS, a Reclamada reduz artificialmente a base de cálculo dos honorários, ocasionando diminuição indevida da verba devida, em prejuízo do exequente e em desconformidade com os limites da coisa julgada (art. 879, §1º, da CLT).
+A lógica de apuração correta impõe que os honorários sucumbenciais incidam sobre o montante da condenação apurado conforme o título executivo, sem prévia redução por descontos fiscais ou previdenciários, salvo expressa determinação em sentido contrário, o que não ocorre no caso dos autos.
+Dessa forma, impugnam-se os cálculos apresentados, requerendo-se a retificação para que a base de cálculo dos honorários sucumbenciais observe o crédito bruto apurado, afastando-se a dedução antecipada do INSS.
+CONCLUSÃO
+Encerrado os trabalhos, com a demonstração dos cálculos e dos critérios de apuração das verbas deferidas no julgado.
+Rio de Janeiro, 22 de junho de 2026.
+Djane Tavares
+13215484984

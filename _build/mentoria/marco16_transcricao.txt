@@ -1,0 +1,2213 @@
+# Transcricao — Mentoria Coletiva 16/03/2026
+
+**Aula:** Mentoria Coletiva 16/03 (lesson 3244, videoId 491f6d3f-5b8a-4ba1-883c-76b831dbe664)
+**Duracao:** 01:54:48  |  **Modelo:** faster-whisper large-v3 (GPU, int8)
+**Processo exercicio:** 0100912-64.2025.5.01.0005 — Alberto Teixeira Marins x Sunflow Suplementos
+
+> Transcricao automatica. Conferir trechos criticos no audio.
+
+## Texto com marcacao de tempo
+
+[00:00:00] Então, olha só, vamos fazer o parecer e o parecer vai ficar aqui no resultado do exercício, na pasta, tá?
+[00:00:22] Vamos lá.
+[00:00:25] Primeiro do parecer, vamos escrever os detalhes.
+[00:00:29] Vou fazer outra coisa aqui.
+[00:00:40] Melhorou, né?
+[00:00:45] Então, olha só, para parecer técnico aqui, número do processo.
+[00:00:52] Aqui está o número do processo.
+[00:00:54] Professor, eu tenho que compartilhar a tela.
+[00:00:57] Estou vendo a tela, não.
+[00:00:58] Então, o número do processo aqui não é um cumprimento de sentença.
+[00:01:12] Vamos excluir.
+[00:01:18] O juízo é Quinta Vara do Trabalho Rio de Janeiro, onde eu trabalho.
+[00:01:25] Nossa, mas com esse mouse aqui fica difícil...
+[00:01:35] Pronto.
+[00:01:36] Ô, Jorge.
+[00:01:38] Oi.
+[00:01:38] A Renata está falando aqui.
+[00:01:40] Esse modelo de parecer técnico tem nas suas aulas?
+[00:01:43] Eu ainda não cheguei até os 5 e já estou praticando já.
+[00:01:46] Tem no...
+[00:01:46] No...
+[00:01:47] No...
+[00:01:48] Prospecção.
+[00:01:51] Professor.
+[00:01:52] Hum?
+[00:01:53] Consegue deixar esse atalho do oráculo também na pasta?
+[00:01:59] Hum...
+[00:02:03] Vou deixar junto com o parecer, tá?
+[00:02:05] Tá.
+[00:02:06] Ih, cadê?
+[00:02:07] Copia e cola aí para mim.
+[00:02:10] Professor.
+[00:02:12] Oi.
+[00:02:13] Para mim, na aba de prospecção, só está aparecendo que certas aulas vão ficar disponíveis só a partir de julho.
+[00:02:19] Incluindo essa de...
+[00:02:21] Essas aulas de impugnamento.
+[00:02:22] E eu queria saber se está correto ou se...
+[00:02:25] É isso mesmo.
+[00:02:26] É isso mesmo.
+[00:02:27] É isso mesmo.
+[00:02:27] Que eu preciso que você foque em outras coisas antes da impugnação.
+[00:02:31] Ah, entendi.
+[00:02:32] Aí, eu estava procurando esse parecer, né?
+[00:02:34] Para utilizar como modelo, mas eu entendi agora.
+[00:02:37] Está lá no prospecção.
+[00:02:38] Então, a gente tem aqui já a nossa sentençazinha.
+[00:09:46] E forma...
+[00:09:49] Resumo objetivo do que restou definido.
+[00:09:51] E aí, o que você acha?
+[00:09:52] O que você acha?
+[00:09:53] O que você acha?
+[00:09:54] O que você acha?
+[00:09:55] O que você acha?
+[00:09:55] O que você acha?
+[00:10:00] Está pronto ou não está o parecer?
+[00:10:07] Hein?
+[00:10:08] Eu achei que o parecer tivesse que fazer depois do cálculo.
+[00:10:13] Então, o que é que...
+[00:10:14] Não, não, não, não.
+[00:10:15] Não, não, não, não.
+[00:10:17] O parecer, ele é o resumo da sentença.
+[00:10:23] Então, para você não ter que mais ficar usando a sentença,
+[00:10:28] o processo, você faz o parecer primeiro.
+[00:10:31] E com o parecer, você vai fazer o cálculo dos seus honorários.
+[00:10:40] Quanto deu o honorário de vocês aí?
+[00:10:47] Escreve aí no chat.
+[00:10:52] Seus honorários não é o percentual em cima do valor do cálculo?
+[00:10:57] Pode ser, mas você já vai começar fazendo assim?
+[00:11:02] Se você conseguir cobrar assim, ótimo.
+[00:11:06] Porque você está falando dos honorários de sucumbência, não é isso ou não?
+[00:11:09] Não, seus honorários, como assistente.
+[00:11:12] Tá.
+[00:11:13] Tá?
+[00:11:16] Eu estou cobrando aqui uma média assim, o cálculo mínimo que eu estou cobrando é 500.
+[00:11:22] Maravilha.
+[00:11:24] Aqui a gente tem a planilha de precificação.
+[00:11:27] Está todo mundo vendo aqui a planilha de precificação?
+[00:11:31] Eu vou fazer a minha precificação.
+[00:11:33] A minha precificação.
+[00:11:34] Quantos cálculos você já fez?
+[00:11:36] Mais de 5 mil.
+[00:11:38] Você já recebeu mais de 10 nomeações?
+[00:11:40] Eu vou dizer que sim, porque eu trabalho lá dentro.
+[00:11:42] Então, eu já fiz cálculos mais difíceis.
+[00:11:43] Que as nomeações.
+[00:11:46] É urgente?
+[00:11:46] Não.
+[00:11:47] Então, quantos anos de contrato?
+[00:11:49] Quantos anos de contrato foram aqui?
+[00:11:53] Foram meses, não é?
+[00:11:55] Não, de 23 a 25.
+[00:11:56] A vida é 25, é.
+[00:11:58] 23 a 24, 24 a 25, é.
+[00:12:01] Dois anos.
+[00:12:03] Última remuneração do TRCT?
+[00:12:06] Para quanto que foi?
+[00:12:07] 6.458.
+[00:12:10] 6.458.
+[00:12:12] Por ação de verbo do contrato, sim.
+[00:12:14] Horas extras?
+[00:12:15] Não.
+[00:12:16] Digitação de cartão de ponto?
+[00:12:18] Não.
+[00:12:21] Digitação de valores valiares no contra-cheque?
+[00:12:23] Eu não vou considerar, não.
+[00:12:24] Então, para mim,
+[00:12:26] o meu cálculo
+[00:12:27] com impugnação e tudo,
+[00:12:30] sairia R$1.740.
+[00:12:33] Mas, para vocês,
+[00:12:34] isso seria diferente.
+[00:12:35] O Ilan, R$880.
+[00:12:37] A Débora, R$480 mais R$900
+[00:12:40] com impugnação.
+[00:12:42] Débora Maroto, R$440.
+[00:12:44] Gilmar, R$400.
+[00:12:46] Isso aqui é para você ter uma ideia
+[00:12:48] de quanto você pode cobrar
+[00:12:51] de acordo com a complexidade do cálculo
+[00:12:53] e da sua experiência, claro.
+[00:12:56] Quanto mais experiente você é,
+[00:12:58] mais você pode cobrar.
+[00:13:00] E aí você vai fazer lá o orçamento.
+[00:13:04] Você pode até pedir para o oráculo fazer.
+[00:13:07] Oráculo, faz um orçamento
+[00:13:12] para mim.
+[00:13:14] Vou apresentar
+[00:13:18] ao advogado.
+[00:13:24] R$1.760, né?
+[00:13:27] Incluído
+[00:13:28] os cálculos,
+[00:13:33] impugnações,
+[00:13:37] recursos
+[00:13:38] em fase de execução
+[00:13:42] envolvendo cálculos
+[00:13:45] e eventuais
+[00:13:49] atualizações.
+[00:13:56] Ele vai fazer até um modelinho aqui,
+[00:13:58] proporcional.
+[00:13:58] Após-general, os cálculos trabalhistas,
+[00:14:01] valor global da proposta.
+[00:14:03] Só pedir, faz um orçamento,
+[00:14:04] meu valor é esse.
+[00:14:06] A gente pode se basear com
+[00:14:08] orçamento em cima do valor da causa?
+[00:14:13] Pode.
+[00:14:14] Mas aí você vai ter que receber ao final, né?
+[00:14:19] Tem aluno que só trabalha com 3% a 5%.
+[00:14:22] Eu ia perguntar isso.
+[00:14:24] Como que a gente ia precificar
+[00:14:26] em cima do valor da causa? Em porcentagem?
+[00:14:28] Porcentagem.
+[00:14:31] Tem até um
+[00:14:33] contato,
+[00:14:34] lá na prospecção
+[00:14:36] de clientes e vários do trabalho,
+[00:14:38] que você tem um contrato
+[00:14:40] para parceria.
+[00:14:44] E aí você vai cobrar
+[00:14:45] 3%, 5%, 10%, não sei como é que você vai fazer,
+[00:14:49] sobre o valor
+[00:14:50] que você conseguir daquela condenação.
+[00:14:55] E aí você vai receber no pagamento.
+[00:14:57] E existe a opção de
+[00:14:58] olha só, eu cobro
+[00:15:00] 5% para fazer isso aqui,
+[00:15:02] mais R$1.000 ou R$2.000
+[00:15:04] de adiantamento.
+[00:15:10] Beleza? Então vamos lá.
+[00:15:18] O nosso parecer está pronto, né?
+[00:15:25] Agora vamos para o cálculo.
+[00:15:27] Eu já posso fechar aqui
+[00:15:28] e partir
+[00:15:31] para o
+[00:15:33] PJT Calc.
+[00:15:37] Vamos junto?
+[00:15:45] O tamanho está bom aqui na tela?
+[00:15:51] Digam aí, pessoal, o tamanho está bom na tela?
+[00:15:53] Está, né?
+[00:15:55] Então vamos lá.
+[00:15:58] 0100912
+[00:15:59] 642025
+[00:16:02] 0100005
+[00:16:05] Alberto Teixeira Marins
+[00:16:07] Sunflow
+[00:16:12] Suplementos
+[00:16:13] Está vendo que eu nem abri o cálculo
+[00:16:16] da outra parte ainda, né?
+[00:16:18] Nem me interessa ainda o cálculo
+[00:16:20] da outra parte.
+[00:16:25] Rio de Janeiro, admissão
+[00:16:26] dia 22 do 3 de 2023
+[00:16:30] demissão
+[00:16:32] 30 do 5 de 2025
+[00:16:34] ajuizamento
+[00:16:36] 22 do 7 de 2025
+[00:16:40] A maior remuneração
+[00:16:41] é a maior remuneração
+[00:16:42] foi para
+[00:16:43] 645822
+[00:16:46] Eu não recomendo botar
+[00:16:49] equiparação a maior remuneração.
+[00:16:52] Recomendo botar
+[00:16:53] a remuneração real dele.
+[00:16:55] Por quê?
+[00:16:57] Porque muitas vezes
+[00:16:59] é definido o verbo a decisória
+[00:17:00] e aí na equiparação
+[00:17:03] é definido o reflexo.
+[00:17:05] Então é melhor você usar nas verbas decisórias
+[00:17:07] o salário que ele recebeu mesmo
+[00:17:08] e aí a equiparação
+[00:17:11] bater
+[00:17:12] os reflexos.
+[00:17:13] Tá?
+[00:17:18] Rodrigo Bechtier
+[00:17:19] consegue cobrar 1400 dos cálculos.
+[00:17:22] Maravilha.
+[00:17:23] Caso tenha retorno 750.
+[00:17:25] Muito bom o valor que você está cobrando aí, cara.
+[00:17:28] Bem alto mesmo.
+[00:17:32] Então, já cadastramos
+[00:17:34] aqui.
+[00:17:36] Agora a gente precisa do quê?
+[00:17:39] Cadastrar os históricos.
+[00:17:41] Hã?
+[00:17:41] Histórico salarial dos dois.
+[00:17:44] Isso.
+[00:17:44] E,
+[00:17:48] para ficar molezinha para vocês,
+[00:17:50] eu dei o histórico para vocês.
+[00:17:53] E vocês sabem usar o copiar e colar, né?
+[00:17:56] Sim.
+[00:17:57] Então vem aqui no histórico.
+[00:18:00] Novo.
+[00:18:02] Salário recebido.
+[00:18:07] Colocamos aqui zero.
+[00:18:09] Contribuição social
+[00:18:11] recolhida.
+[00:18:14] Vamos vir aqui.
+[00:18:18] Ih, acabou ficando dois paradigmas.
+[00:18:20] Vocês entenderam aí, né, gente?
+[00:18:22] Sim.
+[00:18:22] Sim.
+[00:18:24] Porque a tabela ficou esquisita aqui.
+[00:18:26] Mas olha só.
+[00:18:27] Não, para entender pelo caso aqui, o último salário era de 3920,
+[00:18:30] que era a chave do empregado.
+[00:18:32] Estava escrito lá, né?
+[00:18:35] É.
+[00:18:36] O valor certinho do salário recebido, né?
+[00:18:40] O salário
+[00:18:41] devido.
+[00:18:46] Toma aqui.
+[00:18:51] Copiar aqui.
+[00:18:52] E colar.
+[00:18:58] Alguém tem dúvida sobre isso aqui?
+[00:19:00] Não.
+[00:19:05] Até aqui todo mundo viu?
+[00:19:06] Eu não sei.
+[00:19:06] Eu não sei.
+[00:19:07] Estou correndo.
+[00:19:08] Copiar e colar.
+[00:19:10] Você já assistiu a aula de copiar e colar?
+[00:19:13] Acho que não.
+[00:19:15] Tem aula disso.
+[00:19:16] Esse campo paradigma 2 é o salário devido.
+[00:19:20] É.
+[00:19:21] Acabou que na atualização aqui da planilha ficou errado.
+[00:19:25] Mas você conseguiria entender sua excelência de sentença, né?
+[00:19:28] Viu que era 6458 para 3920, né?
+[00:19:33] O senhor pode mostrar como o senhor fez para copiar?
+[00:19:35] Porque eu assisti a aula de copiar e colar.
+[00:19:38] Só que eu já consegui em outros documentos, mas nesse aqui eu não consegui selecionar
+[00:19:42] só a coluna.
+[00:19:43] Então, você vai abrir no Adobe Acrobat.
+[00:19:49] Tem que ser no Adobe.
+[00:19:53] E aí você aperta Alt e seleciona só a coluna.
+[00:19:58] Ah, certo.
+[00:19:59] Eu acho que eu...
+[00:20:00] Eu acho que eu...
+[00:20:01] Eu acho que eu...
+[00:20:02] Eu acho que eu...
+[00:20:03] Eu acho que eu...
+[00:20:04] Eu acho que eu...
+[00:20:05] Eu acho que eu...
+[00:20:06] Eu acho que eu...
+[00:20:07] Eu acho que eu...
+[00:20:00] documentos anteriores, tem a mesma
+[00:20:01] no formato. Se você não apertar o
+[00:20:04] alt, você vai selecionar tudo.
+[00:20:06] Quando você aperta o alt,
+[00:20:07] você seleciona só a coluna.
+[00:20:13] Beleza? Então nós temos aqui os históricos
+[00:20:15] salariais cadastrados.
+[00:20:18] Vamos lançar aqui, então,
+[00:20:20] a diferença
+[00:20:21] salarial, né?
+[00:20:23] Oi, Jorge. Oi. O salário
+[00:20:25] paradigma não vai contribuição social,
+[00:20:27] não, né? Não.
+[00:20:30] Porque, olha só,
+[00:20:31] qual é a lógica aqui?
+[00:20:32] O salário recebido,
+[00:20:34] a gente registra como contribuição social,
+[00:20:37] é base de contribuição social
+[00:20:38] e contribuição social
+[00:20:40] recolhida.
+[00:20:43] Porque isso tem que entrar na base
+[00:20:44] de cálculo do INSS.
+[00:20:46] Como é que funciona o INSS do autor?
+[00:20:48] Ele tem um teto.
+[00:20:50] Se o salário dele era tipo 8 mil reais,
+[00:20:52] ele não vai pagar nada de INSS,
+[00:20:54] porque ele já recolhia sobre o teto.
+[00:20:56] A gente precisa informar o valor recolhido.
+[00:20:59] Aqui,
+[00:21:00] no salário devido,
+[00:21:03] não envolve,
+[00:21:04] a gente não vai botar FGTS nem contribuição social,
+[00:21:07] porque isso aqui tem que pagar
+[00:21:08] para ele só a diferença.
+[00:21:10] Isso aqui só serve como base de cálculo
+[00:21:12] mesmo para a verba.
+[00:21:14] Então, mas quando...
+[00:21:16] Se for deferida a diferença,
+[00:21:18] tem que fazer o recolhimento do INSS, né?
+[00:21:21] Sobre a diferença.
+[00:21:22] A diferença, isso.
+[00:21:24] Mas aqui, no histórico, você não tem
+[00:21:26] como pegar a diferença.
+[00:21:28] Você pega a diferença na verba.
+[00:21:31] Né?
+[00:21:31] Por isso que você,
+[00:21:34] no salário devido, ele não recebeu,
+[00:21:36] você não marca nem FGTS,
+[00:21:38] nem contribuição social.
+[00:21:40] Por quê?
+[00:21:41] Quando você vem aqui em diferença salarial,
+[00:21:43] diferença salarial,
+[00:21:45] ó gente, uma coisa,
+[00:21:47] esse aqui é uma verba só.
+[00:21:49] Numerem as verbas que vocês estão lançando.
+[00:21:52] Mesmo...
+[00:21:54] Aqui é uma verba só, não vai fazer diferença.
+[00:21:56] Mas quando você tá lançando 10 verbas diferentes,
+[00:21:59] numere ela.
+[00:22:01] Vai ficar muito mais bonito o seu cálculo, tá?
+[00:22:03] Então, se você tiver uma verba só, não vai fazer diferença.
+[00:22:04] Ainda mais se você quiser que ele esteja na ordem que você quer.
+[00:22:07] Tá?
+[00:22:09] Então, vamos lá.
+[00:22:10] Diferença salarial.
+[00:22:11] Salário devido aqui, proporcionalizar sim.
+[00:22:18] E aqui embaixo, salário recebido, proporcionalizar sim.
+[00:22:24] E olha só, o que que já tem aqui?
+[00:22:27] Contribuição social e FGTS.
+[00:22:29] Aqui, já vai tá apurando contribuição social e FGTS
+[00:22:34] sobre a diferença só.
+[00:22:35] Volta aí o que que você marcou, hein?
+[00:22:39] Por favor.
+[00:22:40] Marquei.
+[00:22:42] A base de cálculo.
+[00:22:43] A base de cálculo.
+[00:22:44] Qual a base de cálculo?
+[00:22:46] Histórico salarial, salário devido.
+[00:22:48] É o salário devido que a gente quer.
+[00:22:50] Qual é o valor pago?
+[00:22:53] É o salário recebido.
+[00:22:55] Então, o que que a verba vai fazer?
+[00:22:58] Vai apurar o salário devido.
+[00:23:00] A diferença.
+[00:23:01] Divisor 1, multiplicador 1, quantidade 1.
+[00:23:04] Então, o salário devido.
+[00:23:06] Deduzir, como estava lá no valor pago, o salário que ele já recebeu.
+[00:23:10] Então, aqui ele vai apurar só a diferença.
+[00:23:13] Contribuição social e FGTS sobre a diferença.
+[00:23:17] Tá?
+[00:23:20] Salvar.
+[00:23:22] Regerar.
+[00:23:24] Tá, Gilmar?
+[00:23:27] Quer falar alguma coisa?
+[00:23:28] Sim, professor.
+[00:23:29] Eu tive uma dúvida nessa parte aí, porque eu fiz dessa forma e depois tem a outra opção também,
+[00:23:34] que eu queria saber o impacto.
+[00:23:35] Que é direto na verba, tem lá, direto pela diferenciação.
+[00:23:37] Direto pela diferença salarial, né?
+[00:23:39] Não tem?
+[00:23:41] Como assim?
+[00:23:42] Quando você vai fazer aquelas marcações lá do histórico salarial dentro da verba.
+[00:23:45] Aí, em vez de escolher, por exemplo, eu sei que pode escolher salário devido lá em cima,
+[00:23:51] como base de cálculo, embaixo lá é o salário pago.
+[00:23:53] Não tem uma opção ali em cima que coloca a diferença salarial direto?
+[00:23:57] Não.
+[00:23:58] Tá.
+[00:23:59] E assim, tem gente, tem muita gente que coloca um histórico salarial escrito diferença salarial.
+[00:24:05] Uhum.
+[00:24:06] Isso é usar mal o sistema.
+[00:24:09] Certo.
+[00:24:10] Qual é o objetivo?
+[00:24:12] Além de calcular, é que as pessoas entendam o que você tá fazendo.
+[00:24:17] Tem que deixar muito claro o que você tá apurando ali.
+[00:24:21] Uhum.
+[00:24:22] Entendeu?
+[00:24:23] Então, pra que que eu vou botar já a diferença salarial?
+[00:24:25] Não, deixa o sistema apurar.
+[00:24:27] Deixa o sistema mostrar que ele apurou a diferença salarial.
+[00:24:30] E como que ele fez isso.
+[00:24:32] Certo.
+[00:24:33] Entenderam?
+[00:24:34] Entendi.
+[00:24:35] Então, a gente salva.
+[00:24:36] Eu poderia nomear no caso como salário do paradigma.
+[00:24:39] Hã?
+[00:24:40] Eu poderia nomear no caso como salário do paradigma.
+[00:24:43] Poderia.
+[00:24:44] Salário devido, salário do paradigma.
+[00:24:46] Salário do fulano de tal, pode botar.
+[00:24:48] Salário do reclamante, pode botar.
+[00:24:50] Não tem problema não.
+[00:24:51] Tá?
+[00:24:52] E aí, a gente tem que...
+[00:24:55] Olha só um problema que a gente tem aqui.
+[00:24:57] Foi definido reflexo adicional de periculosidade.
+[00:25:00] Só que não tem periculosidade aqui.
+[00:25:04] A gente vai ter que fazer na mão.
+[00:25:06] Lançar uma verba manual.
+[00:25:08] Vamos fazer isso agora.
+[00:25:10] Manual.
+[00:25:11] Eu lancei, eu acho que lá dentro do histórico salarial...
+[00:25:15] Ô Jorge.
+[00:25:16] Eu lancei lá como incluir uma verba de adicional de periculosidade.
+[00:25:21] Calculei os 30% sobre a diferença.
+[00:25:24] Maneira...
+[00:25:25] Não, não é a maneira de usar o sistema.
+[00:25:27] Tem que mostrar o que você tá fazendo aqui.
+[00:25:30] Até que você tenha uma verba de adicional de periculosidade.
+[00:25:33] Aqui é a forma de você mostrar que tá apurando o adicional de periculosidade.
+[00:25:39] Que ele vai mostrar exatamente como é que ele apurou.
+[00:25:41] A conta que ele fez.
+[00:25:46] É...
+[00:25:47] Rodrigo...
+[00:25:48] Porque o adicional incide sobre as outras verbas, né?
+[00:25:52] O quê?
+[00:25:54] Eu entendi na leitura que ele fala que o adicional de periculosidade incide sobre as outras verbas recisórias.
+[00:26:01] Não falou em nenhum momento isso.
+[00:26:03] Vamos abrir de novo aqui.
+[00:26:05] As diferenças salariais referidas repercutem no adicional de periculosidade em férias mais um terço, décimo terceiro, aviso prévio e FGTS.
+[00:26:22] Alguém entendeu como ela também?
+[00:26:24] Porque aqui tá escrito assim, ó.
+[00:26:26] Lá no dispositivo.
+[00:26:27] Reflexo das parcelas deferidas no adicional de periculosidade, 30%, em férias mais um terço, décimo terceiro, aviso prévio, FGTS, mais 40.
+[00:26:37] Tudo apurar em liquidação.
+[00:26:39] Isso.
+[00:26:40] Onde é que tá o...
+[00:26:41] Onde é que tá o...
+[00:26:42] Onde é que tá o...
+[00:26:44] Onde é que tá o...
+[00:26:45] Onde é que tá o...
+[00:26:46] Onde é que tá o...
+[00:26:47] Onde é que tá o...
+[00:26:48] Onde é que tá o...
+[00:26:49] Onde é que tá o...
+[00:26:50] Onde é que tá o...
+[00:26:51] Onde é que tá o...
+[00:26:52] Onde é que tá o...
+[00:26:55] Onde é que tá o...
+[00:26:56] A integração do aviso prévio.
+[00:26:57] Do adicional de periculosidade, quer dizer.
+[00:26:58] Então, eu li isso lá no dispositivo.
+[00:26:59] Aqui, o dispositivo.
+[00:27:00] Isso, aí eu entendi que os 30% aí incidia sobre férias, um terço.
+[00:27:01] Não tem.
+[00:27:02] E aqui falamos expressamente não.
+[00:27:03] Reflexo das parcelas deferidas no adicional de periculosidade em férias, décimo terceiro,
+[00:27:07] férias, 10 de terceiro, aviso prévio
+[00:27:10] e FGTS. Não tem
+[00:27:14] uma reflexão em cadeia.
+[00:27:18] Para ter em cadeia, reflexos
+[00:27:20] das parcelas deferidas no adicional
+[00:27:22] de periculosidade e com ele em
+[00:27:24] férias, tem que ter essa conjunçãozinha.
+[00:27:27] E com ele.
+[00:27:29] Mas, por exemplo,
+[00:27:31] se eu jogasse essa frase aí
+[00:27:32] no oráculo, ele me responderia?
+[00:27:37] Sim.
+[00:27:39] Vamos lá.
+[00:27:45] Professor, tinha levantado a mão.
+[00:27:47] Pelo que restou deferido,
+[00:27:52] o adicional
+[00:27:52] de periculosidade
+[00:27:55] oriundo
+[00:27:57] da diferença
+[00:28:00] salarial, reflete
+[00:28:04] e integra. Vamos ver a opinião
+[00:28:10] dele. Uma coisa, por que
+[00:28:12] você está aqui no cálculo?
+[00:28:18] Pela reclamação.
+[00:28:19] Isso aí te favorece ou não?
+[00:28:22] Não, não favorece.
+[00:28:28] O oráculo
+[00:28:29] está usando a lógica da aula.
+[00:28:32] Esse adicional de periculosidade
+[00:28:33] por ser pago de forma permanente
+[00:28:35] integra a remuneração de cálculo.
+[00:28:36] Só que não está explícito aqui.
+[00:28:40] Ele está usando a informação
+[00:28:41] da aula, a opinião dele.
+[00:28:46] Ele entendeu igual a mim, né?
+[00:28:48] Ele entendeu igual a você.
+[00:28:50] Porque realmente reflete.
+[00:28:52] Mas aqui não está claro.
+[00:28:56] Tem que estar expresso. Ainda mais
+[00:28:57] se você estiver pela reclamada.
+[00:28:59] Pela reclamada, isso não te favorece.
+[00:29:01] Você nunca vai fazer essa
+[00:29:03] integração em cadeia.
+[00:29:04] Pela reclamada.
+[00:29:07] Tá?
+[00:29:09] Tá.
+[00:29:10] Rodrigo, diga.
+[00:29:13] Complementando,
+[00:29:14] auxiliando também, professor.
+[00:29:16] Nessa questão aí da periculosidade,
+[00:29:18] ele fala para integrar.
+[00:29:20] Eu tive um caso aqui recentemente,
+[00:29:22] onde a gente conseguiu derrubar uma parte
+[00:29:24] do cálculo,
+[00:29:26] justamente porque colocaram o salário igual
+[00:29:28] está aqui, seis mil e pouco,
+[00:29:30] né? Cadê? Seis mil quatrocentos e cinquenta e oito.
+[00:29:32] Só que dentro
+[00:29:34] desses seis mil quatrocentos e cinquenta e oito,
+[00:29:35] já estava a periculosidade.
+[00:29:37] E aí, como a gente está trabalhando pela reclamada,
+[00:29:40] a gente tem que fazer o quê?
+[00:29:41] Tentar diminuir o valor.
+[00:29:42] E aí a gente fez o cálculo pegando, né?
+[00:29:46] Fez a conta inversa, tirando os trinta por cento,
+[00:29:48] então colocou lá dentro.
+[00:29:49] O valor do salário é esse e periculosidade é esse.
+[00:29:52] E aí depois a gente reconstruiu o cálculo,
+[00:29:54] porque isso é uma...
+[00:29:55] O senhor colocou bem aí agora no final da sua explicação
+[00:29:58] para a colega.
+[00:29:59] .
+[00:30:01] .
+[00:30:03] .
+[00:30:00] A gente, quando está pela reclamada, tem que olhar com todo o zelo
+[00:30:03] para que possa trazer o melhor possível benefício.
+[00:30:07] Senão a gente acaba atropelando.
+[00:30:09] Porque se você colocar ali 6.458 mais a periculosidade,
+[00:30:13] olha para quanto vai esse cálculo daí.
+[00:30:15] A gente vai mostrar aqui, a gente vai ver a diferença aqui.
+[00:30:18] Beleza. Só para complementar.
+[00:30:19] Então, lancei aqui periculosidade.
+[00:30:25] Ah, mas você não vai colocar contribuição social em cima da periculosidade?
+[00:30:29] Não.
+[00:30:30] Por que você não vai fazer isso?
+[00:30:32] Eu estou pela reclamada. Eu não quero pagar mais contribuição social.
+[00:30:36] E ninguém vai, ninguém, ninguém, ninguém vai te impugnar isso.
+[00:30:40] Ninguém vai te impugnar isso.
+[00:30:42] Então, você está lançando manualmente aqui?
+[00:30:44] Passa por cima da contribuição social. Nem apura não.
+[00:30:47] Porque senão vai aumentar o seu valor lá, para pagar.
+[00:30:50] Então, eu lancei periculosidade 30%.
+[00:30:52] Reflexo sobre a diferença salarial.
+[00:30:58] Divisor 1.
+[00:31:00] Multiplicador.
+[00:31:00] Multiplicador 0,3.
+[00:31:02] Quantidade 1.
+[00:31:05] Salvar.
+[00:31:06] Já veio para cá.
+[00:31:07] A periculosidade 30%.
+[00:31:09] Mas aí tem o FGTS, não tem?
+[00:31:13] Não.
+[00:31:14] Você está por quem?
+[00:31:16] Ok.
+[00:31:18] Por quem você está, Annalisa?
+[00:31:20] Pela reclamada.
+[00:31:23] Tem ou não tem?
+[00:31:24] Tem. De fato, não.
+[00:31:25] Mas se eu tivesse pelo réu, pelo autor,
+[00:31:30] você colocaria, né?
+[00:31:31] No autor você colocaria reflexo e tudo, colocaria o negócio grandão, faria o cálculo,
+[00:31:37] o jeito que eu fiz.
+[00:31:38] Quem fez aquele cálculo fui eu.
+[00:31:40] Eu, se eu tivesse pelo reclamante, faria o cálculo daquele ali.
+[00:31:45] Tá?
+[00:31:45] Pronto.
+[00:31:48] Quais são os reflexos aqui?
+[00:31:50] Que a gente tem aqui?
+[00:31:52] Se você tivesse pelo autor...
+[00:31:54] Periculosidade, férias, 13º aviso prévio, FGTS mais 40.
+[00:31:58] Se você tivesse pelo autor...
+[00:32:00] Periculosidade, 13º aviso prévio, férias... Oi?
+[00:32:02] Se você tivesse pelo autor, você colocaria...
+[00:32:03] Se você tivesse pelo autor, você colocaria...
+[00:32:04] Eu colocaria até 477, né?
+[00:32:06] Porque no cálculo estava 477.
+[00:32:08] Ah...
+[00:32:09] Coloca e deixa ele impugnar.
+[00:32:11] Entendi.
+[00:32:13] Coloca e deixa impugnar, pô.
+[00:32:15] É... Mas eu...
+[00:32:17] Eu não...
+[00:32:19] Não pego pesado com coisa que não foi definida, não.
+[00:32:23] O que eu faria aqui, de forma óbvia,
+[00:32:25] seria a integração correta, né?
+[00:32:29] A integração correta, tudo na base do FGTS.
+[00:32:33] Tá?
+[00:32:34] E aqui a gente apurou a multa.
+[00:32:36] Beleza?
+[00:32:42] É... Honorários aqui.
+[00:32:44] 5%, não foi?
+[00:32:47] Foi.
+[00:32:51] Patrono... do autor.
+[00:32:53] Tá? Custas.
+[00:32:58] Posso botar até as custas aqui?
+[00:33:00] Eu não escrevo patrono, não.
+[00:33:04] Eu boto honorário do autor.
+[00:33:06] Tem problema?
+[00:33:08] Não. É só pra quem lê entender que é do patrono do autor.
+[00:33:13] Pra quem é honorário.
+[00:33:15] Porque na hora do réu, você vai colocar honorário...
+[00:33:18] Patrono do réu.
+[00:33:20] É melhor botar o patrono, porque o honorário do autor pode...
+[00:33:24] Achar, pô, mas é devido pro autor ou pro outro?
+[00:33:27] Bota pro patrono do... dele que fica mais explicado.
+[00:33:30] Então, custas pela reclamada no valor de 2% sobre 7538922.
+[00:33:35] Vezes...
+[00:33:37] 7538922 vezes...
+[00:33:50] 150778.
+[00:33:55] 150778.
+[00:33:58] Qual a data aqui?
+[00:34:00] 3 de fevereiro de 26.
+[00:34:02] Salvar.
+[00:34:09] Correção, juros e multa. Então agora vamos juntos aqui.
+[00:34:12] Que tem gente que não conhece a lei.
+[00:34:15] Ainda.
+[00:34:16] Então vamos lá.
+[00:34:20] O... O oráculo já nos deu aqui.
+[00:34:23] Correção monetária na fase pré-judicial.
+[00:34:26] IPCAE.
+[00:34:28] Mais juros TRD.
+[00:34:31] Do ajuizamento.
+[00:34:33] 22 de setembro de 2025.
+[00:34:42] Então...
+[00:34:43] Olha só.
+[00:34:45] Aqui...
+[00:34:46] Tá acontecendo muito, muito, muito isso.
+[00:34:48] Os juízes colocam o padrão.
+[00:34:51] Que é do ajuizamento Selic até dia 30 do 8.
+[00:34:56] É... É...
+[00:34:58] Aí a partir do 30 do 8.
+[00:35:01] A...
+[00:35:02] Taxa legal.
+[00:35:04] Você estando pela ré.
+[00:35:06] Você vai defender a posição de que...
+[00:35:09] Não.
+[00:35:10] Né? O... O... O...
+[00:35:12] A lei 14905.
+[00:35:14] Não fixou juros em fase pré-judicial.
+[00:35:17] Então a taxa legal.
+[00:35:19] Só pode começar a correr.
+[00:35:21] A partir do ajuizamento.
+[00:35:23] Independente de quando ele seja.
+[00:35:25] Né?
+[00:35:26] Então.
+[00:35:28] Aqui.
+[00:35:29] O que a gente vai fazer aqui?
+[00:35:31] Combinar.
+[00:35:33] Com taxa legal.
+[00:35:35] A partir de...
+[00:35:38] Quando foi o ajuizamento, hein?
+[00:35:42] Tá vendo como é que eu parecia estar aqui já?
+[00:35:44] Com todas as informações que a gente vai precisar?
+[00:35:46] 22 de setembro de 2025.
+[00:35:49] E aqui IPCA.
+[00:35:52] 22 de setembro de 2025.
+[00:35:55] Entenderam?
+[00:36:01] Eu não entendi não.
+[00:36:02] Eu nem entendi.
+[00:36:03] Você já colocou.
+[00:36:04] Você tem que colocar a taxa legal.
+[00:36:06] A partir do dia 30 do 8 de 2024.
+[00:36:08] Né?
+[00:36:09] Nesse caso aqui.
+[00:36:12] É.
+[00:36:13] Eu não entendi.
+[00:36:14] Aonde tá na correção.
+[00:36:15] Como é que eu identifico essa lei 14905?
+[00:36:18] É...
+[00:36:23] A partir do dia 30 do 8 de 2024.
+[00:36:26] A correção monetária vai considerar o IPCA.
+[00:36:29] E o juros de mora corresponderão ao resultado de suplicação da Selic menos IPCA.
+[00:36:34] Artigo 406.
+[00:36:35] Parágrafo único do Código Civil.
+[00:36:37] Isso aqui é a autoriação da 4905.
+[00:36:41] A 14905.
+[00:36:42] Alterou o artigo 406 do Código Civil.
+[00:36:46] Então toda vez que eu leio esse negócio.
+[00:36:50] Artigo 406.
+[00:36:52] Selic menos IPCA ou taxa legal.
+[00:36:55] É a lei 14905.
+[00:36:57] Sabrina.
+[00:37:03] Oi professor.
+[00:37:04] Boa noite.
+[00:37:05] Boa noite.
+[00:37:06] É só pra tirar uma dúvida que ficou um pouco confusa pra mim.
+[00:37:09] Eu sempre atuei pra parte reclamante assim.
+[00:37:12] Só que esse cálculo foi um pouco adverso pra mim.
+[00:37:14] A primeira vez atuando pra reclamada.
+[00:37:16] Digamos assim.
+[00:37:17] Aí eu acabei informando o IPCA a partir de 30 de 8 de 2024.
+[00:37:24] Que é como o delírio dispositivo.
+[00:37:27] Mas aí no caso quando é pra reclamada é mais vantajoso informar a partir do alinharamento.
+[00:37:32] Isso.
+[00:37:33] Mas a forma que eu fiz então não estaria errada também.
+[00:37:35] Mas pra parte reclamante.
+[00:37:36] Mas pra reclamada tá errado.
+[00:37:38] Ah tá.
+[00:37:39] Pra parte reclamada tá errado.
+[00:37:40] Beleza.
+[00:37:41] Porque você pela reclamada tem que defender o seguinte.
+[00:37:45] A lei 14.905 não fixou que a taxa ilegal vai ocorrer no fase prejudicial.
+[00:37:52] É na fase judicial apenas.
+[00:37:54] Entendi.
+[00:37:55] Entendi agora.
+[00:37:56] Ficou claro.
+[00:37:57] Davi.
+[00:37:58] Boa noite professor.
+[00:37:59] Boa noite.
+[00:38:03] Professor, a minha dúvida é a seguinte.
+[00:38:04] Nesse caso aí eu não poderia colocar só o IPCAe mais a taxa ilegal?
+[00:38:05] Poderia deixar o IPCAe.
+[00:38:06] Mas a taxa ilegal é a taxa ilegal.
+[00:38:07] É a taxa ilegal.
+[00:38:08] É a taxa ilegal.
+[00:38:09] É a taxa ilegal.
+[00:38:10] É a taxa ilegal.
+[00:38:11] É a taxa ilegal.
+[00:38:12] É a taxa ilegal.
+[00:38:13] É a taxa ilegal.
+[00:38:14] É a taxa ilegal.
+[00:38:15] Poderia deixar o IPCAe.
+[00:38:18] Mas se você trocar para o IPCAe, ele reduz um pouquinho o cálculo.
+[00:38:22] Ah entendi.
+[00:38:23] Porque o IPCAe demora mais para atualizar.
+[00:38:27] Se você usa o IPCAe você reduz um pouquinho.
+[00:38:33] Só que o IPCAe é de 15 em 15 dias, alguma coisa assim.
+[00:38:38] O IPCAe demora um pouquinho mais para atualizar.
+[00:38:40] É porque inclusive na sentença o juiz determinou que a partir de
+[00:38:45] 30 de agosto de 2024, você vai ficar no IPCAe e não no IPCA.
+[00:38:50] Mas a lei 14.905 fala expressamente em IPCAe.
+[00:38:54] O IPCAe.
+[00:38:55] O IPCAe.
+[00:38:56] Mas mesmo o juiz determinando isso no dispositivo IPCAe, ele colocou IPCAe.
+[00:39:01] A lei fala isso aqui.
+[00:39:03] A lei fala expressamente em IPCAe.
+[00:39:06] E aí deixa o pessoal impugnar se for o caso.
+[00:39:09] Isso.
+[00:39:10] É impugnação.
+[00:39:11] É tudo impugnação.
+[00:39:12] Aprende gente, vai aprendendo.
+[00:39:13] O pessoal vai aprendendo.
+[00:39:14] O pessoal que está começando também, professor Jorge.
+[00:39:18] Essas coisas você faz e entrega.
+[00:39:20] Deixa a outra parte impugnar que volta para você o cálculo.
+[00:39:24] Você ainda tem...
+[00:39:25] Eu uso muito dessa ferramenta aqui.
+[00:39:27] É.
+[00:39:28] E por isso que eu estou fazendo essas aulas aqui.
+[00:39:31] Exatamente.
+[00:39:32] Só com aulas do curso você não vai aprender essa malandragem.
+[00:39:36] Eu ensino, mas tem que ficar martelando em vocês a malandragem.
+[00:39:40] Eu quero trazer uma sentença por mês para a gente fazer isso.
+[00:39:44] Tá, Débora?
+[00:39:46] Oi, professor.
+[00:39:47] Está me ouvindo?
+[00:39:48] Estou.
+[00:39:49] Tá.
+[00:39:50] Porque eu fiquei com uma dúvida lá nos honorários.
+[00:39:52] Desculpa até demorar um pouquinho para poder falar.
+[00:39:56] Porque deferiu sobre o líquido.
+[00:39:59] E...
+[00:40:00] .
+[00:40:01] .
+[00:40:02] .
+[00:40:03] .
+[00:40:04] .
+[00:40:05] .
+[00:40:06] .
+[00:40:07] .
+[00:40:08] .
+[00:40:09] .
+[00:40:10] .
+[00:40:11] .
+[00:40:12] .
+[00:40:13] .
+[00:40:00] aí poderia colocar o bruto menos a contribuição social,
+[00:40:04] que aí ficaria mais vantajoso para a empresa.
+[00:40:07] Ficaria, ficaria sim.
+[00:40:12] Só que isso aí é bem pacífico.
+[00:40:16] Isso é bem pacífico.
+[00:40:18] É porque a OJ...
+[00:40:22] Me lembrem aí, gente.
+[00:40:25] 341, a OJ é honorário.
+[00:40:32] Honorário.
+[00:40:34] Isso começa...
+[00:40:39] OJ 348.
+[00:40:41] Os honorários da dificuldade de serviço devem incidir sobre o valor líquido da condenação
+[00:40:44] apurado na fase de liquidação sem a dedução dos descontos fiscais e previdenciários.
+[00:40:48] Ah, tá.
+[00:40:50] Entendeu? Eles só copiam o que está aqui.
+[00:40:52] Pode brigar, pode brigar.
+[00:40:55] Pode brigar.
+[00:40:56] Vou até fazer do jeito que você está falando,
+[00:40:59] para a gente brigar por isso.
+[00:41:00] Vamos brigar.
+[00:41:02] Está certo. Obrigado.
+[00:41:04] Tá, obrigado.
+[00:41:05] É sempre olhar sempre, pessoal.
+[00:41:07] Quem está aí pela reclamada também, complementando, professor, aproveitando.
+[00:41:11] Desculpe se eu estiver me intrometendo, mas é sempre olhar se, por exemplo,
+[00:41:14] a reclamada não está na desoneração da folha.
+[00:41:17] Isso desonera muito a parte do INSS, tá, pessoal?
+[00:41:20] Eu trabalho muito com transportadora e isso aí faz uma base gigantesca.
+[00:41:25] Vocês não têm ideia.
+[00:41:27] Tem que pedir para informar se é simples, se é desoneração, quando você está pela ré.
+[00:41:31] Sheila.
+[00:41:32] Eu acabei de explicar isso aqui, Sheila.
+[00:41:38] É, não tem que ser IPCA a partir de 30 de 8 de 2024.
+[00:41:44] Porque você está pela ré.
+[00:41:46] E a Lei 14.905 não fixou juros na fase pré-judicial.
+[00:41:52] A Lei 14.905 falou da fase judicial.
+[00:41:56] Alterou a fase judicial.
+[00:41:58] Então não tem como você aplicar a taxa ilegal antes do ajuizamento.
+[00:42:03] Não existia SELIC antes do ajuizamento na ADC.
+[00:42:08] Não existe agora a taxa ilegal antes do ajuizamento.
+[00:42:15] Agora, se você estiver pelo autor, manda brasa.
+[00:42:19] Vai pelo 30 de 8 de 2024.
+[00:42:24] Então, toda vez que tiver essa Lei 14.905, eu uso sempre ali na correção o IPCA e o IPCA.
+[00:42:34] Você vai assistir a aula de Lei 14.905.
+[00:42:36] Eu não sei como te falar isso.
+[00:42:39] Na aula tem os três pontos que você vai usar dependendo de como você estiver.
+[00:42:45] Na aula tem escrito, tem falando bem claro isso.
+[00:42:48] Eu não consigo te afirmar, te dar uma...
+[00:42:50] Porque tem quando o ajuizamento é antes de 30 de 8, quando o ajuizamento é depois de 30 de 8.
+[00:42:55] Tem várias detalhes.
+[00:42:57] Tá?
+[00:42:58] Tá.
+[00:42:58] Professor, uma dúvida.
+[00:43:00] Por que não incidiu a SELIC nesse caso?
+[00:43:04] Porque já virou a 14.906, 905.
+[00:43:11] Ah, entendi.
+[00:43:13] Não teve um período entre o ajuizamento e a Lei 14.000.
+[00:43:16] Não existiu esse período.
+[00:43:18] Ah, tá.
+[00:43:19] Tá ótimo.
+[00:43:20] Tá?
+[00:43:21] Entendi.
+[00:43:22] Débora.
+[00:43:29] Oi, Jorge.
+[00:43:30] Oi.
+[00:43:30] Se você fosse fazer pela reclamante, como é que você faria aí?
+[00:43:35] A correção.
+[00:43:37] Se fosse fazer pela reclamante, ficaria assim.
+[00:43:48] Esse aqui é o meu pela reclamante.
+[00:43:50] Tá?
+[00:43:57] Só que como o ajuizamento foi...
+[00:43:59] E aí, isso aí...
+[00:44:00] O ajuizamento foi depois de 30 de 8.
+[00:44:03] É.
+[00:44:04] Só que tá expressamente na sentença.
+[00:44:05] Eu consigo defender isso.
+[00:44:08] E pela reclamada, eu consigo defender também.
+[00:44:11] Pela reclamada, eu consigo falar.
+[00:44:13] Olha só.
+[00:44:13] A Lei 14.905...
+[00:44:15] Nem a Lei 14.905, nem a ADC, fixavam SELIC na fase prejudicial.
+[00:44:21] Então, não pode ser aplicado aqui isso aí.
+[00:44:26] Entendeu?
+[00:44:35] Essa lei...
+[00:44:36] Essa lei, o que ela fez?
+[00:44:39] Ela fez...
+[00:44:40] Ela fez...
+[00:44:40] Ela pegou o artigo 406 do Código Civil, que fixava a SELIC na fase judicial.
+[00:44:48] A partir do ajuizamento.
+[00:44:49] Ela separou.
+[00:44:51] Ela pegou IPCA e os juros é SELIC menos IPCA.
+[00:44:56] Ela só separou a SELIC a partir do ajuizamento.
+[00:45:03] É isso que ela fez.
+[00:45:07] Beleza?
+[00:45:08] A Débora queria falar alguma coisa, não?
+[00:45:10] Queria fazer uma pergunta?
+[00:45:12] Não, professor.
+[00:45:13] Já...
+[00:45:13] Já...
+[00:45:13] Tirei minha dúvida já, porque eu esqueci de tirar a mãozinha lá só.
+[00:45:17] Tá.
+[00:45:18] Então, olha só.
+[00:45:19] O ajuizamento...
+[00:45:20] Me lembra aqui de novo.
+[00:45:21] Quando é que foi?
+[00:45:21] A 22 do 7...
+[00:45:23] 2025.
+[00:45:27] E aqui, taxa legal.
+[00:45:31] 22 do 7 de 2025.
+[00:45:33] E olha só.
+[00:45:34] Não acreditem em mim.
+[00:45:36] Não acreditem em mim.
+[00:45:37] Façam todas as contas aqui diferentes.
+[00:45:41] Façam pelo reclamante.
+[00:45:42] Falam...
+[00:45:43] O mesmo cálculo.
+[00:45:44] Para vocês verem como é que dá menos.
+[00:45:47] E pela reclamada, você tem que fazer dar menos.
+[00:45:50] O meu deu bem menos.
+[00:45:53] Posso seguir?
+[00:45:55] Porque tem uma coisa muito importante aqui.
+[00:45:58] Que você tem que fazer se você está pela reclamada.
+[00:46:01] Além de buscar se ela é simples ou se ela é desnuinada,
+[00:46:06] você tem que vir aqui e tirar essa atualização e botar tudo para correção trabalhista.
+[00:46:16] Vocês vão entender já já o porquê.
+[00:46:17] Tá.
+[00:46:17] Então confia em mim.
+[00:46:24] Vão aqui em dados específicos.
+[00:46:26] Isso aqui.
+[00:46:27] Olha só.
+[00:46:29] Eu recomendo você fazer isso aqui.
+[00:46:31] Seja você reclamante ou seja você reclamada.
+[00:46:37] Porque isso aqui reduz muito o valor do INSS.
+[00:46:45] E às vezes você consegue aumentar o valor do reclamante, reduzindo o total devido pela REC.
+[00:46:51] Você aumenta o valor que o seu cliente vai receber e reduz o total que a REC tem que pagar.
+[00:46:58] Fazendo, né?
+[00:46:59] Vendo se está no simples, vendo se está desinoriação e tal.
+[00:47:04] Beleza?
+[00:47:05] Beleza.
+[00:47:07] Vamos liquidar?
+[00:47:08] Qual a data que a gente vai usar de liquidação aqui?
+[00:47:14] Professor, não está mostrando na sua tela.
+[00:47:17] Está sim.
+[00:47:19] Está sim.
+[00:47:22] Qual a data?
+[00:47:23] Eu usaria a mesma data que está ali no processo para a gente poder estar molhando.
+[00:47:26] Estar verificando.
+[00:47:27] 31 do 3.
+[00:47:29] A mesma data que o reclamante usou para comparar.
+[00:47:32] Exato.
+[00:47:33] Exato.
+[00:47:33] Exato.
+[00:47:33] Exato.
+[00:47:33] Exato.
+[00:47:33] Exato.
+[00:47:33] Exato.
+[00:47:33] Exato.
+[00:47:33] Exato.
+[00:47:33] Exato.
+[00:47:33] Exato.
+[00:47:33] Exato.
+[00:47:33] Exato.
+[00:47:33] Exato.
+[00:47:33] Exato.
+[00:47:33] Exato.
+[00:47:33] Exato.
+[00:47:33] Exato.
+[00:47:35] Exato.
+[00:47:36] Exato.
+[00:47:36] Exato.
+[00:47:41] Exato.
+[00:47:41] Exato.
+[00:47:41] Exato.
+[00:47:41] Exato.
+[00:47:42] Exato.
+[00:47:43] Exato.
+[00:47:43] Exato.
+[00:47:43] Exato.
+[00:47:43] Exato.
+[00:47:43] Exato.
+[00:47:43] Exato.
+[00:47:43] Exato.
+[00:47:43] Exato.
+[00:47:44] Imprimir.
+[00:47:47] No próximo, a gente vai fazer pelo reclamante.
+[00:47:49] Eu vou mostrar para vocês tudo o que a gente pode fazer para melhorar o cálculo do reclamante,
+[00:47:52] tá?
+[00:47:52] Ok.
+[00:47:56] Vamos lá.
+[00:47:58] O meu cálculo está pronto.
+[00:48:03] Quem aí me chegou num valor menor que o meu?
+[00:48:09] Eu sei que...
+[00:48:10] Sem desoneração de folha.
+[00:48:12] Sem desoneração de folha.
+[00:48:13] Deixa eu só girar ele aqui de novo.
+[00:48:15] O meu deu um pouquinho acima, mas está dentro dessa média aí.
+[00:48:18] Mas deu pouca corretivência, professor.
+[00:48:21] E eu vou reduzir esse cálculo ainda.
+[00:48:24] Não está no final ainda.
+[00:48:25] Não está no final.
+[00:48:26] Calma.
+[00:48:27] Legal.
+[00:48:28] Então vamos lá.
+[00:48:28] A gente agora está pronto para fazer a impugnação.
+[00:48:33] Porque agora sim funciona a impugnação.
+[00:48:36] Quando a gente tem o nosso cálculo, a gente começa a comparar com o cálculo do autor.
+[00:48:40] É ou não é?
+[00:48:43] Perfeito.
+[00:48:45] Então, vê se vai ficar muito pequeno aqui para vocês.
+[00:48:55] Olha só.
+[00:48:56] Primeira coisa, a gente compara aqui período de cálculo,
+[00:49:00] data de ajuizamento.
+[00:49:03] Estão certinhos.
+[00:49:04] Diferença salarial.
+[00:49:06] Está gritante.
+[00:49:08] Então a gente vai marcar aqui a diferença salarial.
+[00:49:12] Está gritante.
+[00:49:15] O que mais está de errado aqui?
+[00:49:19] Olhando só para cá para o resumo, por enquanto.
+[00:49:21] No cálculo do senhor não tem o adicional, né?
+[00:49:27] Não tem adicional o quê?
+[00:49:28] O adicional de precuriosidade sobre a diferença.
+[00:49:31] Isso.
+[00:49:33] Isso.
+[00:49:34] Porque o acervo está como reflexo lá no meio.
+[00:49:37] Aqui, ó.
+[00:49:38] Já marca aqui.
+[00:49:40] Quem falou?
+[00:49:41] A 477 também.
+[00:49:43] A 477 também.
+[00:49:46] Está vendo?
+[00:49:46] Estou marcando aqui.
+[00:49:47] Por que eu estou impugnando?
+[00:49:48] Por que eu vou impugnando?
+[00:49:49] Porque a parte da impugnação é fácil.
+[00:49:52] Difícil encontrar o erro.
+[00:49:53] Não.
+[00:49:54] Não.
+[00:49:54] Depois que você encontra o erro, quem vai fazer a impugnação para você?
+[00:49:56] O oráculo.
+[00:49:58] O oráculo que faz.
+[00:49:59] Isso.
+[00:50:03] Tá? Vamos passar para essa tela aqui agora.
+[00:50:12] O que está esquisito aqui?
+[00:50:17] O que está esquisito aqui?
+[00:50:19] Os honorários.
+[00:50:21] Os honorários.
+[00:50:22] Os honorários.
+[00:50:24] Eles apuraram quanto?
+[00:50:28] 10%. Era 5%.
+[00:50:30] Isso. O que mais que está errado aqui?
+[00:50:34] Aquele depósito da FGTS.
+[00:50:37] Você ainda está comendo?
+[00:50:38] Não, isso aí é venda daqui.
+[00:50:41] Venda do aumento...
+[00:50:44] As custas.
+[00:50:45] As custas.
+[00:50:48] Muito bem.
+[00:50:51] Tá?
+[00:50:52] Agora, a gente já sabe
+[00:50:53] a maior parte do que está errado.
+[00:50:57] Vamos entender aqui.
+[00:51:00] Olha só.
+[00:51:02] Ele estava pelo autor.
+[00:51:04] Ele apurou juros taxa legal
+[00:51:06] a partir de 30 do 8.
+[00:51:09] O que mais que tem de errado aqui?
+[00:51:12] No critério fundamentação de cauda.
+[00:51:21] Essa aqui...
+[00:51:22] Se alguém adivinhar essa aqui,
+[00:51:24] rapaz, isso aí é olho de lice.
+[00:51:27] Cadê?
+[00:51:28] Está faltando um aqui.
+[00:51:31] Ele não aplicou a DC-51 ali, professor?
+[00:51:35] Apurou.
+[00:51:40] Não é isso.
+[00:51:41] A contribuição social que o senhor havia comentado?
+[00:51:44] A contribuição social é...
+[00:51:46] É outra coisa que a gente vai ver lá na contribuição social.
+[00:51:50] Tem ali, professor.
+[00:51:51] Tem ali também.
+[00:51:52] Ele está usando o IPCA.
+[00:51:54] Nós estamos usando o IPCA,
+[00:51:55] mas tem a diferença aí também.
+[00:51:57] Não é isso aí, mas tem mais isso.
+[00:52:00] Não é isso aqui.
+[00:52:01] É outra coisa.
+[00:52:01] Ele está usando juros antes da dedução.
+[00:52:03] Se eu não estou pelo autor,
+[00:52:05] eu sempre coloco e ninguém fala nada.
+[00:52:08] Cadê?
+[00:52:15] E aí, ninguém?
+[00:52:18] Os juros de mora sobre os verbos apurados antes da dedução?
+[00:52:21] Isso. Por quê?
+[00:52:25] Porque aumenta, né?
+[00:52:27] Isso, mas como é que tem que ser para a gente?
+[00:52:32] Após a dedução.
+[00:52:34] Isso, isso, Sabrina.
+[00:52:35] Sabrina, juros de mora antes da dedução da contribuição social.
+[00:52:41] Estou fazendo após.
+[00:52:45] Como é que a gente apura?
+[00:52:46] Após.
+[00:52:48] Após a dedução.
+[00:52:50] O que quer dizer aqui é o seguinte.
+[00:52:54] A base de cálculo dos juros aqui foi esse 157,
+[00:53:01] mas tinha que ter sido 147.
+[00:53:05] Ele recebeu juros sobre 9.260.
+[00:53:09] Ah, está errado.
+[00:53:10] Não, dá para defender se você está pelo autor.
+[00:53:14] Dá para defender.
+[00:53:16] Mas, pelo resto, nunca, nunca, nunca, nunca você vai apurar assim.
+[00:53:22] Então, vamos ver.
+[00:53:23] Vamos tentar entender
+[00:53:24] por que a diferença salarial está tão discrepante.
+[00:53:30] Vamos lá no nosso...
+[00:53:32] No nosso histórico.
+[00:53:36] Ele não acompanhou a evolução salarial também?
+[00:53:39] É isso aí.
+[00:53:41] Ele é o valor fixo do salário do autor e o da diferença.
+[00:53:46] Isso. Maravilha.
+[00:53:52] Vamos ver se tem mais alguma coisa.
+[00:53:54] Diferença salarial FGTS, está o período certo.
+[00:53:57] Obviamente está majorado aqui.
+[00:54:00] Adicional de periculosidade, ele é pro FGTS aqui também, obviamente.
+[00:54:06] O décimo terceiro salário aqui, ó.
+[00:54:09] FGTS.
+[00:54:11] Pela reclamada, ó.
+[00:54:13] Isso aqui não passará.
+[00:54:15] Aviso prévio.
+[00:54:17] Não passará.
+[00:54:18] Férias.
+[00:54:19] Não passará.
+[00:54:21] Até sobre a multa do 477.
+[00:54:22] Não vai passar aqui comigo, não.
+[00:54:24] No meu plantão, não passa isso aqui, não.
+[00:54:28] E olha só, gente.
+[00:54:29] Eu queria explicar para vocês uma coisa.
+[00:54:32] Lembra que eu fiz aquelas desmarcações lá?
+[00:54:41] Mas, professor, deixa eu só te perguntar esse negócio aí da reclamada aí.
+[00:54:45] O FGTS.
+[00:54:46] Mas ele é devido, né?
+[00:54:49] É porque você está tentando...
+[00:54:50] Desonerar o cálculo.
+[00:54:53] Não necessariamente é devido.
+[00:54:58] Ué, mas não tem que incidir sobre todas as verbas?
+[00:55:01] Não.
+[00:55:02] Se não tiver deferido expressamente, eu vou brigar para que não.
+[00:55:07] Tem defesa para os dois lados.
+[00:55:09] Exatamente.
+[00:55:10] Aí é o pulo do gato do perito, pessoal.
+[00:55:12] Aí é o pulo do gato que a gente tem que trabalhar.
+[00:55:14] Bom assistente técnico.
+[00:55:16] Por isso que é bom assistente técnico.
+[00:55:17] Ganha bem.
+[00:55:19] Entendeu?
+[00:55:19] O som não é 63, né?
+[00:55:21] No TST, né?
+[00:55:22] Professor.
+[00:55:24] Súmula 63.
+[00:55:26] Falou que...
+[00:55:28] O que está falando a súmula 63?
+[00:55:31] Que o FGTS deve ser calculado sob a remuneração.
+[00:55:37] O valor da remuneração.
+[00:55:41] Beleza.
+[00:55:41] Aí se você está pela reclamada, você tira e deixa o autor impugnar.
+[00:55:46] Isso.
+[00:55:47] Aí se você está pela reclamada, você usa ela.
+[00:55:49] Exatamente.
+[00:55:50] A gente tem que entender...
+[00:55:51] Eu entendo assim, eu enquanto perito, pessoal, eu me coloco sempre dos dois lados.
+[00:55:56] O professor Jorge trabalha muito bem essa questão.
+[00:55:58] Para que lado que você está nesse momento do caos?
+[00:56:00] Eu estou pela reclamada.
+[00:56:02] Então eu tenho que olhar pelo lado da reclamada.
+[00:56:04] Ah, eu estou pelo lado do reclamante.
+[00:56:05] Eu estou olhando pelo lado do reclamante.
+[00:56:07] Tudo que for benéfico para ele, eu vou inserir.
+[00:56:09] Tudo que é benéfico para a reclamada, eu vou fazer também.
+[00:56:13] Independente, a gente não tem que olhar nesse momento.
+[00:56:15] Nós, nós, enquanto auxiliares aqui, nós não temos que ficar olhando.
+[00:56:19] Ah, mas a legislação fala isso.
+[00:56:21] O professor colocou uma coisa ali que eu uso há muito tempo isso,
+[00:56:24] que é a seguinte situação.
+[00:56:26] Está expresso na sentença e no dispositivo?
+[00:56:29] Não. Então vai discutir.
+[00:56:31] É.
+[00:56:32] Não está expresso.
+[00:56:34] Deixa eu discutir.
+[00:56:35] Você só pode apurar.
+[00:56:36] Você existe...
+[00:56:37] O princípio da limitação é o título judicial.
+[00:56:41] Você está totalmente limitado ao título judicial.
+[00:56:43] Você não pode inovar.
+[00:56:45] Ah, mas o TST está decidindo
+[00:56:48] que é...
+[00:56:50] Olha só, não é a súmula 63, tá?
+[00:56:53] Não é pela súmula 63.
+[00:56:54] O TST tem decidido reiteradamente
+[00:56:59] que o pedido de FGTS é implícito.
+[00:57:04] Ele decorre da lei e não da condenação.
+[00:57:10] E aí, obviamente, você, pelo autor, vai usar.
+[00:57:13] Tem até um modelo lá na impugnação.
+[00:57:17] Pedido implícito.
+[00:57:19] Ex vi legis.
+[00:57:21] Tá?
+[00:57:23] Quiris.
+[00:57:24] Qual é o erro do cálculo de um terço de férias?
+[00:57:28] Vamos ver isso antes de ver aqui a INSS.
+[00:57:32] O primeiro mês, eu tinha...
+[00:57:34] Não sei se eu vi errado.
+[00:57:35] Ele está com a base de 7 mil e pouquinho.
+[00:57:38] Eu não entendi isso como certo.
+[00:57:41] Muito bem. Está errado aqui mesmo.
+[00:57:43] Ele está apresendo só um mês.
+[00:57:46] Está proporcionalizando o período, né?
+[00:57:49] Não está proporcionalizando.
+[00:57:51] Quando você vê os outros meses, está bem menor que...
+[00:57:53] Não, ele deu...
+[00:57:54] Ele integralizou a base de cálculo aqui e aumentou bastante.
+[00:57:58] É.
+[00:57:58] Ele tem cá apurado só o terço, né, professor?
+[00:58:02] Como ele não proporcionalizou lá na base da diferença salarial mesmo,
+[00:58:07] ele tem cá apurado só o terço aqui embaixo.
+[00:58:10] Exatamente.
+[00:58:11] Tem essa e isso também.
+[00:58:13] Quando eu vou fazer cálculos, eu faço cálculos da fazenda pública, né?
+[00:58:19] Da Procuradoria do Estado.
+[00:58:20] Então, a gente sempre faz o cálculo de um terço de férias.
+[00:58:24] Como se fosse uma verba comum e faz o cálculo mensal.
+[00:58:27] Então, ele dá uma diferença gigante nessa questão.
+[00:58:30] Em condições como a...
+[00:58:32] Sendo reclamada, isso reduz o valor.
+[00:58:36] Aham.
+[00:58:38] Então, beleza.
+[00:58:39] A gente vai pugnar isso aqui.
+[00:58:41] Deixa eu falar do porquê que eu marquei lá tirar os juros da contribuição previdenciária.
+[00:58:48] Porque olha aqui, ó.
+[00:58:49] O sistema apura juros tanto pelo devido do segurado...
+[00:58:53] E a REC vai pagar esses juros.
+[00:58:58] Quanto na devida pela REC também.
+[00:59:00] Então, olha só.
+[00:59:02] R$ 2.000,00 aqui de juros.
+[00:59:04] E R$ 4.000,00 aqui de juros para o que foi devido pela REC.
+[00:59:09] E aqui R$ 6,88.
+[00:59:11] Só o do SAT.
+[00:59:14] Tá?
+[00:59:15] Tá certo isso aqui?
+[00:59:17] Tá.
+[00:59:18] Tá certo.
+[00:59:22] O período de apuração do INSS é mês a mês.
+[00:59:25] E isso aí já tá pacificado pra caramba já.
+[00:59:31] Muito pacificado.
+[00:59:34] Só que...
+[00:59:36] Se você é reclamante ou reclamada, tira isso.
+[00:59:42] Porque pro reclamante não faz diferença nenhuma se ele tá...
+[00:59:45] O dinheiro não vai pra ele.
+[00:59:47] E pela reclamada vai reduzir o valor a pagar.
+[00:59:49] E aí pelo reclamante, muitas vezes, o cara lá...
+[00:59:53] Ele não entende muito bem o que ele tá fazendo.
+[00:59:55] Ele vai fazer um cálculo.
+[00:59:56] Vai ficar parecido com o seu.
+[00:59:58] Só que o seu valor total vai ser menor que o dele.
+[00:59:59] E aí
+[01:00:01] E aí
+[01:00:01] E aí
+[01:00:03] E aí
+[01:00:04] E aí
+[01:00:05] E aí
+[01:00:06] E aí
+[01:00:07] E aí
+[01:00:08] E aí
+[01:00:09] E aí
+[01:00:10] E aí
+[01:00:11] E aí
+[01:00:12] E aí
+[01:00:13] E aí
+[01:00:14] E aí
+[01:00:15] E aí
+[01:00:16] E aí
+[01:00:17] E aí
+[01:00:18] E aí
+[01:00:19] E aí
+[01:00:20] E aí
+[01:00:21] E aí
+[01:00:22] E aí
+[01:00:23] E aí
+[01:00:00] ele vai concordar com o seu cálculo.
+[01:00:05] Tá? Então vamos lá.
+[01:00:12] Vamos listar, vamos fazer
+[01:00:13] as impugnações aqui.
+[01:00:17] Primeiro, vamos ajustar nossos cálculos.
+[01:00:20] Porque tem uma coisa muito boa que a gente pode
+[01:00:23] usar aqui.
+[01:00:23] O que vocês acham que é?
+[01:00:33] Quem sabe o que a gente pode usar aqui
+[01:00:35] do cálculo do reclamante
+[01:00:37] que vai favorecer bastante a gente aqui?
+[01:00:40] O lançamento da série.
+[01:00:42] Não.
+[01:00:48] Alguém sabe?
+[01:00:50] Esse aqui eu tenho certeza
+[01:00:52] que ninguém impugnou desse jeito.
+[01:00:56] Eu tenho certeza que ninguém pensou nisso.
+[01:01:02] Olha só, gente. Presta atenção aqui.
+[01:01:03] Eu quero que todo mundo pare. Se você está prestando atenção em outra coisa,
+[01:01:06] presta atenção aqui agora.
+[01:01:09] Aqui agora.
+[01:01:12] Olha só.
+[01:01:14] A gente vai impugnar
+[01:01:15] o histórico salarial, não vai?
+[01:01:21] Mas a gente vai impugnar
+[01:01:22] só o salário paradigma.
+[01:01:29] Quem entendeu?
+[01:01:29] Porque no salário reclamante
+[01:01:36] ele coloca os valores maiores.
+[01:01:38] Vai diminuir o valor
+[01:01:39] da diferença salarial.
+[01:01:42] Ele está usando
+[01:01:43] 3,920 para tudo.
+[01:01:46] Isso.
+[01:01:48] A gente vai impugnar só o salário
+[01:01:51] paradigma. Sabe por quê?
+[01:01:59] Porque
+[01:02:00] para a gente, o salário
+[01:02:02] reclamante é
+[01:02:03] incontroverso.
+[01:02:05] Eu não tenho problema nenhum com o salário do reclamante
+[01:02:08] que ele usou. Nenhum.
+[01:02:10] Por mim,
+[01:02:15] não tenho problema nenhum com o salário
+[01:02:16] que ele usou. Por que que desabona
+[01:02:21] a performance do assistente técnico,
+[01:02:23] Ilan?
+[01:02:27] Eu imagino que é porque se eu vou impugnar
+[01:02:30] o paradigma, agora o cara
+[01:02:32] vai lá olhar a boca. Mas o cara fez o paradigma
+[01:02:34] e não fez o salário do reclamante.
+[01:02:37] Porque eu não estou impugnando?
+[01:02:38] É incontroverso.
+[01:02:42] Se o calculista quiser ir além
+[01:02:44] da minha impugnação,
+[01:02:46] é com ele.
+[01:02:47] Eu não estou impugnando isso.
+[01:02:51] O autor falou
+[01:02:56] que o salário dele era R$ 3.920.
+[01:02:58] Quem sou eu para dizer que não é?
+[01:03:01] Você acha que isso aqui
+[01:03:02] vai estar lá?
+[01:03:06] Não. Vai estar contra-cheque.
+[01:03:10] O secretário calculista vai ter que ir lá no contra-cheque
+[01:03:12] para ver a evolução do cara.
+[01:03:16] Eu vou mandar ele lá?
+[01:03:17] Se ele quiser fazer esse trabalho todo,
+[01:03:19] pode ir. Eu,
+[01:03:20] estou concordando. Estou impugnando
+[01:03:23] o salário do paradigma.
+[01:03:25] Ele não respeitou a evolução do salário
+[01:03:27] do paradigma.
+[01:03:31] Gilmar.
+[01:03:32] Professor, aí também não entra aquela questão de a gente
+[01:03:35] só se limitar ao que está no próprio mérito.
+[01:03:37] Não ficar inventando as coisas.
+[01:03:40] Se limitar ao quê?
+[01:03:42] Se limitar só
+[01:03:42] ao que consta no mérito. Nesse caso, a
+[01:03:44] polêmica de cálculo não faz parte da sentença
+[01:03:47] para impugnar. Está se limitando
+[01:03:49] só ao salário mesmo. Não vai impugnar só a outra
+[01:03:51] parte, como o professor mencionou.
+[01:03:54] É, assim,
+[01:03:55] o secretário calculista,
+[01:03:57] ele tem...
+[01:03:58] É a prerrogativa de virar e falar assim.
+[01:04:01] Não, realmente, você está criticando
+[01:04:03] o salário do paradigma, mas o reclamante também está
+[01:04:05] errado e tem que corrigir os dois.
+[01:04:07] Beleza, cara. Eu estou contigo.
+[01:04:10] Se o senhor me mandou fazer isso,
+[01:04:11] eu faço. Agora,
+[01:04:14] eu, como secretário calculista,
+[01:04:16] impugnou só o paradigma?
+[01:04:19] Vai só o paradigma. Eu não vou parar para ler?
+[01:04:21] Tem impugnação aqui? Eu não
+[01:04:23] vou passar por cima da impugnação.
+[01:04:26] Aliás,
+[01:04:28] se você...
+[01:04:28] Você é perito
+[01:04:29] e tem coisas
+[01:04:32] incontroversas,
+[01:04:35] você mantém
+[01:04:36] a incontrovérsia nos seus cálculos,
+[01:04:39] ainda que esteja errado.
+[01:04:44] Chegou
+[01:04:45] lá na secretaria,
+[01:04:47] esse perito não vai ser mais nomeado.
+[01:04:51] O reclamante disse que devia
+[01:04:53] 240 mil. Disse que era devido 240 mil.
+[01:04:56] A ré
+[01:04:57] disse que era devido 150 mil.
+[01:05:01] O perito apresentou um cálculo de 50.
+[01:05:03] E o reclamante apresentou
+[01:05:07] 47 páginas de impugnação.
+[01:05:12] Esse perito está me ajudando?
+[01:05:16] Esse perito, ele...
+[01:05:18] Estou pensando se eu vou destituir ele.
+[01:05:22] Estou pensando seriamente.
+[01:05:24] O primeiro tópico
+[01:05:25] da petição tem 5 páginas,
+[01:05:29] que é a função de um perito
+[01:05:30] na justiça do trabalho.
+[01:05:33] Perfeito.
+[01:05:34] A função é essa. Dirimir
+[01:05:35] controvérsia.
+[01:05:39] E eu estou quase...
+[01:05:39] Eu estou quase...
+[01:05:41] Virando e falando assim...
+[01:05:42] Rejeito os cálculos periciais,
+[01:05:45] homologo os cálculos da ré
+[01:05:46] e deixo arder.
+[01:05:50] Destituo o perito,
+[01:05:52] porque não cumpriu.
+[01:05:54] Rejeito os cálculos do perito
+[01:05:56] e homologo os cálculos da ré.
+[01:05:57] E deixo arder. Ele não vai receber.
+[01:06:01] Eu, eu
+[01:06:02] não vou analisar
+[01:06:04] 47 páginas. Não vou.
+[01:06:08] Não vou analisar 47 páginas de impugnação.
+[01:06:10] E por que isso?
+[01:06:16] Eu não sei se o cálculo dele está certo ou errado.
+[01:06:19] Tecnicamente.
+[01:06:21] Mas processualmente está errado.
+[01:06:24] Você entende que processualmente
+[01:06:25] o cálculo dele está errado?
+[01:06:28] Porque o reclamante apresentou um cálculo.
+[01:06:30] A ré impugnou.
+[01:06:32] 5 coisas.
+[01:06:34] Só tem controvérsia
+[01:06:36] sobre essas 5 coisas.
+[01:06:39] Não tem mais controvérsia
+[01:06:40] sobre nada.
+[01:06:41] 879 parágrafo 2º.
+[01:06:45] Você tem que se prender
+[01:06:47] só pelo que a outra parte está impugnando.
+[01:06:50] Você tem que partir.
+[01:06:52] Eu estou entendendo que ele refez o cálculo todo.
+[01:06:54] Ele refez o cálculo todo.
+[01:06:56] Você tem que partir.
+[01:06:58] Você pode fazer o seu cálculo zero.
+[01:07:00] Só que se estiver dando menos que o cálculo da reclamada
+[01:07:02] pode crer que você está fazendo besteira.
+[01:07:04] Ou mais que o cálculo do reclamante.
+[01:07:06] Você está fazendo besteira.
+[01:07:08] Entendam isso.
+[01:07:10] Agora, pois é.
+[01:07:13] Isso daí é um ponto seguinte.
+[01:07:15] Eu tenho pego alguns casos
+[01:07:17] que eu não consigo entender.
+[01:07:19] Porque eu não sei o que é isso.
+[01:07:20] Que eu não consigo fazer a importação do cálculo.
+[01:07:22] Porque ele vem só como imagem.
+[01:07:24] E aí assim,
+[01:07:28] eu tenho que refazer o cálculo.
+[01:07:30] Isso.
+[01:07:32] Lançar todas as verbas e tudo.
+[01:07:34] Aí faço tudo na mão novamente.
+[01:07:36] É assim mesmo o processo?
+[01:07:38] É.
+[01:07:40] É assim mesmo o processo.
+[01:07:42] E se o cálculo estiver dando menor
+[01:07:44] do que o cálculo da reclamada,
+[01:07:46] você vai ajustar seu cálculo
+[01:07:48] até dar próximo da próxima.
+[01:07:50] Isso.
+[01:07:52] Às vezes eu ajusto até na mão mesmo.
+[01:07:54] Se você fizer um cálculo.
+[01:07:56] Tipo, a reclamada deu 150.
+[01:07:58] Você faz um cálculo de 152.
+[01:08:00] Vai ter impugnação
+[01:08:02] da reclamada?
+[01:08:04] Nenhuma.
+[01:08:06] Vai ter impugnação do reclamante?
+[01:08:08] As mesmas que ele já apresentou.
+[01:08:12] Não, porque às vezes eu não consigo achar
+[01:08:14] exatamente o mesmo valor.
+[01:08:16] Você vai procurar até achar.
+[01:08:18] Se você não achar, ele também vai achar.
+[01:08:20] O que eu tenho feito, eu vou lá na parte da
+[01:08:22] verba e ajusto ele na mão.
+[01:08:24] Com mais técnica você vai encontrar
+[01:08:27] exatamente onde está o problema.
+[01:08:29] Com mais técnica você vai encontrar
+[01:08:31] exatamente onde está o problema.
+[01:08:33] Eu vou lá e ajusto.
+[01:08:35] Vamos lá, gente. Vamos listar então
+[01:08:37] para o
+[01:08:39] oráculo
+[01:08:41] para ele fazer
+[01:08:43] as impugnações.
+[01:08:45] Vamos lá.
+[01:08:51] Gente, eu não vou dar o prompt
+[01:08:53] de impugnação não.
+[01:08:55] Vocês já estão falando aqui
+[01:08:57] com o oráculo e ele vai lá.
+[01:08:59] Oráculo.
+[01:09:01] Vamos impugnar
+[01:09:03] o cálculo do
+[01:09:05] autor.
+[01:09:07] Motivo 1.
+[01:09:09] É...
+[01:09:11] Evolução
+[01:09:13] não respeitou
+[01:09:15] a evolução
+[01:09:17] do salário
+[01:09:19] do paradigma
+[01:09:21] constante dos
+[01:09:23] contra-cheques. Mantendo
+[01:09:27] o último
+[01:09:29] valor
+[01:09:31] recebido
+[01:09:33] durante todo o
+[01:09:35] contrato.
+[01:09:40] Vamos trazer aqui
+[01:09:42] a impugnação.
+[01:10:01] Tem que pedir para ele já fazer a impugnação.
+[01:10:03] Pronto.
+[01:10:04] Ah, não. Ele já deu.
+[01:10:05] Ele é muito legal, cara.
+[01:10:13] Da evolução salarial do paradigma.
+[01:10:21] Só dele.
+[01:10:23] De mais ninguém.
+[01:10:38] Ele, o oráculo, quis ampliar.
+[01:10:41] Eu não vou deixar ele ampliar, não.
+[01:10:47] Olha só.
+[01:10:47] A sentença foi esperta determinar que a diferença salarial
+[01:10:51] explicada pela observação é a evolução remuneratória do paradigma.
+[01:11:02] Devendo observar a evolução salarial contínua nos contrascheques do paradigma.
+[01:11:06] Juntados aos autos.
+[01:11:10] Todavia, a planilha apresentada pelo reclamante
+[01:11:12] verifica se ele se manteve o último salário do paradigma
+[01:11:14] como se fosse o seu salário durante todo o contrato.
+[01:11:18] Desconsiderando a evolução salarial efetiva mostrada nos contrascheques.
+[01:11:21] Tal procedimento.
+[01:11:22] Contraria frontalmente o comando sentencial.
+[01:11:25] Assim, impugnam-se os cálculos do reclamante no particular.
+[01:11:28] Requerendo-se que as bases, que as diferenças salariais
+[01:11:32] sejam calculadas em meias a meias com base no salário efetivamente recebido pelo paradigma
+[01:11:38] em cada competência conforme contrascheques.
+[01:11:44] Se você quiser brilhar ainda,
+[01:11:49] vem aqui,
+[01:11:53] print screen,
+[01:11:57] seleciona, pronto.
+[01:12:04] Tem um light shot também.
+[01:12:10] O pessoal usa bastante também.
+[01:12:12] É muito bom esse aplicativo para poder copiar, marcar.
+[01:12:16] Eu não consegui usar o light shot como padrão.
+[01:12:20] Não entro de jeito nenhum como padrão.
+[01:12:21] É o captura aqui mesmo.
+[01:12:23] Beleza.
+[01:12:24] É só para o pessoal aí também.
+[01:12:25] Se alguém quiser, light shot.
+[01:12:27] Light shot é muito bom.
+[01:12:28] Muito bom.
+[01:12:29] Próxima impugnação aqui.
+[01:12:31] Vamos impugnar as integrações, né?
+[01:12:37] O autor.
+[01:12:38] Motivo 2.
+[01:12:39] O autor apurou.
+[01:12:43] A integração do adicional de periculosidade sem que houvesse determinação expressa em coisa julgada.
+[01:13:05] Deixa ele fazer.
+[01:13:06] A gente está pegando as impugnações, simplificando, ele está fazendo todo o trabalho sujo para a gente.
+[01:13:18] Então, olha só.
+[01:13:19] Comando é, diferenças salariais geram reflexos.
+[01:13:22] As diferenças salariais.
+[01:13:24] Adicional de periculosidade, férrea, dano.
+[01:13:25] Não há.
+[01:13:28] Determinação expressa de reflexo adicional de periculosidade em si e em outras verbas.
+[01:13:36] E ele explica aqui, Renato.
+[01:13:38] Ele está explicando exatamente o que eu falei.
+[01:13:41] Olha.
+[01:13:42] Problema.
+[01:13:43] A sentença não determinou reflexo adicional de periculosidade em outras verbas.
+[01:13:46] Determinou apenas reflexo de diferença salariada nessas verbas.
+[01:13:49] Logo, ao projetar o reflexo de diferença de periculosidade, ele extrapola os limites da coisa julgada.
+[01:13:55] É isso que a gente não quer.
+[01:13:56] Cria verbas de reflexo que não foram referidos.
+[01:14:00] Do ponto de vista...
+[01:14:01] Do ponto de vista doutrinário, o adicional de periculosidade pago de forma permanente
+[01:14:06] integra, sim, as férias da CCRFGTS.
+[01:14:09] Porém, como calculista, você está preso ao título executivo.
+[01:14:14] Se a sentença não definir expressamente, não pode ser apurado.
+[01:14:21] Entenderam?
+[01:14:23] Então, 30%.
+[01:14:33] Deixa eu colar aqui.
+[01:14:43] Gente, a impugnação é realmente só encontrar o erro, tá?
+[01:15:11] É só encontrar o erro.
+[01:15:25] Porque o oráculo faz o resto pra você.
+[01:15:28] Não há em nenhum momento quando a impugnação expressa o pagamento de reflexos.
+[01:15:35] Aí eu vou lá e faço um printzinho aqui.
+[01:15:48] Tá o procedimento.
+[01:15:49] Gente, precisa saber escrever no juridiquês, no tecniquês?
+[01:15:56] Não, o oráculo faz pra você.
+[01:16:01] Qual é a próxima impugnação?
+[01:16:08] Digam-me aí, qual o próximo que a gente quer fazer agora?
+[01:16:13] Os juros, não?
+[01:16:14] O que é isso, professor?
+[01:16:15] O mamuto do 477?
+[01:16:17] O autor?
+[01:16:27] O autor apurou reflexo na multa do A477, o que não restou deferido.
+[01:16:39] Gente, o oráculo, ele é uma benção muito grande na vida de vocês.
+[01:16:46] Na hora que vocês aprendem a usar, ele te explica, ele até te explica, até traduz pra você o que você está pensando.
+[01:17:00] Então, eu já te dou o texto aqui.
+[01:17:16] Ô Jorge, esse oráculo é o chat de EFT?
+[01:17:20] Que você usa?
+[01:17:21] É, chat de EFT.
+[01:17:23] Eu programei ele no chat de EFT.
+[01:17:26] Beleza.
+[01:17:28] Ele é todo programado no chat de EFT no 5.2.
+[01:17:36] Aqui, eu posso até copiar aqui, ó.
+[01:17:39] Aqui é a mesma foto.
+[01:17:44] Pô, ele botou até o artigo, ó.
+[01:17:46] Nos termos do artigo 879, para o primeiro, a liquidação deve ater estritamente aos limites da condenação,
+[01:17:52] sendo vedada a inclusão de parcelas não deferidas na decisão por necessidade de julgado.
+[01:17:56] E ter saudações.
+[01:17:58] Tá impugnado.
+[01:17:59] Desde...
+[01:17:59] Desde...
+[01:18:00] Impugnado.
+[01:18:01] Na ordem aqui.
+[01:18:08] Honorários.
+[01:18:08] Vamos aos honorários.
+[01:18:17] Autor apurou no honorário de 10%.
+[01:18:19] Ele já esqueceu.
+[01:18:33] Já faz muito, muito, muito tempo.
+[01:18:50] Ah, ele já até deu aqui, ó.
+[01:18:52] Hipótese C.
+[01:18:53] Ele já até...
+[01:18:53] Não precisa nem falar.
+[01:18:54] Ele é muito bom.
+[01:19:04] Não é porque é meu filho, não, mas, pô...
+[01:19:07] Isso aqui é uma mão na roda pra vocês.
+[01:19:13] Reclamante apurou em sua planilha o honorário de 10%.
+[01:19:15] Majorando unilateralmente o percentual fixado em julgamento.
+[01:19:18] O que configura, manifesta, vai na...
+[01:19:20] É violação à coisa julgada.
+[01:19:24] Precisa ser gigante a impugnação?
+[01:19:26] Não precisa.
+[01:19:37] E, gente, isso aqui é uma baita impugnação, tá?
+[01:19:41] Boa pra caramba.
+[01:19:43] Impugnação boa pra caramba.
+[01:19:45] Custos.
+[01:19:52] Vamos lá.
+[01:19:54] O autor apurou 416 de custos.
+[01:20:00] Mas foram deferidas...
+[01:20:02] Cadê?
+[01:20:15] Vamos lá.
+[01:20:16] Custos.
+[01:20:40] Mas ele está falando ali das custas, o valor sobre 2%, sobre 70 e poucos mil, né?
+[01:20:46] Isso.
+[01:20:47] Mas a gente achou um valor superior.
+[01:20:52] Superior ao quê?
+[01:20:53] Aos 70 e poucos.
+[01:20:55] Não deu 90 lá?
+[01:20:58] Não, já está fixado aqui.
+[01:21:01] Ah, então considero que está aí.
+[01:21:03] Está aqui.
+[01:21:03] É o valor que o reclamante deu à causa.
+[01:21:05] Tá.
+[01:21:06] Tá?
+[01:21:16] Cola aqui.
+[01:21:29] E mais, se teve recurso ordinário, você vai...
+[01:21:32] Fala lá, essas custas já foram pagas.
+[01:21:33] Inclusive, não tem nem que apurar nada aqui.
+[01:21:42] Vamos fazer o dos juros agora?
+[01:21:47] Professor, faltou da proporcionalização.
+[01:21:52] E do...
+[01:21:54] Daquele sem laço lá das férias, do primeiro valor.
+[01:21:58] Faltou de coisa ainda.
+[01:21:59] Eu estou indo na ordem aqui que está aparecendo aqui na tela para mim.
+[01:22:05] Aplicou.
+[01:22:05] Puxa.
+[01:22:07] A taxa legal da lei 14.905.24 a partir de 30.08.2024, sendo que ocorreu em 22.07.2025.
+[01:22:30] A lei 14.905 não fixa selic para período pré-julio.
+[01:22:46] A lei 14.905 não fixa selic para período pré-judicial.
+[01:22:48] A ADC tampouco.
+[01:22:55] Assim, observa a ADC para o período pré-judicial e a lei 14.905 para após o ajuizamento.
+[01:23:12] Deixa que ele se vira com isso aí.
+[01:23:15] Vai lá, se vira, meu parceiro.
+[01:23:21] Se vira, eu vou fazer essa impugnação aí, meu parceiro.
+[01:23:24] Aqui a gente vai ter que corrigir.
+[01:23:55] Conforme a orientação firmada e se reproduzido no material da pós-graduação,
+[01:24:11] vamos ajustar aqui só esse detalhezinho aqui.
+[01:24:17] Posso pedir para ele não mencionar...
+[01:24:19] Vamos pedir.
+[01:24:28] Não menciona após e o curso no texto.
+[01:24:57] Pronto.
+[01:24:59] Melhor, né?
+[01:25:00] Ele mesmo faz o...
+[01:25:02] Ele mesmo corrige o erro que ele causou.
+[01:25:06] Então, reclamante, tal aposentamento é indevido.
+[01:25:15] Com a advenda da lei 14.905.
+[01:25:26] Na fase judicial.
+[01:25:52] Período que o crédito...
+[01:25:53] Pô, ficou lindo.
+[01:26:00] Lindo.
+[01:26:01] Eu não conseguiria escrever melhor que isso.
+[01:26:06] Eu queria repetição.
+[01:26:07] Pronto.
+[01:26:08] Lindo, maravilhoso.
+[01:26:11] Né?
+[01:26:11] E aí, vamos agora aos juros na fase...
+[01:26:18] É, os juros sobre...
+[01:26:22] O reclamante apurou juros antes da dedução da contribuição.
+[01:26:29] Contribuição.
+[01:26:30] Social do reclamante.
+[01:26:35] Porque é incorreto.
+[01:26:39] Pois dá ao autor juros sobre parcela que não lhe diz respeito.
+[01:26:49] O correto é apurar juros após a dedução.
+[01:26:56] Deixa ele fazer.
+[01:27:13] Gente, o que vocês estão conseguindo acompanhar aqui?
+[01:27:15] Tá tranquilo?
+[01:27:16] Tá tranquilo?
+[01:27:16] Tá?
+[01:27:17] Tá.
+[01:27:17] Ficando claro que...
+[01:27:19] Qual é o processo aqui que a gente está...
+[01:27:21] Que a gente está usando para receber um processo, precificar, fazer o parecer, impugnar...
+[01:27:37] Hein?
+[01:27:58] Ah, Vânia, eu quero fazer uma vez por mês essa aula aqui.
+[01:28:03] E outra, gente, pelo amor de Deus, gente, uma coisa...
+[01:28:06] Dois perícios já foram destituídos lá na minha vara por causa disso.
+[01:28:11] Expliquem a esclarecimento.
+[01:28:14] Expliquem o que vocês estão esclarecendo.
+[01:28:19] Não coloquem duas linhas de esclarecimento, não.
+[01:28:22] Pede para o oráculo te ajudar.
+[01:28:25] Faz isso aqui.
+[01:28:26] Porque o normal que eu estou vendo lá é isso aqui.
+[01:28:29] O reclamante apurou juros antes da dedução.
+[01:28:31] Assim, o que é incorreto, pois, é só isso.
+[01:28:33] O esclarecimento do perito.
+[01:28:37] O esclarecimento do perito é isso aqui.
+[01:28:41] O autor aplicou a taxa legal.
+[01:28:42] Não, tem que ser assim, bonito.
+[01:28:44] Para eu copiar e colar na decisão de...
+[01:28:48] Embargo e execução.
+[01:28:54] Qual o próximo aqui? Vamos lá.
+[01:28:57] Já fizemos tudo aqui.
+[01:29:00] Vamos ver o que mais a gente marcou aqui.
+[01:29:06] Ah, apuração das férias.
+[01:29:10] O autor apurou reflexo de férias em duplicidade.
+[01:29:16] Pois não proporciona a base de cálculo.
+[01:29:26] Não proporciona.
+[01:29:26] Ele proporcionalizou a diferença salarial no mês das férias.
+[01:29:33] E ainda apurou as férias acrescidas de um terço.
+[01:29:46] Sabrina, o que está errado no FGTS?
+[01:29:54] É que ele considera o FGTS sobre os acessos também, professor.
+[01:29:58] Sim.
+[01:30:00] Mas como eu fui aqui na frente, aqui ó, como ele apareceu aqui na frente essa questão das férias, eu fui para as férias.
+[01:30:24] Diga, Gilmar.
+[01:30:27] Professor, me serviu agora um pensamento aqui sobre o caso que o senhor falou do perito.
+[01:30:31] Digamos que o perito foi nomeado nessa situação, como o professor comentou,
+[01:30:36] e ele vai fazer a apuração só do que está incongruente ali, a diferença, certo?
+[01:30:40] Digamos que na hora que ele calcula, o que ele encontra é diferente dos dois valores.
+[01:30:45] Aí o que ele tem que fazer?
+[01:30:49] Como assim?
+[01:30:50] Tipo assim, foi aparecer um cálculo lá para o perito que deu diferença no caso da verba de diferença salarial, por exemplo.
+[01:30:57] Aí a ré apresentou um valor e a reclamante apresentou outro.
+[01:31:02] E aí ele pegou só esse item e apurou, ele como perito, ele apurou para ver.
+[01:31:07] E aí o valor que ele encontrou é diferente tanto da ré quanto do doutor.
+[01:31:12] Aí o que ele faz? Ele coloca o valor e mantém.
+[01:31:15] Entre um e outro?
+[01:31:16] Isso.
+[01:31:17] Normal. Esse é o objetivo da perícia.
+[01:31:20] Certo.
+[01:31:20] Certo.
+[01:31:21] Tá, entre um e outro.
+[01:31:23] Certo. E se acontecer de forma menor, ou ele fez erro ou...
+[01:31:27] Ou a reclamada errou, mas aí você tem que ir no erro da reclamada.
+[01:31:30] Você não pode corrigir erro de reclamada.
+[01:31:32] Certo.
+[01:31:34] Tá, então, você sendo perito, o mínimo que você pode apurar é o que a reclamada apurou
+[01:31:39] e o máximo é o que o reclamante apurou.
+[01:31:42] Perfeito.
+[01:31:42] A única opção de dar acima do que o reclamante apurou é...
+[01:31:49] Porque o reclamante apurou e...
+[01:31:50] Em 2020, você tá apurando hoje.
+[01:31:53] Aí pode dar acima do doutor.
+[01:31:56] Sim.
+[01:31:57] Mas não é pra dar acima do doutor.
+[01:31:59] Aí você vai falar, não, tá maior que o doutor porque eu apurei hoje.
+[01:32:04] Na verdade, o valor histórico é menor que o doutor, aí você consegue...
+[01:32:07] Alguém que tá lendo vai conseguir entender.
+[01:32:09] Perfeito.
+[01:32:09] Então, nesse caso, o objetivo do perito é encontrar um valor entre os dois, ali, entre de um e de outro.
+[01:32:14] É o correto.
+[01:32:15] É o correto.
+[01:32:16] Certo.
+[01:32:16] Tá?
+[01:32:17] Perfeito. Obrigado.
+[01:32:19] Então, a gente falou...
+[01:32:20] Na prática, o autor...
+[01:32:22] Na prática, o autor...
+[01:32:23] Ele atuou a diferença salarial como se fosse devido integralmente no meio de gol dos férias, né?
+[01:32:27] Fazendo com que a diferença salarial inteira integrasse a base de causa das férias.
+[01:32:31] Nessa mesma base foram apuradas as férias mais um terço.
+[01:32:34] Esse promenso de desimento gera apuração em duplicidade, né?
+[01:32:38] Ele explicou tudinho aqui.
+[01:32:39] Tá linda essa impugnação.
+[01:32:41] O correto, ou proporcionalizar a diferença ou apurar as férias com apenas o fator de um terço.
+[01:32:46] Quando a principal já foi considerada integralmente no meio das férias, evitando a duplicidade.
+[01:32:50] Impugnou os cálculos e os declamantes em particular.
+[01:32:54] Tá?
+[01:32:55] Agora vamos do FGTS.
+[01:32:59] A pergunta que vocês iam fazer aí.
+[01:33:01] Oi, Jorge.
+[01:33:04] Levando em consideração que o perito tem que ser imparcial.
+[01:33:08] Ele vai calcular o que o juiz decretou.
+[01:33:12] Se os valores dão diferente, né?
+[01:33:15] Não tiver entre o outro, mas tiver bem embasado, tiver um cálculo bem feito, bem justificado.
+[01:33:20] Tá?
+[01:33:22] Acontece, sim.
+[01:33:23] É comum acontecer às vezes você pegar um cálculo do réu, um cálculo da reclamante, né?
+[01:33:29] E os dois ser um cálculo pode ser talvez mal feito, digamos assim?
+[01:33:35] Sim.
+[01:33:43] O autor apurou reflexos dos...
+[01:33:46] Apurou integração.
+[01:33:49] Foi, Vânia?
+[01:33:56] Resolvi a sua dúvida?
+[01:33:59] Deu um delay aqui.
+[01:34:00] Não ouvi.
+[01:34:01] Cortou só a...
+[01:34:03] Ótimo.
+[01:34:03] Na internet.
+[01:34:04] Ótimo.
+[01:34:04] Ficou ruim.
+[01:34:05] O reclamante e a reclamada podem ter errado os cálculos deles.
+[01:34:09] A reclamada pode estar apurando mais do que é devido.
+[01:34:11] O reclamante pode estar apurando menos do que é devido.
+[01:34:15] Pode.
+[01:34:16] Mas você tem que ficar nesse range.
+[01:34:21] Porque você estava aqui na hora de fazer a história?
+[01:34:24] Sim, sim.
+[01:34:28] Estava?
+[01:34:31] Sim, estava.
+[01:34:33] Então, é isso que você não quer.
+[01:34:37] Eu não quero que te falem.
+[01:34:41] E se a reclamada falar...
+[01:34:43] A base de cálculo que você usou está errada.
+[01:34:46] Aí você vai falar...
+[01:34:46] A base de cálculo é incontroversa.
+[01:34:48] Eu só usei a mesma base de cálculo que a reclamada usou no cálculo dela.
+[01:34:52] Acabou.
+[01:34:54] Acabou.
+[01:34:54] Acabou.
+[01:34:55] A quantidade de horas extras está majorada.
+[01:34:59] A quantidade de horas extras é incontroversa.
+[01:35:02] Eu usei a quantidade de horas extras do cálculo da reclamada.
+[01:35:07] Acabou a discussão.
+[01:35:09] A reclamada vai se espernear, vai gritar...
+[01:35:10] Acabou a discussão.
+[01:35:13] Eu estou usando...
+[01:35:14] Eu estou dando para você que você está correto.
+[01:35:19] Eu estou usando a quantidade que você apurou.
+[01:35:22] Ah, mas a quantidade está errada.
+[01:35:28] Existe uma coisa chamada preclusão lógica.
+[01:35:32] Você não pode tomar uma atitude ilógica com a que você tomou anterior.
+[01:35:39] Eu apresentei os cálculos e agora digo que esses cálculos estão errados?
+[01:35:45] Não.
+[01:35:45] Não.
+[01:35:48] Entendi.
+[01:35:49] Não é?
+[01:35:50] Não.
+[01:35:54] Ilan, se já temos que ir impugnando a diferença varial, já está errada.
+[01:36:00] Não entende que FGTS e reflexo automaticamente já não estão errados também?
+[01:36:05] Você falou a palavrinha certa.
+[01:36:07] Automaticamente.
+[01:36:08] Se você está impugnando a base, você não precisa impugnar os reflexos.
+[01:36:14] Se a base está errada, os reflexos já estão errados.
+[01:36:16] Você não precisa expressamente falar,
+[01:36:18] os reflexos também estão errados.
+[01:36:20] Não.
+[01:36:20] A base de cálculo foi feita de forma errada.
+[01:36:26] Pronto.
+[01:36:28] Mas no nosso caso, a gente não está impugnando já a base?
+[01:36:32] Quando a gente fala lá do paradigma?
+[01:36:35] Sim.
+[01:36:37] Então, aí não precisaria estar impugnando todas as demais.
+[01:36:43] Olha só.
+[01:36:44] Uma coisa, você impugnar reflexo.
+[01:36:50] Corrente da alteração da base.
+[01:36:55] A outra coisa, é impugnar metodologia de reflexo.
+[01:37:03] Uma coisa, é uma coisa.
+[01:37:04] Outra coisa é outra coisa.
+[01:37:06] Ou seja, se o reclamante tivesse apurado os reflexos todo correto,
+[01:37:11] você só impugna, você vai, só vai impugnar base de cálculo e mais nada.
+[01:37:16] Porque aí vai ajustar, vai ajustar.
+[01:37:18] Agora ele está apurando férias em duplicidade.
+[01:37:21] Está apurando reflexo em reflexos.
+[01:37:23] tá apurando os reflexos
+[01:37:25] na base de cálculo do FGTS
+[01:37:27] aí é outra coisa
+[01:37:28] você conseguiu entender a diferença?
+[01:37:32] entendi
+[01:37:33] então tá, eleitora da sentença
+[01:37:48] houve condenação pra canêmia aberta sobre as verbas principais
+[01:37:51] aham
+[01:37:52] espapolas de muita coisa julgada promovem
+[01:37:54] prontos, ainda deu um
+[01:38:01] olha só
+[01:38:03] eu não gosto de botar
+[01:38:05] é
+[01:38:07] a jurisprudência aqui não
+[01:38:09] o oráculo é muito bom
+[01:38:11] não sei como é que ele tá em jurisprudência
+[01:38:13] eu não quero pesquisar jurisprudência
+[01:38:14] aqui não precisa de jurisprudência
+[01:38:16] então
+[01:38:18] é
+[01:38:20] impugna-se o cálculo
+[01:38:25] do reclamante
+[01:38:27] no particular
+[01:38:28] tá
+[01:38:30] o que mais que tá errado aqui gente
+[01:38:37] as férias nós já impugnamos
+[01:38:46] eu acho
+[01:38:49] que vale a pena falar dessa base de cálculo
+[01:38:51] a base
+[01:38:53] de
+[01:38:54] cálculo
+[01:38:56] das férias
+[01:38:58] de
+[01:39:00] 2024, 2005
+[01:39:02] não, de 2003, 2024
+[01:39:04] está majorada
+[01:39:08] ah
+[01:39:10] pois
+[01:39:11] apurada na proporção
+[01:39:14] de
+[01:39:15] 721389
+[01:39:17] quando a diferença
+[01:39:20] salarial
+[01:39:22] apurada
+[01:39:23] pelo
+[01:39:24] autorizado
+[01:39:25] foi
+[01:39:25] de
+[01:39:26] 329969
+[01:39:28] segurança
+[01:39:30] segurança
+[01:39:31] tá muito bizarro isso aqui
+[01:39:33] se não tivesse essa apuração bizarra aqui
+[01:39:35] a gente não precisava impugnar
+[01:39:38] mas tá muito bizarro
+[01:39:51] da base
+[01:39:52] de cálculo
+[01:39:53] das férias
+[01:40:11] Aqui a gente vai ter que melhorar um pouquinho.
+[01:40:35] Dessa forma, impugnamos os cálculos do reclamante no particular.
+[01:40:39] Pessoal, falta uma coisa.
+[01:40:43] É por isso que a pós-graduação é estratégia de cálculo trabalhista.
+[01:40:48] Vocês vão ter que ver o que vocês fazem.
+[01:40:52] Por que que acontece?
+[01:40:53] Nesse caso aqui, se caísse na minha mão, o cálculo do autor seria rejeitado.
+[01:41:02] E se o autor impugnasse os nossos cálculos,
+[01:41:07] ele provavelmente impugnaria com o salário do reclamante e tal, beleza.
+[01:41:10] Mas ele não falaria nada da contribuição social.
+[01:41:16] Não sei se vale a pena impugnar os juros e multa da contribuição social.
+[01:41:21] Mas vou fazer aqui, para a gente entender como é que vai ser essa lógica aqui.
+[01:41:29] João Pedro, senti uma dúvida para a coluna período mensal.
+[01:42:00] Ela aparece dessa forma, repetindo.
+[01:42:02] 30 a 30...
+[01:42:05] Isso, João Pedro.
+[01:42:07] Férias indenizadas.
+[01:42:10] As férias são devidas na data que elas são pagas.
+[01:42:15] Então, se elas forem gozadas, no período que elas forem gozadas,
+[01:42:18] se elas forem indenizadas no período da demissão.
+[01:42:27] Ainda que parta de jurisprudência, não concede nada.
+[01:42:35] Retire a parte da...
+[01:42:38] Jurisprudência.
+[01:42:47] Não concede nada no termo de impugnação.
+[01:42:54] Ah, ainda que exista a possibilidade do autor fazer isso?
+[01:42:57] Não, você corrige ele.
+[01:42:58] Não tem possibilidade.
+[01:42:59] Da minha mão não tem essa possibilidade.
+[01:43:01] Eu estou defendendo que não tenha.
+[01:43:24] 13.
+[01:43:43] E aí, nós terminamos nossa impugnação.
+[01:43:45] Foi uma baita impugnação ou não foi?
+[01:44:17] Foi uma baita impugnação.
+[01:44:20] Quando vocês estavam fazendo a impugnação,
+[01:44:22] sejam sinceros aí no chat para mim.
+[01:44:25] Me digam quantas impugnações dessa aqui vocês fizeram.
+[01:44:30] Nós fizemos, ó...
+[01:44:34] 1, 2, 3, 4, 5, 6, 7, 8 impugnações.
+[01:44:44] Quantas... 9, 10, 11.
+[01:44:49] Quantas impugnações vocês fizeram?
+[01:44:51] A gente fez 11 aqui.
+[01:44:52] Juntos.
+[01:44:53] Quantas vocês fizeram?
+[01:44:56] Porque enquanto vocês estão falando aí no chat,
+[01:44:59] eu vou ajustar aqui uma coisa.
+[01:45:03] O histórico salarial do salário recebido.
+[01:45:06] Eu vou botar 3, 2003, a 5, 2025.
+[01:45:16] Então o valor, o último valor.
+[01:45:18] 392020.
+[01:45:27] Regero.
+[01:45:31] Liquido.
+[01:45:31] Ah, tem mais uma impugnação.
+[01:45:39] Tem mais uma.
+[01:45:44] Muito bem lembrado aí.
+[01:45:46] A Sabrina, eu acho que me lembrou.
+[01:45:48] Os honorários sucumbenciais
+[01:45:52] foram apurados sobre o valor bruto da condenação,
+[01:46:01] incluindo o INSS devido pelo autor.
+[01:46:05] Só que a sentença...
+[01:46:25] Tá?
+[01:46:25] Vamos colocar mais uma aqui.
+[01:47:02] Tá?
+[01:47:02] E isso aqui, gente,
+[01:47:04] é uma impugnação, baita impugnação.
+[01:47:08] Baita, baita, baita.
+[01:47:10] Tá?
+[01:47:11] E é isso que eu quero que vocês façam.
+[01:47:17] É assim que eu quero que vocês trabalhem.
+[01:47:29] Porque eu quero...
+[01:47:31] O advogado que vir essa impugnação,
+[01:47:35] ele vai ficar de cara.
+[01:47:36] Vai falar, cara, esse cara é bom.
+[01:47:39] Esse cara é bom.
+[01:47:40] Esse cara é bom.
+[01:47:40] Ainda mais...
+[01:47:41] Se você fizer o seguinte.
+[01:47:53] Pedir conclusão demonstrando a redução
+[01:48:11] no valor devido que conseguimos.
+[01:48:18] Cálculo do autor é 20961833.
+[01:48:25] Nossos cálculos, 115, 63343.
+[01:48:35] Informar a redução.
+[01:48:38] Percentual.
+[01:48:40] E monetário.
+[01:48:47] Eu quero
+[01:48:47] que aluno meu
+[01:48:50] demonstre isso aqui.
+[01:49:07] Eu quero que aluno meu
+[01:49:08] seja esse cara.
+[01:49:10] Vocês estão numa pós-graduação de estratégia.
+[01:50:00] E isso aqui
+[01:50:01] que eu quero que vocês entendam.
+[01:50:05] Isso aqui
+[01:50:06] que define o seu valor como calculista.
+[01:50:12] Eu quero que vocês entendam isso.
+[01:50:16] Vocês conseguem entender isso?
+[01:50:20] Porque calculinho
+[01:50:21] todo mundo faz.
+[01:50:23] Pegar e fazer esse cálculo
+[01:50:24] no PJT é cálculo que todo mundo faz.
+[01:50:27] É ou não é?
+[01:50:29] Pegar e fazer
+[01:50:30] isso aqui.
+[01:50:31] Isso aqui
+[01:50:35] você está matando a cobra e mostrando pau.
+[01:50:39] Lá ele.
+[01:50:45] Você está falando assim, olha só.
+[01:50:48] O senhor achou caro
+[01:50:49] pagar
+[01:50:50] sei lá, mil reais
+[01:50:54] pelo meu serviço?
+[01:50:56] Mais caro
+[01:50:58] seria
+[01:50:59] seu cliente pagar 209 mil.
+[01:51:03] Agora ele está pagando 115.
+[01:51:05] Uma redução de 93 mil reais.
+[01:51:08] Os mil reais
+[01:51:09] que você está pagando
+[01:51:09] e você me pagou
+[01:51:10] foram irrisórios.
+[01:51:12] Foram ridículos.
+[01:51:17] A gente fez isso aqui em duas horas.
+[01:51:19] Tudo. O cálculo, a impugnação,
+[01:51:21] tudo a gente fez em duas horas.
+[01:51:26] É ou não é?
+[01:51:32] Então, pessoal, eu queria até ter tempo
+[01:51:35] para analisar aqui
+[01:51:37] os exercícios de vocês,
+[01:51:39] mas não vou conseguir.
+[01:51:42] Não vou conseguir.
+[01:51:45] Eu vou ver
+[01:51:46] se a equipe
+[01:51:50] pode fazer
+[01:51:51] isso.
+[01:51:52] Uma análise.
+[01:51:56] Eu sei que consegue fazer uma análise
+[01:51:58] do cálculo de vocês com
+[01:52:00] o IA.
+[01:52:01] O que vocês têm que fazer agora?
+[01:52:04] Estudar.
+[01:52:06] Rever essa aula.
+[01:52:07] Tem que rever essa aula, sim.
+[01:52:10] Vocês vão ter acesso aos cálculos.
+[01:52:12] Se vocês entrarem lá no link
+[01:52:14] do exercício,
+[01:52:17] tem uma pasta agora
+[01:52:20] chamada resultado do exercício.
+[01:52:21] E lá vocês vão ter os cálculos
+[01:52:25] e o parecer técnico da impugnação.
+[01:52:35] Ô, Jorge,
+[01:52:36] se você puder,
+[01:52:38] faz um dia de hora extra.
+[01:52:41] Eu estou com tanta dificuldade
+[01:52:42] sobre hora extra.
+[01:52:44] Vamos. É porque, assim,
+[01:52:47] como eu pretendo fazer mês a mês, eu queria começar
+[01:52:49] devagar com vocês, para não assustar ninguém.
+[01:52:53] Tá?
+[01:52:54] Mas a gente vai fazer de horas extras.
+[01:52:57] Beleza?
+[01:52:58] E outra dúvida também que eu tenho,
+[01:53:01] que eu peguei um caso assim e não soube fazer,
+[01:53:04] é um cálculo,
+[01:53:05] e tinha depósito judicial.
+[01:53:09] Aí estava pedindo para atualizar
+[01:53:11] o depósito judicial.
+[01:53:13] Tem uma aula específica
+[01:53:15] de atualização de cálculo externo
+[01:53:17] e dedução de parcelas pagas
+[01:53:20] durante o contrato.
+[01:53:21] Estão juntas essas aulas.
+[01:53:23] Pois é, eu assisti, mas eu confesso
+[01:53:25] que eu fiquei com muita dúvida nessa aula.
+[01:53:27] Você tem que fazer o cálculo por fora, né?
+[01:53:30] Na verdade, você pode fazer,
+[01:53:32] você pode usar o seu cálculo
+[01:53:33] que foi homologado.
+[01:53:34] Mas, na verdade, eu não entendi.
+[01:53:34] Eu não entendi.
+[01:53:34] Eu não entendi.
+[01:53:34] Eu não entendi.
+[01:53:34] Eu não entendi.
+[01:53:35] Eu não entendi.
+[01:53:35] Eu não entendi muito bem, não.
+[01:53:38] Tá. Assiste de novo.
+[01:53:41] Mas você pode usar o seu cálculo que você fez.
+[01:53:44] Não precisa trazer um cálculo de fora.
+[01:53:48] Mas se de repente tiver até alguém aí que possa me ajudar, eu agradeço.
+[01:53:52] Tem.
+[01:53:54] Alguém aí pode ajudar ela, gente?
+[01:53:58] Eu posso, Renata.
+[01:54:00] Se você conseguir colocar seu número aqui na descrição, eu te chamo no WhatsApp depois.
+[01:54:04] Maravilha. Isso aí.
+[01:54:05] Obrigada.
+[01:54:06] Vou botar aqui.
+[01:54:08] Botei aí.
+[01:54:16] Falou, pessoal.
+[01:54:17] Gente, pelo amor de Deus, assistam essa aula de novo.
+[01:54:21] Entendam a estratégia da coisa.
+[01:54:23] A gente vai fazer mais vezes isso aqui.
+[01:54:26] Mas trabalhem com isso em mente.
+[01:54:31] Isso aqui que traz dinheiro no bolso de vocês.
+[01:54:35] Beleza?
+[01:54:37] Beleza. Obrigada.
+[01:54:40] Boa noite, pessoal.
+[01:54:41] Boa noite.
+[01:54:42] Fica com Deus.
+[01:54:44] Tchau.
+[01:54:44] Boa noite, professor.
+[01:54:45] Boa noite. Obrigada. Tchau.
+[01:54:47] Tchau.
+[01:54:48] Boa noite.
+[01:54:49] Boa noite.
+[01:54:50] Boa noite.
+[01:54:51] Boa noite.
+[01:54:52] Boa noite.
+[01:54:53] Boa noite.
+[01:54:54] Boa noite.
+[01:54:55] Boa noite.
+[01:54:56] Boa noite.
+[01:54:57] Boa noite.
+[01:54:58] Boa noite.
+[01:54:59] Boa noite.
+[01:55:00] Boa noite.
+[01:55:01] Boa noite.
+[01:55:02] Boa noite.
+[01:55:03] Boa noite.
+[01:55:04] Boa noite.
+[01:55:05] Boa noite.
+[01:55:06] Boa noite.
+[01:55:07] Boa noite.
+[01:55:08] Boa noite.
+[01:55:09] Boa noite.
+[01:55:10] Boa noite.
+[01:55:11] Boa noite.
+[01:55:12] Boa noite.
+[01:55:13] Boa noite.
+[01:55:14] Boa noite.
+[01:55:15] Boa noite.
+[01:55:16] Boa noite.
+[01:55:17] Boa noite.
+
+---
+
+## Texto corrido
+
+Então, olha só, vamos fazer o parecer e o parecer vai ficar aqui no resultado do exercício, na pasta, tá? Vamos lá. Primeiro do parecer, vamos escrever os detalhes. Vou fazer outra coisa aqui. Melhorou, né? Então, olha só, para parecer técnico aqui, número do processo. Aqui está o número do processo. Professor, eu tenho que compartilhar a tela. Estou vendo a tela, não. Então, o número do processo aqui não é um cumprimento de sentença. Vamos excluir. O juízo é Quinta Vara do Trabalho Rio de Janeiro, onde eu trabalho. Nossa, mas com esse mouse aqui fica difícil... Pronto. Ô, Jorge. Oi. A Renata está falando aqui. Esse modelo de parecer técnico tem nas suas aulas? Eu ainda não cheguei até os 5 e já estou praticando já. Tem no... No... No... Prospecção. Professor. Hum? Consegue deixar esse atalho do oráculo também na pasta? Hum... Vou deixar junto com o parecer, tá? Tá. Ih, cadê? Copia e cola aí para mim. Professor. Oi. Para mim, na aba de prospecção, só está aparecendo que certas aulas vão ficar disponíveis só a partir de julho. Incluindo essa de... Essas aulas de impugnamento. E eu queria saber se está correto ou se... É isso mesmo. É isso mesmo. É isso mesmo. Que eu preciso que você foque em outras coisas antes da impugnação. Ah, entendi. Aí, eu estava procurando esse parecer, né? Para utilizar como modelo, mas eu entendi agora. Está lá no prospecção. Então, a gente tem aqui já a nossa sentençazinha. E forma... Resumo objetivo do que restou definido. E aí, o que você acha? O que você acha? O que você acha? O que você acha? O que você acha? O que você acha? Está pronto ou não está o parecer? Hein? Eu achei que o parecer tivesse que fazer depois do cálculo. Então, o que é que... Não, não, não, não. Não, não, não, não. O parecer, ele é o resumo da sentença. Então, para você não ter que mais ficar usando a sentença, o processo, você faz o parecer primeiro. E com o parecer, você vai fazer o cálculo dos seus honorários. Quanto deu o honorário de vocês aí? Escreve aí no chat. Seus honorários não é o percentual em cima do valor do cálculo? Pode ser, mas você já vai começar fazendo assim? Se você conseguir cobrar assim, ótimo. Porque você está falando dos honorários de sucumbência, não é isso ou não? Não, seus honorários, como assistente. Tá. Tá? Eu estou cobrando aqui uma média assim, o cálculo mínimo que eu estou cobrando é 500. Maravilha. Aqui a gente tem a planilha de precificação. Está todo mundo vendo aqui a planilha de precificação? Eu vou fazer a minha precificação. A minha precificação. Quantos cálculos você já fez? Mais de 5 mil. Você já recebeu mais de 10 nomeações? Eu vou dizer que sim, porque eu trabalho lá dentro. Então, eu já fiz cálculos mais difíceis. Que as nomeações. É urgente? Não. Então, quantos anos de contrato? Quantos anos de contrato foram aqui? Foram meses, não é? Não, de 23 a 25. A vida é 25, é. 23 a 24, 24 a 25, é. Dois anos. Última remuneração do TRCT? Para quanto que foi? 6.458. 6.458. Por ação de verbo do contrato, sim. Horas extras? Não. Digitação de cartão de ponto? Não. Digitação de valores valiares no contra-cheque? Eu não vou considerar, não. Então, para mim, o meu cálculo com impugnação e tudo, sairia R$1.740. Mas, para vocês, isso seria diferente. O Ilan, R$880. A Débora, R$480 mais R$900 com impugnação. Débora Maroto, R$440. Gilmar, R$400. Isso aqui é para você ter uma ideia de quanto você pode cobrar de acordo com a complexidade do cálculo e da sua experiência, claro. Quanto mais experiente você é, mais você pode cobrar. E aí você vai fazer lá o orçamento. Você pode até pedir para o oráculo fazer. Oráculo, faz um orçamento para mim. Vou apresentar ao advogado. R$1.760, né? Incluído os cálculos, impugnações, recursos em fase de execução envolvendo cálculos e eventuais atualizações. Ele vai fazer até um modelinho aqui, proporcional. Após-general, os cálculos trabalhistas, valor global da proposta. Só pedir, faz um orçamento, meu valor é esse. A gente pode se basear com orçamento em cima do valor da causa? Pode. Mas aí você vai ter que receber ao final, né? Tem aluno que só trabalha com 3% a 5%. Eu ia perguntar isso. Como que a gente ia precificar em cima do valor da causa? Em porcentagem? Porcentagem. Tem até um contato, lá na prospecção de clientes e vários do trabalho, que você tem um contrato para parceria. E aí você vai cobrar 3%, 5%, 10%, não sei como é que você vai fazer, sobre o valor que você conseguir daquela condenação. E aí você vai receber no pagamento. E existe a opção de olha só, eu cobro 5% para fazer isso aqui, mais R$1.000 ou R$2.000 de adiantamento. Beleza? Então vamos lá. O nosso parecer está pronto, né? Agora vamos para o cálculo. Eu já posso fechar aqui e partir para o PJT Calc. Vamos junto? O tamanho está bom aqui na tela? Digam aí, pessoal, o tamanho está bom na tela? Está, né? Então vamos lá. 0100912 642025 0100005 Alberto Teixeira Marins Sunflow Suplementos Está vendo que eu nem abri o cálculo da outra parte ainda, né? Nem me interessa ainda o cálculo da outra parte. Rio de Janeiro, admissão dia 22 do 3 de 2023 demissão 30 do 5 de 2025 ajuizamento 22 do 7 de 2025 A maior remuneração é a maior remuneração foi para 645822 Eu não recomendo botar equiparação a maior remuneração. Recomendo botar a remuneração real dele. Por quê? Porque muitas vezes é definido o verbo a decisória e aí na equiparação é definido o reflexo. Então é melhor você usar nas verbas decisórias o salário que ele recebeu mesmo e aí a equiparação bater os reflexos. Tá? Rodrigo Bechtier consegue cobrar 1400 dos cálculos. Maravilha. Caso tenha retorno 750. Muito bom o valor que você está cobrando aí, cara. Bem alto mesmo. Então, já cadastramos aqui. Agora a gente precisa do quê? Cadastrar os históricos. Hã? Histórico salarial dos dois. Isso. E, para ficar molezinha para vocês, eu dei o histórico para vocês. E vocês sabem usar o copiar e colar, né? Sim. Então vem aqui no histórico. Novo. Salário recebido. Colocamos aqui zero. Contribuição social recolhida. Vamos vir aqui. Ih, acabou ficando dois paradigmas. Vocês entenderam aí, né, gente? Sim. Sim. Porque a tabela ficou esquisita aqui. Mas olha só. Não, para entender pelo caso aqui, o último salário era de 3920, que era a chave do empregado. Estava escrito lá, né? É. O valor certinho do salário recebido, né? O salário devido. Toma aqui. Copiar aqui. E colar. Alguém tem dúvida sobre isso aqui? Não. Até aqui todo mundo viu? Eu não sei. Eu não sei. Estou correndo. Copiar e colar. Você já assistiu a aula de copiar e colar? Acho que não. Tem aula disso. Esse campo paradigma 2 é o salário devido. É. Acabou que na atualização aqui da planilha ficou errado. Mas você conseguiria entender sua excelência de sentença, né? Viu que era 6458 para 3920, né? O senhor pode mostrar como o senhor fez para copiar? Porque eu assisti a aula de copiar e colar. Só que eu já consegui em outros documentos, mas nesse aqui eu não consegui selecionar só a coluna. Então, você vai abrir no Adobe Acrobat. Tem que ser no Adobe. E aí você aperta Alt e seleciona só a coluna. Ah, certo. Eu acho que eu... Eu acho que eu... Eu acho que eu... Eu acho que eu... Eu acho que eu... Eu acho que eu... Eu acho que eu... Eu acho que eu... Eu acho que eu... documentos anteriores, tem a mesma no formato. Se você não apertar o alt, você vai selecionar tudo. Quando você aperta o alt, você seleciona só a coluna. Beleza? Então nós temos aqui os históricos salariais cadastrados. Vamos lançar aqui, então, a diferença salarial, né? Oi, Jorge. Oi. O salário paradigma não vai contribuição social, não, né? Não. Porque, olha só, qual é a lógica aqui? O salário recebido, a gente registra como contribuição social, é base de contribuição social e contribuição social recolhida. Porque isso tem que entrar na base de cálculo do INSS. Como é que funciona o INSS do autor? Ele tem um teto. Se o salário dele era tipo 8 mil reais, ele não vai pagar nada de INSS, porque ele já recolhia sobre o teto. A gente precisa informar o valor recolhido. Aqui, no salário devido, não envolve, a gente não vai botar FGTS nem contribuição social, porque isso aqui tem que pagar para ele só a diferença. Isso aqui só serve como base de cálculo mesmo para a verba. Então, mas quando... Se for deferida a diferença, tem que fazer o recolhimento do INSS, né? Sobre a diferença. A diferença, isso. Mas aqui, no histórico, você não tem como pegar a diferença. Você pega a diferença na verba. Né? Por isso que você, no salário devido, ele não recebeu, você não marca nem FGTS, nem contribuição social. Por quê? Quando você vem aqui em diferença salarial, diferença salarial, ó gente, uma coisa, esse aqui é uma verba só. Numerem as verbas que vocês estão lançando. Mesmo... Aqui é uma verba só, não vai fazer diferença. Mas quando você tá lançando 10 verbas diferentes, numere ela. Vai ficar muito mais bonito o seu cálculo, tá? Então, se você tiver uma verba só, não vai fazer diferença. Ainda mais se você quiser que ele esteja na ordem que você quer. Tá? Então, vamos lá. Diferença salarial. Salário devido aqui, proporcionalizar sim. E aqui embaixo, salário recebido, proporcionalizar sim. E olha só, o que que já tem aqui? Contribuição social e FGTS. Aqui, já vai tá apurando contribuição social e FGTS sobre a diferença só. Volta aí o que que você marcou, hein? Por favor. Marquei. A base de cálculo. A base de cálculo. Qual a base de cálculo? Histórico salarial, salário devido. É o salário devido que a gente quer. Qual é o valor pago? É o salário recebido. Então, o que que a verba vai fazer? Vai apurar o salário devido. A diferença. Divisor 1, multiplicador 1, quantidade 1. Então, o salário devido. Deduzir, como estava lá no valor pago, o salário que ele já recebeu. Então, aqui ele vai apurar só a diferença. Contribuição social e FGTS sobre a diferença. Tá? Salvar. Regerar. Tá, Gilmar? Quer falar alguma coisa? Sim, professor. Eu tive uma dúvida nessa parte aí, porque eu fiz dessa forma e depois tem a outra opção também, que eu queria saber o impacto. Que é direto na verba, tem lá, direto pela diferenciação. Direto pela diferença salarial, né? Não tem? Como assim? Quando você vai fazer aquelas marcações lá do histórico salarial dentro da verba. Aí, em vez de escolher, por exemplo, eu sei que pode escolher salário devido lá em cima, como base de cálculo, embaixo lá é o salário pago. Não tem uma opção ali em cima que coloca a diferença salarial direto? Não. Tá. E assim, tem gente, tem muita gente que coloca um histórico salarial escrito diferença salarial. Uhum. Isso é usar mal o sistema. Certo. Qual é o objetivo? Além de calcular, é que as pessoas entendam o que você tá fazendo. Tem que deixar muito claro o que você tá apurando ali. Uhum. Entendeu? Então, pra que que eu vou botar já a diferença salarial? Não, deixa o sistema apurar. Deixa o sistema mostrar que ele apurou a diferença salarial. E como que ele fez isso. Certo. Entenderam? Entendi. Então, a gente salva. Eu poderia nomear no caso como salário do paradigma. Hã? Eu poderia nomear no caso como salário do paradigma. Poderia. Salário devido, salário do paradigma. Salário do fulano de tal, pode botar. Salário do reclamante, pode botar. Não tem problema não. Tá? E aí, a gente tem que... Olha só um problema que a gente tem aqui. Foi definido reflexo adicional de periculosidade. Só que não tem periculosidade aqui. A gente vai ter que fazer na mão. Lançar uma verba manual. Vamos fazer isso agora. Manual. Eu lancei, eu acho que lá dentro do histórico salarial... Ô Jorge. Eu lancei lá como incluir uma verba de adicional de periculosidade. Calculei os 30% sobre a diferença. Maneira... Não, não é a maneira de usar o sistema. Tem que mostrar o que você tá fazendo aqui. Até que você tenha uma verba de adicional de periculosidade. Aqui é a forma de você mostrar que tá apurando o adicional de periculosidade. Que ele vai mostrar exatamente como é que ele apurou. A conta que ele fez. É... Rodrigo... Porque o adicional incide sobre as outras verbas, né? O quê? Eu entendi na leitura que ele fala que o adicional de periculosidade incide sobre as outras verbas recisórias. Não falou em nenhum momento isso. Vamos abrir de novo aqui. As diferenças salariais referidas repercutem no adicional de periculosidade em férias mais um terço, décimo terceiro, aviso prévio e FGTS. Alguém entendeu como ela também? Porque aqui tá escrito assim, ó. Lá no dispositivo. Reflexo das parcelas deferidas no adicional de periculosidade, 30%, em férias mais um terço, décimo terceiro, aviso prévio, FGTS, mais 40. Tudo apurar em liquidação. Isso. Onde é que tá o... Onde é que tá o... Onde é que tá o... Onde é que tá o... Onde é que tá o... Onde é que tá o... Onde é que tá o... Onde é que tá o... Onde é que tá o... Onde é que tá o... Onde é que tá o... Onde é que tá o... Onde é que tá o... A integração do aviso prévio. Do adicional de periculosidade, quer dizer. Então, eu li isso lá no dispositivo. Aqui, o dispositivo. Isso, aí eu entendi que os 30% aí incidia sobre férias, um terço. Não tem. E aqui falamos expressamente não. Reflexo das parcelas deferidas no adicional de periculosidade em férias, décimo terceiro, férias, 10 de terceiro, aviso prévio e FGTS. Não tem uma reflexão em cadeia. Para ter em cadeia, reflexos das parcelas deferidas no adicional de periculosidade e com ele em férias, tem que ter essa conjunçãozinha. E com ele. Mas, por exemplo, se eu jogasse essa frase aí no oráculo, ele me responderia? Sim. Vamos lá. Professor, tinha levantado a mão. Pelo que restou deferido, o adicional de periculosidade oriundo da diferença salarial, reflete e integra. Vamos ver a opinião dele. Uma coisa, por que você está aqui no cálculo? Pela reclamação. Isso aí te favorece ou não? Não, não favorece. O oráculo está usando a lógica da aula. Esse adicional de periculosidade por ser pago de forma permanente integra a remuneração de cálculo. Só que não está explícito aqui. Ele está usando a informação da aula, a opinião dele. Ele entendeu igual a mim, né? Ele entendeu igual a você. Porque realmente reflete. Mas aqui não está claro. Tem que estar expresso. Ainda mais se você estiver pela reclamada. Pela reclamada, isso não te favorece. Você nunca vai fazer essa integração em cadeia. Pela reclamada. Tá? Tá. Rodrigo, diga. Complementando, auxiliando também, professor. Nessa questão aí da periculosidade, ele fala para integrar. Eu tive um caso aqui recentemente, onde a gente conseguiu derrubar uma parte do cálculo, justamente porque colocaram o salário igual está aqui, seis mil e pouco, né? Cadê? Seis mil quatrocentos e cinquenta e oito. Só que dentro desses seis mil quatrocentos e cinquenta e oito, já estava a periculosidade. E aí, como a gente está trabalhando pela reclamada, a gente tem que fazer o quê? Tentar diminuir o valor. E aí a gente fez o cálculo pegando, né? Fez a conta inversa, tirando os trinta por cento, então colocou lá dentro. O valor do salário é esse e periculosidade é esse. E aí depois a gente reconstruiu o cálculo, porque isso é uma... O senhor colocou bem aí agora no final da sua explicação para a colega. . . . A gente, quando está pela reclamada, tem que olhar com todo o zelo para que possa trazer o melhor possível benefício. Senão a gente acaba atropelando. Porque se você colocar ali 6.458 mais a periculosidade, olha para quanto vai esse cálculo daí. A gente vai mostrar aqui, a gente vai ver a diferença aqui. Beleza. Só para complementar. Então, lancei aqui periculosidade. Ah, mas você não vai colocar contribuição social em cima da periculosidade? Não. Por que você não vai fazer isso? Eu estou pela reclamada. Eu não quero pagar mais contribuição social. E ninguém vai, ninguém, ninguém, ninguém vai te impugnar isso. Ninguém vai te impugnar isso. Então, você está lançando manualmente aqui? Passa por cima da contribuição social. Nem apura não. Porque senão vai aumentar o seu valor lá, para pagar. Então, eu lancei periculosidade 30%. Reflexo sobre a diferença salarial. Divisor 1. Multiplicador. Multiplicador 0,3. Quantidade 1. Salvar. Já veio para cá. A periculosidade 30%. Mas aí tem o FGTS, não tem? Não. Você está por quem? Ok. Por quem você está, Annalisa? Pela reclamada. Tem ou não tem? Tem. De fato, não. Mas se eu tivesse pelo réu, pelo autor, você colocaria, né? No autor você colocaria reflexo e tudo, colocaria o negócio grandão, faria o cálculo, o jeito que eu fiz. Quem fez aquele cálculo fui eu. Eu, se eu tivesse pelo reclamante, faria o cálculo daquele ali. Tá? Pronto. Quais são os reflexos aqui? Que a gente tem aqui? Se você tivesse pelo autor... Periculosidade, férias, 13º aviso prévio, FGTS mais 40. Se você tivesse pelo autor... Periculosidade, 13º aviso prévio, férias... Oi? Se você tivesse pelo autor, você colocaria... Se você tivesse pelo autor, você colocaria... Eu colocaria até 477, né? Porque no cálculo estava 477. Ah... Coloca e deixa ele impugnar. Entendi. Coloca e deixa impugnar, pô. É... Mas eu... Eu não... Não pego pesado com coisa que não foi definida, não. O que eu faria aqui, de forma óbvia, seria a integração correta, né? A integração correta, tudo na base do FGTS. Tá? E aqui a gente apurou a multa. Beleza? É... Honorários aqui. 5%, não foi? Foi. Patrono... do autor. Tá? Custas. Posso botar até as custas aqui? Eu não escrevo patrono, não. Eu boto honorário do autor. Tem problema? Não. É só pra quem lê entender que é do patrono do autor. Pra quem é honorário. Porque na hora do réu, você vai colocar honorário... Patrono do réu. É melhor botar o patrono, porque o honorário do autor pode... Achar, pô, mas é devido pro autor ou pro outro? Bota pro patrono do... dele que fica mais explicado. Então, custas pela reclamada no valor de 2% sobre 7538922. Vezes... 7538922 vezes... 150778. 150778. Qual a data aqui? 3 de fevereiro de 26. Salvar. Correção, juros e multa. Então agora vamos juntos aqui. Que tem gente que não conhece a lei. Ainda. Então vamos lá. O... O oráculo já nos deu aqui. Correção monetária na fase pré-judicial. IPCAE. Mais juros TRD. Do ajuizamento. 22 de setembro de 2025. Então... Olha só. Aqui... Tá acontecendo muito, muito, muito isso. Os juízes colocam o padrão. Que é do ajuizamento Selic até dia 30 do 8. É... É... Aí a partir do 30 do 8. A... Taxa legal. Você estando pela ré. Você vai defender a posição de que... Não. Né? O... O... O... A lei 14905. Não fixou juros em fase pré-judicial. Então a taxa legal. Só pode começar a correr. A partir do ajuizamento. Independente de quando ele seja. Né? Então. Aqui. O que a gente vai fazer aqui? Combinar. Com taxa legal. A partir de... Quando foi o ajuizamento, hein? Tá vendo como é que eu parecia estar aqui já? Com todas as informações que a gente vai precisar? 22 de setembro de 2025. E aqui IPCA. 22 de setembro de 2025. Entenderam? Eu não entendi não. Eu nem entendi. Você já colocou. Você tem que colocar a taxa legal. A partir do dia 30 do 8 de 2024. Né? Nesse caso aqui. É. Eu não entendi. Aonde tá na correção. Como é que eu identifico essa lei 14905? É... A partir do dia 30 do 8 de 2024. A correção monetária vai considerar o IPCA. E o juros de mora corresponderão ao resultado de suplicação da Selic menos IPCA. Artigo 406. Parágrafo único do Código Civil. Isso aqui é a autoriação da 4905. A 14905. Alterou o artigo 406 do Código Civil. Então toda vez que eu leio esse negócio. Artigo 406. Selic menos IPCA ou taxa legal. É a lei 14905. Sabrina. Oi professor. Boa noite. Boa noite. É só pra tirar uma dúvida que ficou um pouco confusa pra mim. Eu sempre atuei pra parte reclamante assim. Só que esse cálculo foi um pouco adverso pra mim. A primeira vez atuando pra reclamada. Digamos assim. Aí eu acabei informando o IPCA a partir de 30 de 8 de 2024. Que é como o delírio dispositivo. Mas aí no caso quando é pra reclamada é mais vantajoso informar a partir do alinharamento. Isso. Mas a forma que eu fiz então não estaria errada também. Mas pra parte reclamante. Mas pra reclamada tá errado. Ah tá. Pra parte reclamada tá errado. Beleza. Porque você pela reclamada tem que defender o seguinte. A lei 14.905 não fixou que a taxa ilegal vai ocorrer no fase prejudicial. É na fase judicial apenas. Entendi. Entendi agora. Ficou claro. Davi. Boa noite professor. Boa noite. Professor, a minha dúvida é a seguinte. Nesse caso aí eu não poderia colocar só o IPCAe mais a taxa ilegal? Poderia deixar o IPCAe. Mas a taxa ilegal é a taxa ilegal. É a taxa ilegal. É a taxa ilegal. É a taxa ilegal. É a taxa ilegal. É a taxa ilegal. É a taxa ilegal. É a taxa ilegal. É a taxa ilegal. Poderia deixar o IPCAe. Mas se você trocar para o IPCAe, ele reduz um pouquinho o cálculo. Ah entendi. Porque o IPCAe demora mais para atualizar. Se você usa o IPCAe você reduz um pouquinho. Só que o IPCAe é de 15 em 15 dias, alguma coisa assim. O IPCAe demora um pouquinho mais para atualizar. É porque inclusive na sentença o juiz determinou que a partir de 30 de agosto de 2024, você vai ficar no IPCAe e não no IPCA. Mas a lei 14.905 fala expressamente em IPCAe. O IPCAe. O IPCAe. Mas mesmo o juiz determinando isso no dispositivo IPCAe, ele colocou IPCAe. A lei fala isso aqui. A lei fala expressamente em IPCAe. E aí deixa o pessoal impugnar se for o caso. Isso. É impugnação. É tudo impugnação. Aprende gente, vai aprendendo. O pessoal vai aprendendo. O pessoal que está começando também, professor Jorge. Essas coisas você faz e entrega. Deixa a outra parte impugnar que volta para você o cálculo. Você ainda tem... Eu uso muito dessa ferramenta aqui. É. E por isso que eu estou fazendo essas aulas aqui. Exatamente. Só com aulas do curso você não vai aprender essa malandragem. Eu ensino, mas tem que ficar martelando em vocês a malandragem. Eu quero trazer uma sentença por mês para a gente fazer isso. Tá, Débora? Oi, professor. Está me ouvindo? Estou. Tá. Porque eu fiquei com uma dúvida lá nos honorários. Desculpa até demorar um pouquinho para poder falar. Porque deferiu sobre o líquido. E... . . . . . . . . . . . . . . aí poderia colocar o bruto menos a contribuição social, que aí ficaria mais vantajoso para a empresa. Ficaria, ficaria sim. Só que isso aí é bem pacífico. Isso é bem pacífico. É porque a OJ... Me lembrem aí, gente. 341, a OJ é honorário. Honorário. Isso começa... OJ 348. Os honorários da dificuldade de serviço devem incidir sobre o valor líquido da condenação apurado na fase de liquidação sem a dedução dos descontos fiscais e previdenciários. Ah, tá. Entendeu? Eles só copiam o que está aqui. Pode brigar, pode brigar. Pode brigar. Vou até fazer do jeito que você está falando, para a gente brigar por isso. Vamos brigar. Está certo. Obrigado. Tá, obrigado. É sempre olhar sempre, pessoal. Quem está aí pela reclamada também, complementando, professor, aproveitando. Desculpe se eu estiver me intrometendo, mas é sempre olhar se, por exemplo, a reclamada não está na desoneração da folha. Isso desonera muito a parte do INSS, tá, pessoal? Eu trabalho muito com transportadora e isso aí faz uma base gigantesca. Vocês não têm ideia. Tem que pedir para informar se é simples, se é desoneração, quando você está pela ré. Sheila. Eu acabei de explicar isso aqui, Sheila. É, não tem que ser IPCA a partir de 30 de 8 de 2024. Porque você está pela ré. E a Lei 14.905 não fixou juros na fase pré-judicial. A Lei 14.905 falou da fase judicial. Alterou a fase judicial. Então não tem como você aplicar a taxa ilegal antes do ajuizamento. Não existia SELIC antes do ajuizamento na ADC. Não existe agora a taxa ilegal antes do ajuizamento. Agora, se você estiver pelo autor, manda brasa. Vai pelo 30 de 8 de 2024. Então, toda vez que tiver essa Lei 14.905, eu uso sempre ali na correção o IPCA e o IPCA. Você vai assistir a aula de Lei 14.905. Eu não sei como te falar isso. Na aula tem os três pontos que você vai usar dependendo de como você estiver. Na aula tem escrito, tem falando bem claro isso. Eu não consigo te afirmar, te dar uma... Porque tem quando o ajuizamento é antes de 30 de 8, quando o ajuizamento é depois de 30 de 8. Tem várias detalhes. Tá? Tá. Professor, uma dúvida. Por que não incidiu a SELIC nesse caso? Porque já virou a 14.906, 905. Ah, entendi. Não teve um período entre o ajuizamento e a Lei 14.000. Não existiu esse período. Ah, tá. Tá ótimo. Tá? Entendi. Débora. Oi, Jorge. Oi. Se você fosse fazer pela reclamante, como é que você faria aí? A correção. Se fosse fazer pela reclamante, ficaria assim. Esse aqui é o meu pela reclamante. Tá? Só que como o ajuizamento foi... E aí, isso aí... O ajuizamento foi depois de 30 de 8. É. Só que tá expressamente na sentença. Eu consigo defender isso. E pela reclamada, eu consigo defender também. Pela reclamada, eu consigo falar. Olha só. A Lei 14.905... Nem a Lei 14.905, nem a ADC, fixavam SELIC na fase prejudicial. Então, não pode ser aplicado aqui isso aí. Entendeu? Essa lei... Essa lei, o que ela fez? Ela fez... Ela fez... Ela pegou o artigo 406 do Código Civil, que fixava a SELIC na fase judicial. A partir do ajuizamento. Ela separou. Ela pegou IPCA e os juros é SELIC menos IPCA. Ela só separou a SELIC a partir do ajuizamento. É isso que ela fez. Beleza? A Débora queria falar alguma coisa, não? Queria fazer uma pergunta? Não, professor. Já... Já... Tirei minha dúvida já, porque eu esqueci de tirar a mãozinha lá só. Tá. Então, olha só. O ajuizamento... Me lembra aqui de novo. Quando é que foi? A 22 do 7... 2025. E aqui, taxa legal. 22 do 7 de 2025. E olha só. Não acreditem em mim. Não acreditem em mim. Façam todas as contas aqui diferentes. Façam pelo reclamante. Falam... O mesmo cálculo. Para vocês verem como é que dá menos. E pela reclamada, você tem que fazer dar menos. O meu deu bem menos. Posso seguir? Porque tem uma coisa muito importante aqui. Que você tem que fazer se você está pela reclamada. Além de buscar se ela é simples ou se ela é desnuinada, você tem que vir aqui e tirar essa atualização e botar tudo para correção trabalhista. Vocês vão entender já já o porquê. Tá. Então confia em mim. Vão aqui em dados específicos. Isso aqui. Olha só. Eu recomendo você fazer isso aqui. Seja você reclamante ou seja você reclamada. Porque isso aqui reduz muito o valor do INSS. E às vezes você consegue aumentar o valor do reclamante, reduzindo o total devido pela REC. Você aumenta o valor que o seu cliente vai receber e reduz o total que a REC tem que pagar. Fazendo, né? Vendo se está no simples, vendo se está desinoriação e tal. Beleza? Beleza. Vamos liquidar? Qual a data que a gente vai usar de liquidação aqui? Professor, não está mostrando na sua tela. Está sim. Está sim. Qual a data? Eu usaria a mesma data que está ali no processo para a gente poder estar molhando. Estar verificando. 31 do 3. A mesma data que o reclamante usou para comparar. Exato. Exato. Exato. Exato. Exato. Exato. Exato. Exato. Exato. Exato. Exato. Exato. Exato. Exato. Exato. Exato. Exato. Exato. Exato. Exato. Exato. Exato. Exato. Exato. Exato. Exato. Exato. Exato. Exato. Exato. Exato. Exato. Exato. Exato. Imprimir. No próximo, a gente vai fazer pelo reclamante. Eu vou mostrar para vocês tudo o que a gente pode fazer para melhorar o cálculo do reclamante, tá? Ok. Vamos lá. O meu cálculo está pronto. Quem aí me chegou num valor menor que o meu? Eu sei que... Sem desoneração de folha. Sem desoneração de folha. Deixa eu só girar ele aqui de novo. O meu deu um pouquinho acima, mas está dentro dessa média aí. Mas deu pouca corretivência, professor. E eu vou reduzir esse cálculo ainda. Não está no final ainda. Não está no final. Calma. Legal. Então vamos lá. A gente agora está pronto para fazer a impugnação. Porque agora sim funciona a impugnação. Quando a gente tem o nosso cálculo, a gente começa a comparar com o cálculo do autor. É ou não é? Perfeito. Então, vê se vai ficar muito pequeno aqui para vocês. Olha só. Primeira coisa, a gente compara aqui período de cálculo, data de ajuizamento. Estão certinhos. Diferença salarial. Está gritante. Então a gente vai marcar aqui a diferença salarial. Está gritante. O que mais está de errado aqui? Olhando só para cá para o resumo, por enquanto. No cálculo do senhor não tem o adicional, né? Não tem adicional o quê? O adicional de precuriosidade sobre a diferença. Isso. Isso. Porque o acervo está como reflexo lá no meio. Aqui, ó. Já marca aqui. Quem falou? A 477 também. A 477 também. Está vendo? Estou marcando aqui. Por que eu estou impugnando? Por que eu vou impugnando? Porque a parte da impugnação é fácil. Difícil encontrar o erro. Não. Não. Depois que você encontra o erro, quem vai fazer a impugnação para você? O oráculo. O oráculo que faz. Isso. Tá? Vamos passar para essa tela aqui agora. O que está esquisito aqui? O que está esquisito aqui? Os honorários. Os honorários. Os honorários. Eles apuraram quanto? 10%. Era 5%. Isso. O que mais que está errado aqui? Aquele depósito da FGTS. Você ainda está comendo? Não, isso aí é venda daqui. Venda do aumento... As custas. As custas. Muito bem. Tá? Agora, a gente já sabe a maior parte do que está errado. Vamos entender aqui. Olha só. Ele estava pelo autor. Ele apurou juros taxa legal a partir de 30 do 8. O que mais que tem de errado aqui? No critério fundamentação de cauda. Essa aqui... Se alguém adivinhar essa aqui, rapaz, isso aí é olho de lice. Cadê? Está faltando um aqui. Ele não aplicou a DC-51 ali, professor? Apurou. Não é isso. A contribuição social que o senhor havia comentado? A contribuição social é... É outra coisa que a gente vai ver lá na contribuição social. Tem ali, professor. Tem ali também. Ele está usando o IPCA. Nós estamos usando o IPCA, mas tem a diferença aí também. Não é isso aí, mas tem mais isso. Não é isso aqui. É outra coisa. Ele está usando juros antes da dedução. Se eu não estou pelo autor, eu sempre coloco e ninguém fala nada. Cadê? E aí, ninguém? Os juros de mora sobre os verbos apurados antes da dedução? Isso. Por quê? Porque aumenta, né? Isso, mas como é que tem que ser para a gente? Após a dedução. Isso, isso, Sabrina. Sabrina, juros de mora antes da dedução da contribuição social. Estou fazendo após. Como é que a gente apura? Após. Após a dedução. O que quer dizer aqui é o seguinte. A base de cálculo dos juros aqui foi esse 157, mas tinha que ter sido 147. Ele recebeu juros sobre 9.260. Ah, está errado. Não, dá para defender se você está pelo autor. Dá para defender. Mas, pelo resto, nunca, nunca, nunca, nunca você vai apurar assim. Então, vamos ver. Vamos tentar entender por que a diferença salarial está tão discrepante. Vamos lá no nosso... No nosso histórico. Ele não acompanhou a evolução salarial também? É isso aí. Ele é o valor fixo do salário do autor e o da diferença. Isso. Maravilha. Vamos ver se tem mais alguma coisa. Diferença salarial FGTS, está o período certo. Obviamente está majorado aqui. Adicional de periculosidade, ele é pro FGTS aqui também, obviamente. O décimo terceiro salário aqui, ó. FGTS. Pela reclamada, ó. Isso aqui não passará. Aviso prévio. Não passará. Férias. Não passará. Até sobre a multa do 477. Não vai passar aqui comigo, não. No meu plantão, não passa isso aqui, não. E olha só, gente. Eu queria explicar para vocês uma coisa. Lembra que eu fiz aquelas desmarcações lá? Mas, professor, deixa eu só te perguntar esse negócio aí da reclamada aí. O FGTS. Mas ele é devido, né? É porque você está tentando... Desonerar o cálculo. Não necessariamente é devido. Ué, mas não tem que incidir sobre todas as verbas? Não. Se não tiver deferido expressamente, eu vou brigar para que não. Tem defesa para os dois lados. Exatamente. Aí é o pulo do gato do perito, pessoal. Aí é o pulo do gato que a gente tem que trabalhar. Bom assistente técnico. Por isso que é bom assistente técnico. Ganha bem. Entendeu? O som não é 63, né? No TST, né? Professor. Súmula 63. Falou que... O que está falando a súmula 63? Que o FGTS deve ser calculado sob a remuneração. O valor da remuneração. Beleza. Aí se você está pela reclamada, você tira e deixa o autor impugnar. Isso. Aí se você está pela reclamada, você usa ela. Exatamente. A gente tem que entender... Eu entendo assim, eu enquanto perito, pessoal, eu me coloco sempre dos dois lados. O professor Jorge trabalha muito bem essa questão. Para que lado que você está nesse momento do caos? Eu estou pela reclamada. Então eu tenho que olhar pelo lado da reclamada. Ah, eu estou pelo lado do reclamante. Eu estou olhando pelo lado do reclamante. Tudo que for benéfico para ele, eu vou inserir. Tudo que é benéfico para a reclamada, eu vou fazer também. Independente, a gente não tem que olhar nesse momento. Nós, nós, enquanto auxiliares aqui, nós não temos que ficar olhando. Ah, mas a legislação fala isso. O professor colocou uma coisa ali que eu uso há muito tempo isso, que é a seguinte situação. Está expresso na sentença e no dispositivo? Não. Então vai discutir. É. Não está expresso. Deixa eu discutir. Você só pode apurar. Você existe... O princípio da limitação é o título judicial. Você está totalmente limitado ao título judicial. Você não pode inovar. Ah, mas o TST está decidindo que é... Olha só, não é a súmula 63, tá? Não é pela súmula 63. O TST tem decidido reiteradamente que o pedido de FGTS é implícito. Ele decorre da lei e não da condenação. E aí, obviamente, você, pelo autor, vai usar. Tem até um modelo lá na impugnação. Pedido implícito. Ex vi legis. Tá? Quiris. Qual é o erro do cálculo de um terço de férias? Vamos ver isso antes de ver aqui a INSS. O primeiro mês, eu tinha... Não sei se eu vi errado. Ele está com a base de 7 mil e pouquinho. Eu não entendi isso como certo. Muito bem. Está errado aqui mesmo. Ele está apresendo só um mês. Está proporcionalizando o período, né? Não está proporcionalizando. Quando você vê os outros meses, está bem menor que... Não, ele deu... Ele integralizou a base de cálculo aqui e aumentou bastante. É. Ele tem cá apurado só o terço, né, professor? Como ele não proporcionalizou lá na base da diferença salarial mesmo, ele tem cá apurado só o terço aqui embaixo. Exatamente. Tem essa e isso também. Quando eu vou fazer cálculos, eu faço cálculos da fazenda pública, né? Da Procuradoria do Estado. Então, a gente sempre faz o cálculo de um terço de férias. Como se fosse uma verba comum e faz o cálculo mensal. Então, ele dá uma diferença gigante nessa questão. Em condições como a... Sendo reclamada, isso reduz o valor. Aham. Então, beleza. A gente vai pugnar isso aqui. Deixa eu falar do porquê que eu marquei lá tirar os juros da contribuição previdenciária. Porque olha aqui, ó. O sistema apura juros tanto pelo devido do segurado... E a REC vai pagar esses juros. Quanto na devida pela REC também. Então, olha só. R$ 2.000,00 aqui de juros. E R$ 4.000,00 aqui de juros para o que foi devido pela REC. E aqui R$ 6,88. Só o do SAT. Tá? Tá certo isso aqui? Tá. Tá certo. O período de apuração do INSS é mês a mês. E isso aí já tá pacificado pra caramba já. Muito pacificado. Só que... Se você é reclamante ou reclamada, tira isso. Porque pro reclamante não faz diferença nenhuma se ele tá... O dinheiro não vai pra ele. E pela reclamada vai reduzir o valor a pagar. E aí pelo reclamante, muitas vezes, o cara lá... Ele não entende muito bem o que ele tá fazendo. Ele vai fazer um cálculo. Vai ficar parecido com o seu. Só que o seu valor total vai ser menor que o dele. E aí E aí E aí E aí E aí E aí E aí E aí E aí E aí E aí E aí E aí E aí E aí E aí E aí E aí E aí E aí E aí E aí E aí E aí ele vai concordar com o seu cálculo. Tá? Então vamos lá. Vamos listar, vamos fazer as impugnações aqui. Primeiro, vamos ajustar nossos cálculos. Porque tem uma coisa muito boa que a gente pode usar aqui. O que vocês acham que é? Quem sabe o que a gente pode usar aqui do cálculo do reclamante que vai favorecer bastante a gente aqui? O lançamento da série. Não. Alguém sabe? Esse aqui eu tenho certeza que ninguém impugnou desse jeito. Eu tenho certeza que ninguém pensou nisso. Olha só, gente. Presta atenção aqui. Eu quero que todo mundo pare. Se você está prestando atenção em outra coisa, presta atenção aqui agora. Aqui agora. Olha só. A gente vai impugnar o histórico salarial, não vai? Mas a gente vai impugnar só o salário paradigma. Quem entendeu? Porque no salário reclamante ele coloca os valores maiores. Vai diminuir o valor da diferença salarial. Ele está usando 3,920 para tudo. Isso. A gente vai impugnar só o salário paradigma. Sabe por quê? Porque para a gente, o salário reclamante é incontroverso. Eu não tenho problema nenhum com o salário do reclamante que ele usou. Nenhum. Por mim, não tenho problema nenhum com o salário que ele usou. Por que que desabona a performance do assistente técnico, Ilan? Eu imagino que é porque se eu vou impugnar o paradigma, agora o cara vai lá olhar a boca. Mas o cara fez o paradigma e não fez o salário do reclamante. Porque eu não estou impugnando? É incontroverso. Se o calculista quiser ir além da minha impugnação, é com ele. Eu não estou impugnando isso. O autor falou que o salário dele era R$ 3.920. Quem sou eu para dizer que não é? Você acha que isso aqui vai estar lá? Não. Vai estar contra-cheque. O secretário calculista vai ter que ir lá no contra-cheque para ver a evolução do cara. Eu vou mandar ele lá? Se ele quiser fazer esse trabalho todo, pode ir. Eu, estou concordando. Estou impugnando o salário do paradigma. Ele não respeitou a evolução do salário do paradigma. Gilmar. Professor, aí também não entra aquela questão de a gente só se limitar ao que está no próprio mérito. Não ficar inventando as coisas. Se limitar ao quê? Se limitar só ao que consta no mérito. Nesse caso, a polêmica de cálculo não faz parte da sentença para impugnar. Está se limitando só ao salário mesmo. Não vai impugnar só a outra parte, como o professor mencionou. É, assim, o secretário calculista, ele tem... É a prerrogativa de virar e falar assim. Não, realmente, você está criticando o salário do paradigma, mas o reclamante também está errado e tem que corrigir os dois. Beleza, cara. Eu estou contigo. Se o senhor me mandou fazer isso, eu faço. Agora, eu, como secretário calculista, impugnou só o paradigma? Vai só o paradigma. Eu não vou parar para ler? Tem impugnação aqui? Eu não vou passar por cima da impugnação. Aliás, se você... Você é perito e tem coisas incontroversas, você mantém a incontrovérsia nos seus cálculos, ainda que esteja errado. Chegou lá na secretaria, esse perito não vai ser mais nomeado. O reclamante disse que devia 240 mil. Disse que era devido 240 mil. A ré disse que era devido 150 mil. O perito apresentou um cálculo de 50. E o reclamante apresentou 47 páginas de impugnação. Esse perito está me ajudando? Esse perito, ele... Estou pensando se eu vou destituir ele. Estou pensando seriamente. O primeiro tópico da petição tem 5 páginas, que é a função de um perito na justiça do trabalho. Perfeito. A função é essa. Dirimir controvérsia. E eu estou quase... Eu estou quase... Virando e falando assim... Rejeito os cálculos periciais, homologo os cálculos da ré e deixo arder. Destituo o perito, porque não cumpriu. Rejeito os cálculos do perito e homologo os cálculos da ré. E deixo arder. Ele não vai receber. Eu, eu não vou analisar 47 páginas. Não vou. Não vou analisar 47 páginas de impugnação. E por que isso? Eu não sei se o cálculo dele está certo ou errado. Tecnicamente. Mas processualmente está errado. Você entende que processualmente o cálculo dele está errado? Porque o reclamante apresentou um cálculo. A ré impugnou. 5 coisas. Só tem controvérsia sobre essas 5 coisas. Não tem mais controvérsia sobre nada. 879 parágrafo 2º. Você tem que se prender só pelo que a outra parte está impugnando. Você tem que partir. Eu estou entendendo que ele refez o cálculo todo. Ele refez o cálculo todo. Você tem que partir. Você pode fazer o seu cálculo zero. Só que se estiver dando menos que o cálculo da reclamada pode crer que você está fazendo besteira. Ou mais que o cálculo do reclamante. Você está fazendo besteira. Entendam isso. Agora, pois é. Isso daí é um ponto seguinte. Eu tenho pego alguns casos que eu não consigo entender. Porque eu não sei o que é isso. Que eu não consigo fazer a importação do cálculo. Porque ele vem só como imagem. E aí assim, eu tenho que refazer o cálculo. Isso. Lançar todas as verbas e tudo. Aí faço tudo na mão novamente. É assim mesmo o processo? É. É assim mesmo o processo. E se o cálculo estiver dando menor do que o cálculo da reclamada, você vai ajustar seu cálculo até dar próximo da próxima. Isso. Às vezes eu ajusto até na mão mesmo. Se você fizer um cálculo. Tipo, a reclamada deu 150. Você faz um cálculo de 152. Vai ter impugnação da reclamada? Nenhuma. Vai ter impugnação do reclamante? As mesmas que ele já apresentou. Não, porque às vezes eu não consigo achar exatamente o mesmo valor. Você vai procurar até achar. Se você não achar, ele também vai achar. O que eu tenho feito, eu vou lá na parte da verba e ajusto ele na mão. Com mais técnica você vai encontrar exatamente onde está o problema. Com mais técnica você vai encontrar exatamente onde está o problema. Eu vou lá e ajusto. Vamos lá, gente. Vamos listar então para o oráculo para ele fazer as impugnações. Vamos lá. Gente, eu não vou dar o prompt de impugnação não. Vocês já estão falando aqui com o oráculo e ele vai lá. Oráculo. Vamos impugnar o cálculo do autor. Motivo 1. É... Evolução não respeitou a evolução do salário do paradigma constante dos contra-cheques. Mantendo o último valor recebido durante todo o contrato. Vamos trazer aqui a impugnação. Tem que pedir para ele já fazer a impugnação. Pronto. Ah, não. Ele já deu. Ele é muito legal, cara. Da evolução salarial do paradigma. Só dele. De mais ninguém. Ele, o oráculo, quis ampliar. Eu não vou deixar ele ampliar, não. Olha só. A sentença foi esperta determinar que a diferença salarial explicada pela observação é a evolução remuneratória do paradigma. Devendo observar a evolução salarial contínua nos contrascheques do paradigma. Juntados aos autos. Todavia, a planilha apresentada pelo reclamante verifica se ele se manteve o último salário do paradigma como se fosse o seu salário durante todo o contrato. Desconsiderando a evolução salarial efetiva mostrada nos contrascheques. Tal procedimento. Contraria frontalmente o comando sentencial. Assim, impugnam-se os cálculos do reclamante no particular. Requerendo-se que as bases, que as diferenças salariais sejam calculadas em meias a meias com base no salário efetivamente recebido pelo paradigma em cada competência conforme contrascheques. Se você quiser brilhar ainda, vem aqui, print screen, seleciona, pronto. Tem um light shot também. O pessoal usa bastante também. É muito bom esse aplicativo para poder copiar, marcar. Eu não consegui usar o light shot como padrão. Não entro de jeito nenhum como padrão. É o captura aqui mesmo. Beleza. É só para o pessoal aí também. Se alguém quiser, light shot. Light shot é muito bom. Muito bom. Próxima impugnação aqui. Vamos impugnar as integrações, né? O autor. Motivo 2. O autor apurou. A integração do adicional de periculosidade sem que houvesse determinação expressa em coisa julgada. Deixa ele fazer. A gente está pegando as impugnações, simplificando, ele está fazendo todo o trabalho sujo para a gente. Então, olha só. Comando é, diferenças salariais geram reflexos. As diferenças salariais. Adicional de periculosidade, férrea, dano. Não há. Determinação expressa de reflexo adicional de periculosidade em si e em outras verbas. E ele explica aqui, Renato. Ele está explicando exatamente o que eu falei. Olha. Problema. A sentença não determinou reflexo adicional de periculosidade em outras verbas. Determinou apenas reflexo de diferença salariada nessas verbas. Logo, ao projetar o reflexo de diferença de periculosidade, ele extrapola os limites da coisa julgada. É isso que a gente não quer. Cria verbas de reflexo que não foram referidos. Do ponto de vista... Do ponto de vista doutrinário, o adicional de periculosidade pago de forma permanente integra, sim, as férias da CCRFGTS. Porém, como calculista, você está preso ao título executivo. Se a sentença não definir expressamente, não pode ser apurado. Entenderam? Então, 30%. Deixa eu colar aqui. Gente, a impugnação é realmente só encontrar o erro, tá? É só encontrar o erro. Porque o oráculo faz o resto pra você. Não há em nenhum momento quando a impugnação expressa o pagamento de reflexos. Aí eu vou lá e faço um printzinho aqui. Tá o procedimento. Gente, precisa saber escrever no juridiquês, no tecniquês? Não, o oráculo faz pra você. Qual é a próxima impugnação? Digam-me aí, qual o próximo que a gente quer fazer agora? Os juros, não? O que é isso, professor? O mamuto do 477? O autor? O autor apurou reflexo na multa do A477, o que não restou deferido. Gente, o oráculo, ele é uma benção muito grande na vida de vocês. Na hora que vocês aprendem a usar, ele te explica, ele até te explica, até traduz pra você o que você está pensando. Então, eu já te dou o texto aqui. Ô Jorge, esse oráculo é o chat de EFT? Que você usa? É, chat de EFT. Eu programei ele no chat de EFT. Beleza. Ele é todo programado no chat de EFT no 5.2. Aqui, eu posso até copiar aqui, ó. Aqui é a mesma foto. Pô, ele botou até o artigo, ó. Nos termos do artigo 879, para o primeiro, a liquidação deve ater estritamente aos limites da condenação, sendo vedada a inclusão de parcelas não deferidas na decisão por necessidade de julgado. E ter saudações. Tá impugnado. Desde... Desde... Impugnado. Na ordem aqui. Honorários. Vamos aos honorários. Autor apurou no honorário de 10%. Ele já esqueceu. Já faz muito, muito, muito tempo. Ah, ele já até deu aqui, ó. Hipótese C. Ele já até... Não precisa nem falar. Ele é muito bom. Não é porque é meu filho, não, mas, pô... Isso aqui é uma mão na roda pra vocês. Reclamante apurou em sua planilha o honorário de 10%. Majorando unilateralmente o percentual fixado em julgamento. O que configura, manifesta, vai na... É violação à coisa julgada. Precisa ser gigante a impugnação? Não precisa. E, gente, isso aqui é uma baita impugnação, tá? Boa pra caramba. Impugnação boa pra caramba. Custos. Vamos lá. O autor apurou 416 de custos. Mas foram deferidas... Cadê? Vamos lá. Custos. Mas ele está falando ali das custas, o valor sobre 2%, sobre 70 e poucos mil, né? Isso. Mas a gente achou um valor superior. Superior ao quê? Aos 70 e poucos. Não deu 90 lá? Não, já está fixado aqui. Ah, então considero que está aí. Está aqui. É o valor que o reclamante deu à causa. Tá. Tá? Cola aqui. E mais, se teve recurso ordinário, você vai... Fala lá, essas custas já foram pagas. Inclusive, não tem nem que apurar nada aqui. Vamos fazer o dos juros agora? Professor, faltou da proporcionalização. E do... Daquele sem laço lá das férias, do primeiro valor. Faltou de coisa ainda. Eu estou indo na ordem aqui que está aparecendo aqui na tela para mim. Aplicou. Puxa. A taxa legal da lei 14.905.24 a partir de 30.08.2024, sendo que ocorreu em 22.07.2025. A lei 14.905 não fixa selic para período pré-julio. A lei 14.905 não fixa selic para período pré-judicial. A ADC tampouco. Assim, observa a ADC para o período pré-judicial e a lei 14.905 para após o ajuizamento. Deixa que ele se vira com isso aí. Vai lá, se vira, meu parceiro. Se vira, eu vou fazer essa impugnação aí, meu parceiro. Aqui a gente vai ter que corrigir. Conforme a orientação firmada e se reproduzido no material da pós-graduação, vamos ajustar aqui só esse detalhezinho aqui. Posso pedir para ele não mencionar... Vamos pedir. Não menciona após e o curso no texto. Pronto. Melhor, né? Ele mesmo faz o... Ele mesmo corrige o erro que ele causou. Então, reclamante, tal aposentamento é indevido. Com a advenda da lei 14.905. Na fase judicial. Período que o crédito... Pô, ficou lindo. Lindo. Eu não conseguiria escrever melhor que isso. Eu queria repetição. Pronto. Lindo, maravilhoso. Né? E aí, vamos agora aos juros na fase... É, os juros sobre... O reclamante apurou juros antes da dedução da contribuição. Contribuição. Social do reclamante. Porque é incorreto. Pois dá ao autor juros sobre parcela que não lhe diz respeito. O correto é apurar juros após a dedução. Deixa ele fazer. Gente, o que vocês estão conseguindo acompanhar aqui? Tá tranquilo? Tá tranquilo? Tá? Tá. Ficando claro que... Qual é o processo aqui que a gente está... Que a gente está usando para receber um processo, precificar, fazer o parecer, impugnar... Hein? Ah, Vânia, eu quero fazer uma vez por mês essa aula aqui. E outra, gente, pelo amor de Deus, gente, uma coisa... Dois perícios já foram destituídos lá na minha vara por causa disso. Expliquem a esclarecimento. Expliquem o que vocês estão esclarecendo. Não coloquem duas linhas de esclarecimento, não. Pede para o oráculo te ajudar. Faz isso aqui. Porque o normal que eu estou vendo lá é isso aqui. O reclamante apurou juros antes da dedução. Assim, o que é incorreto, pois, é só isso. O esclarecimento do perito. O esclarecimento do perito é isso aqui. O autor aplicou a taxa legal. Não, tem que ser assim, bonito. Para eu copiar e colar na decisão de... Embargo e execução. Qual o próximo aqui? Vamos lá. Já fizemos tudo aqui. Vamos ver o que mais a gente marcou aqui. Ah, apuração das férias. O autor apurou reflexo de férias em duplicidade. Pois não proporciona a base de cálculo. Não proporciona. Ele proporcionalizou a diferença salarial no mês das férias. E ainda apurou as férias acrescidas de um terço. Sabrina, o que está errado no FGTS? É que ele considera o FGTS sobre os acessos também, professor. Sim. Mas como eu fui aqui na frente, aqui ó, como ele apareceu aqui na frente essa questão das férias, eu fui para as férias. Diga, Gilmar. Professor, me serviu agora um pensamento aqui sobre o caso que o senhor falou do perito. Digamos que o perito foi nomeado nessa situação, como o professor comentou, e ele vai fazer a apuração só do que está incongruente ali, a diferença, certo? Digamos que na hora que ele calcula, o que ele encontra é diferente dos dois valores. Aí o que ele tem que fazer? Como assim? Tipo assim, foi aparecer um cálculo lá para o perito que deu diferença no caso da verba de diferença salarial, por exemplo. Aí a ré apresentou um valor e a reclamante apresentou outro. E aí ele pegou só esse item e apurou, ele como perito, ele apurou para ver. E aí o valor que ele encontrou é diferente tanto da ré quanto do doutor. Aí o que ele faz? Ele coloca o valor e mantém. Entre um e outro? Isso. Normal. Esse é o objetivo da perícia. Certo. Certo. Tá, entre um e outro. Certo. E se acontecer de forma menor, ou ele fez erro ou... Ou a reclamada errou, mas aí você tem que ir no erro da reclamada. Você não pode corrigir erro de reclamada. Certo. Tá, então, você sendo perito, o mínimo que você pode apurar é o que a reclamada apurou e o máximo é o que o reclamante apurou. Perfeito. A única opção de dar acima do que o reclamante apurou é... Porque o reclamante apurou e... Em 2020, você tá apurando hoje. Aí pode dar acima do doutor. Sim. Mas não é pra dar acima do doutor. Aí você vai falar, não, tá maior que o doutor porque eu apurei hoje. Na verdade, o valor histórico é menor que o doutor, aí você consegue... Alguém que tá lendo vai conseguir entender. Perfeito. Então, nesse caso, o objetivo do perito é encontrar um valor entre os dois, ali, entre de um e de outro. É o correto. É o correto. Certo. Tá? Perfeito. Obrigado. Então, a gente falou... Na prática, o autor... Na prática, o autor... Ele atuou a diferença salarial como se fosse devido integralmente no meio de gol dos férias, né? Fazendo com que a diferença salarial inteira integrasse a base de causa das férias. Nessa mesma base foram apuradas as férias mais um terço. Esse promenso de desimento gera apuração em duplicidade, né? Ele explicou tudinho aqui. Tá linda essa impugnação. O correto, ou proporcionalizar a diferença ou apurar as férias com apenas o fator de um terço. Quando a principal já foi considerada integralmente no meio das férias, evitando a duplicidade. Impugnou os cálculos e os declamantes em particular. Tá? Agora vamos do FGTS. A pergunta que vocês iam fazer aí. Oi, Jorge. Levando em consideração que o perito tem que ser imparcial. Ele vai calcular o que o juiz decretou. Se os valores dão diferente, né? Não tiver entre o outro, mas tiver bem embasado, tiver um cálculo bem feito, bem justificado. Tá? Acontece, sim. É comum acontecer às vezes você pegar um cálculo do réu, um cálculo da reclamante, né? E os dois ser um cálculo pode ser talvez mal feito, digamos assim? Sim. O autor apurou reflexos dos... Apurou integração. Foi, Vânia? Resolvi a sua dúvida? Deu um delay aqui. Não ouvi. Cortou só a... Ótimo. Na internet. Ótimo. Ficou ruim. O reclamante e a reclamada podem ter errado os cálculos deles. A reclamada pode estar apurando mais do que é devido. O reclamante pode estar apurando menos do que é devido. Pode. Mas você tem que ficar nesse range. Porque você estava aqui na hora de fazer a história? Sim, sim. Estava? Sim, estava. Então, é isso que você não quer. Eu não quero que te falem. E se a reclamada falar... A base de cálculo que você usou está errada. Aí você vai falar... A base de cálculo é incontroversa. Eu só usei a mesma base de cálculo que a reclamada usou no cálculo dela. Acabou. Acabou. Acabou. A quantidade de horas extras está majorada. A quantidade de horas extras é incontroversa. Eu usei a quantidade de horas extras do cálculo da reclamada. Acabou a discussão. A reclamada vai se espernear, vai gritar... Acabou a discussão. Eu estou usando... Eu estou dando para você que você está correto. Eu estou usando a quantidade que você apurou. Ah, mas a quantidade está errada. Existe uma coisa chamada preclusão lógica. Você não pode tomar uma atitude ilógica com a que você tomou anterior. Eu apresentei os cálculos e agora digo que esses cálculos estão errados? Não. Não. Entendi. Não é? Não. Ilan, se já temos que ir impugnando a diferença varial, já está errada. Não entende que FGTS e reflexo automaticamente já não estão errados também? Você falou a palavrinha certa. Automaticamente. Se você está impugnando a base, você não precisa impugnar os reflexos. Se a base está errada, os reflexos já estão errados. Você não precisa expressamente falar, os reflexos também estão errados. Não. A base de cálculo foi feita de forma errada. Pronto. Mas no nosso caso, a gente não está impugnando já a base? Quando a gente fala lá do paradigma? Sim. Então, aí não precisaria estar impugnando todas as demais. Olha só. Uma coisa, você impugnar reflexo. Corrente da alteração da base. A outra coisa, é impugnar metodologia de reflexo. Uma coisa, é uma coisa. Outra coisa é outra coisa. Ou seja, se o reclamante tivesse apurado os reflexos todo correto, você só impugna, você vai, só vai impugnar base de cálculo e mais nada. Porque aí vai ajustar, vai ajustar. Agora ele está apurando férias em duplicidade. Está apurando reflexo em reflexos. tá apurando os reflexos na base de cálculo do FGTS aí é outra coisa você conseguiu entender a diferença? entendi então tá, eleitora da sentença houve condenação pra canêmia aberta sobre as verbas principais aham espapolas de muita coisa julgada promovem prontos, ainda deu um olha só eu não gosto de botar é a jurisprudência aqui não o oráculo é muito bom não sei como é que ele tá em jurisprudência eu não quero pesquisar jurisprudência aqui não precisa de jurisprudência então é impugna-se o cálculo do reclamante no particular tá o que mais que tá errado aqui gente as férias nós já impugnamos eu acho que vale a pena falar dessa base de cálculo a base de cálculo das férias de 2024, 2005 não, de 2003, 2024 está majorada ah pois apurada na proporção de 721389 quando a diferença salarial apurada pelo autorizado foi de 329969 segurança segurança tá muito bizarro isso aqui se não tivesse essa apuração bizarra aqui a gente não precisava impugnar mas tá muito bizarro da base de cálculo das férias Aqui a gente vai ter que melhorar um pouquinho. Dessa forma, impugnamos os cálculos do reclamante no particular. Pessoal, falta uma coisa. É por isso que a pós-graduação é estratégia de cálculo trabalhista. Vocês vão ter que ver o que vocês fazem. Por que que acontece? Nesse caso aqui, se caísse na minha mão, o cálculo do autor seria rejeitado. E se o autor impugnasse os nossos cálculos, ele provavelmente impugnaria com o salário do reclamante e tal, beleza. Mas ele não falaria nada da contribuição social. Não sei se vale a pena impugnar os juros e multa da contribuição social. Mas vou fazer aqui, para a gente entender como é que vai ser essa lógica aqui. João Pedro, senti uma dúvida para a coluna período mensal. Ela aparece dessa forma, repetindo. 30 a 30... Isso, João Pedro. Férias indenizadas. As férias são devidas na data que elas são pagas. Então, se elas forem gozadas, no período que elas forem gozadas, se elas forem indenizadas no período da demissão. Ainda que parta de jurisprudência, não concede nada. Retire a parte da... Jurisprudência. Não concede nada no termo de impugnação. Ah, ainda que exista a possibilidade do autor fazer isso? Não, você corrige ele. Não tem possibilidade. Da minha mão não tem essa possibilidade. Eu estou defendendo que não tenha. 13. E aí, nós terminamos nossa impugnação. Foi uma baita impugnação ou não foi? Foi uma baita impugnação. Quando vocês estavam fazendo a impugnação, sejam sinceros aí no chat para mim. Me digam quantas impugnações dessa aqui vocês fizeram. Nós fizemos, ó... 1, 2, 3, 4, 5, 6, 7, 8 impugnações. Quantas... 9, 10, 11. Quantas impugnações vocês fizeram? A gente fez 11 aqui. Juntos. Quantas vocês fizeram? Porque enquanto vocês estão falando aí no chat, eu vou ajustar aqui uma coisa. O histórico salarial do salário recebido. Eu vou botar 3, 2003, a 5, 2025. Então o valor, o último valor. 392020. Regero. Liquido. Ah, tem mais uma impugnação. Tem mais uma. Muito bem lembrado aí. A Sabrina, eu acho que me lembrou. Os honorários sucumbenciais foram apurados sobre o valor bruto da condenação, incluindo o INSS devido pelo autor. Só que a sentença... Tá? Vamos colocar mais uma aqui. Tá? E isso aqui, gente, é uma impugnação, baita impugnação. Baita, baita, baita. Tá? E é isso que eu quero que vocês façam. É assim que eu quero que vocês trabalhem. Porque eu quero... O advogado que vir essa impugnação, ele vai ficar de cara. Vai falar, cara, esse cara é bom. Esse cara é bom. Esse cara é bom. Ainda mais... Se você fizer o seguinte. Pedir conclusão demonstrando a redução no valor devido que conseguimos. Cálculo do autor é 20961833. Nossos cálculos, 115, 63343. Informar a redução. Percentual. E monetário. Eu quero que aluno meu demonstre isso aqui. Eu quero que aluno meu seja esse cara. Vocês estão numa pós-graduação de estratégia. E isso aqui que eu quero que vocês entendam. Isso aqui que define o seu valor como calculista. Eu quero que vocês entendam isso. Vocês conseguem entender isso? Porque calculinho todo mundo faz. Pegar e fazer esse cálculo no PJT é cálculo que todo mundo faz. É ou não é? Pegar e fazer isso aqui. Isso aqui você está matando a cobra e mostrando pau. Lá ele. Você está falando assim, olha só. O senhor achou caro pagar sei lá, mil reais pelo meu serviço? Mais caro seria seu cliente pagar 209 mil. Agora ele está pagando 115. Uma redução de 93 mil reais. Os mil reais que você está pagando e você me pagou foram irrisórios. Foram ridículos. A gente fez isso aqui em duas horas. Tudo. O cálculo, a impugnação, tudo a gente fez em duas horas. É ou não é? Então, pessoal, eu queria até ter tempo para analisar aqui os exercícios de vocês, mas não vou conseguir. Não vou conseguir. Eu vou ver se a equipe pode fazer isso. Uma análise. Eu sei que consegue fazer uma análise do cálculo de vocês com o IA. O que vocês têm que fazer agora? Estudar. Rever essa aula. Tem que rever essa aula, sim. Vocês vão ter acesso aos cálculos. Se vocês entrarem lá no link do exercício, tem uma pasta agora chamada resultado do exercício. E lá vocês vão ter os cálculos e o parecer técnico da impugnação. Ô, Jorge, se você puder, faz um dia de hora extra. Eu estou com tanta dificuldade sobre hora extra. Vamos. É porque, assim, como eu pretendo fazer mês a mês, eu queria começar devagar com vocês, para não assustar ninguém. Tá? Mas a gente vai fazer de horas extras. Beleza? E outra dúvida também que eu tenho, que eu peguei um caso assim e não soube fazer, é um cálculo, e tinha depósito judicial. Aí estava pedindo para atualizar o depósito judicial. Tem uma aula específica de atualização de cálculo externo e dedução de parcelas pagas durante o contrato. Estão juntas essas aulas. Pois é, eu assisti, mas eu confesso que eu fiquei com muita dúvida nessa aula. Você tem que fazer o cálculo por fora, né? Na verdade, você pode fazer, você pode usar o seu cálculo que foi homologado. Mas, na verdade, eu não entendi. Eu não entendi. Eu não entendi. Eu não entendi. Eu não entendi. Eu não entendi. Eu não entendi muito bem, não. Tá. Assiste de novo. Mas você pode usar o seu cálculo que você fez. Não precisa trazer um cálculo de fora. Mas se de repente tiver até alguém aí que possa me ajudar, eu agradeço. Tem. Alguém aí pode ajudar ela, gente? Eu posso, Renata. Se você conseguir colocar seu número aqui na descrição, eu te chamo no WhatsApp depois. Maravilha. Isso aí. Obrigada. Vou botar aqui. Botei aí. Falou, pessoal. Gente, pelo amor de Deus, assistam essa aula de novo. Entendam a estratégia da coisa. A gente vai fazer mais vezes isso aqui. Mas trabalhem com isso em mente. Isso aqui que traz dinheiro no bolso de vocês. Beleza? Beleza. Obrigada. Boa noite, pessoal. Boa noite. Fica com Deus. Tchau. Boa noite, professor. Boa noite. Obrigada. Tchau. Tchau. Boa noite. Boa noite. Boa noite. Boa noite. Boa noite. Boa noite. Boa noite. Boa noite. Boa noite. Boa noite. Boa noite. Boa noite. Boa noite. Boa noite. Boa noite. Boa noite. Boa noite. Boa noite. Boa noite. Boa noite. Boa noite. Boa noite. Boa noite. Boa noite. Boa noite. Boa noite. Boa noite. Boa noite. Boa noite. Boa noite.

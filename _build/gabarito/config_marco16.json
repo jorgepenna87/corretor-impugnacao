@@ -1,0 +1,258 @@
+{
+  "exercicio": {
+    "id": "marco16",
+    "titulo": "Exercício Marco/16 — Impugnação de Cálculo (Ótica Reclamada)",
+    "processo": "0100912-64.2025.5.01.0005",
+    "otica": "RECLAMADA",
+    "descricao": "Caso SUNFLOW SUPLEMENTOS LTDA x ALBERTO TEIXEIRA MARINS. O aluno recebe o cálculo do autor e deve impugná-lo, refazendo no PJe-Calc com os parâmetros corretos."
+  },
+
+  "tolerancia_verba_percentual": 0.5,
+
+  "totais_hardcoded": {
+    "totalDevidoReclamado": 115633.43,
+    "liquidoReclamante": 83184.53,
+    "brutoReclamante": 95503.45,
+    "depositoFGTS": 6269.24,
+    "multaFGTS": 4492.79,
+    "inssEmpresa": 11944.10,
+    "sat": 1791.61,
+    "honorarios": 4472.69,
+    "custas": 1507.78
+  },
+
+  "checkpoints_def": [
+    {
+      "key": "dataAdmissao",
+      "dimensao": 1,
+      "label": "Data de admissão",
+      "tipo": "data",
+      "tolerancia": 0,
+      "peso": 1,
+      "dica": "D1 — Período de cálculo: data de admissão"
+    },
+    {
+      "key": "dataDemissao",
+      "dimensao": 1,
+      "label": "Data de demissão",
+      "tipo": "data",
+      "tolerancia": 0,
+      "peso": 1,
+      "dica": "D1 — Período de cálculo: data de demissão"
+    },
+    {
+      "key": "dataAjuizamento",
+      "dimensao": 1,
+      "label": "Data de ajuizamento",
+      "tipo": "data",
+      "tolerancia": 0,
+      "peso": 1,
+      "dica": "D1 — Data de ajuizamento afeta correção/juros a partir de ADC 58"
+    },
+    {
+      "key": "valorMaiorRemuneracao",
+      "dimensao": 5,
+      "label": "Maior remuneração (base de cálculo)",
+      "tipo": "numero",
+      "tolerancia": 0.05,
+      "peso": 2,
+      "dica": "D5 — Divisor e maior remuneração: base de todas as verbas"
+    },
+    {
+      "key": "valorCargaHorariaPadrao",
+      "dimensao": 5,
+      "label": "Carga horária padrão (divisor)",
+      "tipo": "numero",
+      "tolerancia": 0,
+      "peso": 1,
+      "dica": "D5 — Carga horária/divisor impacta horas extras e adicional noturno"
+    },
+    {
+      "key": "sabadoDiaUtil",
+      "dimensao": 5,
+      "label": "Sábado como dia útil",
+      "tipo": "booleano",
+      "tolerancia": 0,
+      "peso": 1,
+      "dica": "D5 — Sábado dia útil altera contagem de DSR e aviso prévio"
+    },
+    {
+      "key": "indiceTrabalhista",
+      "dimensao": 16,
+      "label": "Índice de correção monetária principal",
+      "tipo": "texto",
+      "tolerancia": 0,
+      "peso": 3,
+      "dica": "D16 — Juros e correção: índice correto por ADC 58 (IPCA-E até ajuizamento)"
+    },
+    {
+      "key": "combinarOutroIndice",
+      "dimensao": 16,
+      "label": "Combinar segundo índice (IPCA após ajuizamento)",
+      "tipo": "booleano",
+      "tolerancia": 0,
+      "peso": 2,
+      "dica": "D16 — ADC 58: IPCA-E até ajuizamento, IPCA/SELIC a partir daí"
+    },
+    {
+      "key": "outroIndiceTrabalhista",
+      "dimensao": 16,
+      "label": "Segundo índice (a partir do ajuizamento)",
+      "tipo": "texto",
+      "tolerancia": 0,
+      "peso": 2,
+      "dica": "D16 — Índice combinado a partir da data de ajuizamento (ADC 58)"
+    },
+    {
+      "key": "apartirDeOutroIndice",
+      "dimensao": 16,
+      "label": "Data de início do segundo índice",
+      "tipo": "data",
+      "tolerancia": 0,
+      "peso": 1,
+      "dica": "D16 — Data divisor ADC 58: deve coincidir com o ajuizamento"
+    },
+    {
+      "key": "fgtsAliquota",
+      "dimensao": 17,
+      "label": "Alíquota FGTS",
+      "tipo": "texto",
+      "tolerancia": 0,
+      "peso": 1,
+      "dica": "D17 — Base FGTS: alíquota padrão 8%"
+    },
+    {
+      "key": "incidenciaDoFgts",
+      "dimensao": 17,
+      "label": "Incidência do FGTS",
+      "tipo": "texto",
+      "tolerancia": 0,
+      "peso": 1,
+      "dica": "D17 — Base FGTS: SOBRE_O_TOTAL_DEVIDO ou SOBRE_O_DEVIDO_MENOS_PAGO"
+    },
+    {
+      "key": "multaDoFgts",
+      "dimensao": 18,
+      "label": "Multa do FGTS (40%)",
+      "tipo": "texto",
+      "tolerancia": 0,
+      "peso": 1,
+      "dica": "D18 — Base multa 40%: QUARENTA_POR_CENTO ou CINQUENTA_POR_CENTO"
+    },
+    {
+      "key": "excluirAvisoDaMulta",
+      "dimensao": 18,
+      "label": "Excluir aviso prévio da base da multa",
+      "tipo": "booleano",
+      "tolerancia": 0,
+      "peso": 1,
+      "dica": "D18 — Aviso prévio indenizado entra ou não na base da multa 40%"
+    },
+    {
+      "key": "aliquotaEmpresaFixa",
+      "dimensao": 21,
+      "label": "Alíquota INSS empresa (20%)",
+      "tipo": "numero",
+      "tolerancia": 0,
+      "peso": 1,
+      "dica": "D21 — INSS empresa: 20% regime geral (ou % diferente se SIMPLES/desonerado)"
+    },
+    {
+      "key": "aliquotaRATFixa",
+      "dimensao": 22,
+      "label": "Alíquota SAT/RAT",
+      "tipo": "numero",
+      "tolerancia": 0,
+      "peso": 2,
+      "dica": "D22 — SAT/RAT pelo CNAE: alíquota correta (1%, 2% ou 3%) conforme atividade"
+    },
+    {
+      "key": "apurarRATPorAtividade",
+      "dimensao": 22,
+      "label": "Apurar RAT por atividade (CNAE)",
+      "tipo": "booleano",
+      "tolerancia": 0,
+      "peso": 1,
+      "dica": "D22 — Se true, sistema usa alíquota do CNAE; se false, usa a fixada"
+    },
+    {
+      "key": "apurarImpostoRenda",
+      "dimensao": 20,
+      "label": "Apurar IRPF",
+      "tipo": "booleano",
+      "tolerancia": 0,
+      "peso": 1,
+      "dica": "D20 — IRPF: deve ser apurado conforme regime RRA (anos anteriores)"
+    },
+    {
+      "key": "valorConhecimentoDoReclamado",
+      "dimensao": 23,
+      "label": "Custas pagas pelo Reclamado",
+      "tipo": "numero",
+      "tolerancia": 0.05,
+      "peso": 1,
+      "dica": "D23 — Custas judiciais deduzidas: valor informado"
+    },
+    {
+      "key": "prescricaoQuinquenal",
+      "dimensao": 1,
+      "label": "Aplicar prescrição quinquenal",
+      "tipo": "booleano",
+      "tolerancia": 0,
+      "peso": 1,
+      "dica": "D1 — Prescrição quinquenal (5 anos) ou bienal"
+    },
+    {
+      "key": "prescricaoFgts",
+      "dimensao": 1,
+      "label": "Aplicar prescrição específica de FGTS",
+      "tipo": "booleano",
+      "tolerancia": 0,
+      "peso": 1,
+      "dica": "D1 — Prescrição 30 anos do FGTS (pré-ARE 709.212)"
+    }
+  ],
+
+  "textChecklist": [
+    {
+      "tema": "Correção monetária / ADC 58 (IPCA-E + SELIC/IPCA)",
+      "dimensao": 16,
+      "keywords": ["ADC 58", "IPCA-E", "IPCA", "SELIC", "Súmula 439", "correcao monetaria", "correção monetária", "índice", "indice"]
+    },
+    {
+      "tema": "Juros de mora (taxa e base)",
+      "dimensao": 16,
+      "keywords": ["juros", "taxa", "mora", "TRD", "1%", "juros simples"]
+    },
+    {
+      "tema": "SAT/RAT pelo CNAE",
+      "dimensao": 22,
+      "keywords": ["SAT", "RAT", "CNAE", "atividade", "alíquota", "aliquota"]
+    },
+    {
+      "tema": "Verba principal (Diferença Salarial / método de cálculo)",
+      "dimensao": 2,
+      "keywords": ["diferença salarial", "diferenca salarial", "equiparação", "equiparacao", "paradigma", "salário", "salario"]
+    },
+    {
+      "tema": "Multa FGTS 40% (base e exclusão do aviso)",
+      "dimensao": 18,
+      "keywords": ["multa", "FGTS", "40%", "aviso prévio", "aviso previo"]
+    },
+    {
+      "tema": "INSS empresa e prescrição",
+      "dimensao": 21,
+      "keywords": ["INSS", "contribuição", "contribuicao", "empresa", "20%", "previdência", "previdencia"]
+    },
+    {
+      "tema": "Custas processuais deduzidas",
+      "dimensao": 23,
+      "keywords": ["custas", "recolhimento", "preparo", "guia"]
+    },
+    {
+      "tema": "IRPF (regime RRA / anos anteriores)",
+      "dimensao": 20,
+      "keywords": ["IRPF", "imposto de renda", "RRA", "anos anteriores", "retencao", "retenção"]
+    }
+  ]
+}

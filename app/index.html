@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Corretor de Impugnação de Cálculo · ICIT</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"
+        integrity="sha384-+mbV2IY1Zk/X1p/nWllGySJSUN8uMs+gUAN10Or95UBH0fpj6GfKgPmgC5EXieXG"
+        crossorigin="anonymous"></script>
+<link rel="modulepreload"
+      href="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.0.379/pdf.min.mjs"
+      integrity="sha384-uwJM5C0hGZH5Ed/vHx4Ht1PUd8ABIDVIcLbHydZOdFL5eTUG8Jdr32xNVIyn0kYH"
+      crossorigin="anonymous">
+<link rel="modulepreload"
+      href="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.0.379/pdf.worker.min.mjs"
+      integrity="sha384-NVnhtZrGsIwDcnD5XVrDINOVzrQT0KzaOPpVmavjhwAaVWUtLcgQW7Cua6BKLsEA"
+      crossorigin="anonymous">
+<script src="corretor.js"></script>
+<!-- Pyodide: só o loader; o runtime pesado é baixado LAZY após a 1ª correção (diagnóstico beta) -->
+<script src="https://cdn.jsdelivr.net/pyodide/v0.26.4/full/pyodide.js"
+        integrity="sha384-i3R37b3tF+HWudsUf1VSEOY2YxwSNMqY8DQa9Z0O3xh+NkJ9o+yjcGyIi5huj+nB"
+        crossorigin="anonymous" defer></script>
+</head>
+<body>
+
+<header>
+  <div class="brand">
+    <h1>Corretor de Impugnação de Cálculo</h1>
+    <span class="sub">ICIT · correção automática e determinística — sem IA, sem servidor, 100% no seu navegador</span>
+  </div>
+</header>
+
+<div class="container">
+
+  <!-- Seletor de exercício -->
+  <div class="card">
+    <h2>Exercício</h2>
+    <div id="ex-selector">
+      <label for="ex-select">Exercício:</label>
+      <select id="ex-select">
+        <option value="marco16">Março/16 — Sunflow x Alberto (0100912-64.2025.5.01.0005)</option>
+        <option value="abril13">Abril/13 — Renato x Joalheria Santa Trindade (0101079-18.2024.5.01.0005)</option>
+        <option value="junho22">Junho/22 — Márcio x Comercial Verocity (0100333-87.2023.5.01.0005)</option>
+        <option value="setembro15">Setembro/15 — Gessi Soares Costa (0100681-55.2023.5.01.0248)</option>
+      </select>
+      <span id="ex-status" class="muted" style="font-size:12px;color:var(--text-soft);"></span>
+    </div>
+  </div>
+
+  <!-- Upload -->
+  <div class="card">
+    <h2>Enviar arquivos</h2>
+    <div class="upload-group">
+      <div class="upload-row">
+        <label><span class="req">*</span> Seu cálculo (.PJC):</label>
+        <input type="file" id="file-pjc" accept=".PJC,.pjc" />
+      </div>
+      <div class="upload-row">
+        <label><span class="req">*</span> Relatório PDF do seu cálculo:</label>
+        <input type="file" id="file-pdf" accept=".pdf" />
+        <small class="hint">Necessário para conferir o <b>resultado</b> (total devido, reflexos). Sem ele, só os parâmetros são conferidos.</small>
+      </div>
+      <div class="upload-row">
+        <label>Texto da impugnação (opcional, .docx, .pdf ou .txt):</label>
+        <input type="file" id="file-texto" accept=".docx,.pdf,.txt" />
+      </div>
+      <button class="btn" id="btn-corrigir" onclick="corrigir()">Corrigir</button>
+      <div id="status-msg"></div>
+    </div>
+  </div>
+
+  <!-- Resultado -->
+  <div id="result">
+
+    <!-- Duas notas -->
+    <div class="card">
+      <h2>Suas notas</h2>
+      <div class="notas-grid">
+        <div class="nota-box" id="box-calculo">
+          <div class="nota-badge" id="badge-calculo">--</div>
+          <div class="nota-info">
+            <div class="titulo">Nota do Cálculo</div>
+            <div class="sub" id="sub-calculo"></div>
+          </div>
+        </div>
+        <div class="nota-box" id="box-impug">
+          <div class="nota-badge" id="badge-impug">--</div>
+          <div class="nota-info">
+            <div class="titulo">Cobertura da Impugnação</div>
+            <div class="sub" id="sub-impug">Envie o texto da impugnação para avaliar.</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Totais (somente valor do aluno + status bateu/não bateu) -->
+    <div class="card" id="card-totais" style="display:none;">
+      <h2>Totais do seu relatório</h2>
+      <div id="totais-body"></div>
+    </div>
+
+    <!-- Boletim por dimensão -->
+    <div class="card">
+      <h2>Boletim por Dimensão</h2>
+      <p style="font-size:12.5px;color:var(--text-soft);margin-bottom:14px;">
+        Clique em cada dimensão para ver os itens. Dimensões marcadas como OK estão corretas.
+        Para os itens a REVER, consulte as orientações de estudo abaixo.
+      </p>
+      <div id="boletim-body"></div>
+    </div>
+
+    <!-- Feedback pedagógico -->
+    <div class="card" id="card-feedback" style="display:none;">
+      <h2>O que estudar / refazer</h2>
+      <div id="feedback-body"></div>
+    </div>
+
+    <!-- Checklist de temas da impugnação -->
+    <div class="card" id="card-checklist" style="display:none;">
+      <h2>Cobertura de Temas na Impugnação</h2>
+      <div class="aviso-box">
+        Este checklist verifica apenas se os temas aparecem no texto.
+        Não avalia a qualidade ou profundidade do argumento.
+      </div>
+      <div id="checklist-body"></div>
+      <div id="checklist-faltando" style="margin-top:12px;font-size:13px;color:var(--bad);"></div>
+    </div>
+
+    <!-- Diagnóstico detalhado (beta) — motor Python (Pyodide); some se o Pyodide falhar -->
+    <div class="card" id="card-diagnostico" style="display:none;">
+      <h2>Diagnóstico detalhado <span class="beta-tag">beta</span></h2>
+      <p style="font-size:12.5px;color:var(--text-soft);margin-bottom:10px;">
+        Comparação item a item do seu .PJC com o gabarito por um segundo motor.
+        Não altera a nota — é só um mapa extra de onde revisar.
+      </p>
+      <div id="diag-status" style="font-size:13px;color:var(--text-soft);"></div>
+      <div id="diagnostico-body"></div>
+    </div>
+
+    <!-- CTA reenvio -->
+    <div id="card-cta" class="cta-box cta-refaz" style="margin-bottom:18px;">
+      <h3 id="cta-titulo"></h3>
+      <p id="cta-texto"></p>
+      <ul id="cta-lista"></ul>
+      <div class="actions">
+        <button class="btn" onclick="iniciarReenvio()">Enviar nova versão</button>
+        <button class="btn btn-outline" onclick="baixarBoletim()">Baixar boletim (.txt)</button>
+        <button class="btn btn-outline" onclick="resetar()">Recomeçar</button>
+      </div>
+    </div>
+
+  </div><!-- /#result -->
+</div>
+
+<footer>
+  Corretor de Impugnação de Cálculo · ICIT — correção determinística do seu <code>.PJC</code> contra o gabarito do professor.
+</footer>
+
+<script type="module" src="app.js"></script>
+</body>
+</html>

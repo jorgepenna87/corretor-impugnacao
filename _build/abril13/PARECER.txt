@@ -1,0 +1,271 @@
+PROMPT DO ORACULO:
+Olá oraculo. Vou colocar um topico da sentença aqui e você me diz o seguinte. Se foi indeferido, responde só "indeferido". De foi deferido, destaca os pontos do texto que deferiram o pedido e a parametrização. E também faça um resumo objetivo e por tópicos.
+
+36163233657PARECER TÉCNICO
+PARECER TÉCNICO
+
+DADOS PROCESSUAIS
+
+Autos principais
+0101079-18.2024.5.01.0005
+Juízo
+5ª VT/RJ
+Reclamante
+RENATO ALVES DE OLIVEIRA
+Reclamada
+JOALHERIA SANTA TRINDADE
+Ajuizamento
+30/03/2024
+
+DADOS CONTRATUAIS
+
+Admissão
+01/02/2020
+Rescisão
+15/03/2024
+Modalidade
+Dispensa sem justa causa
+
+DOS PEDIDOS DEFERIDOS
+RECONHECIMENTO DE VÍNCULO
+SENTENÇA
+
+“Assim, rejeito a tese defensiva de autonomia e julgo procedente o pedido para reconhecer o vínculo de emprego no período de 01/02/2020 a 15/03/2024, fixando como última remuneração o valor de R$ 3.900,00, autorizada a evolução salarial pela variação do salário mínimo.”
+“Determino que a reclamada proceda à anotação do contrato de trabalho na CTPS do reclamante Renato Alves no prazo de 10 dias, independentemente do trânsito em julgado, sob pena de multa diária a ser fixada em caso de descumprimento.”
+
+Vínculo de emprego reconhecido de 01/02/2020 a 15/03/2024.
+Última remuneração fixada em R$ 3.900,00.
+Autorizada evolução salarial pela variação do salário mínimo ao longo do período.
+Determinada anotação do contrato na CTPS em 10 dias, independentemente do trânsito em julgado, sob pena de multa diária (valor a ser fixado na execução/ cumprimento).
+
+DO ADICIONAL DE INSALUBRIDADE
+
+SENTENÇA
+
+Assim, diante da constatação de insalubridade em grau médio (20%), em razão da exposição a pó de serragem e poeiras contendo metais pesados, sem proteção individual adequada, defiro:
+- o adicional de insalubridade em grau médio, calculado sobre o salário mínimo, com reflexos em férias + 1/3, 13º salário, aviso prévio, saldo salarial e FGTS + 40%.”
+
+“Considerando a sucumbência da reclamada no objeto da perícia, deverá arcar com os honorários periciais, já arbitrados em R$ 3.900,00 (fl. 154), a serem atualizados na forma da lei…”
+
+Resumo objetivo por tópicos:
+
+Pedido de adicional de insalubridade: procedente.
+Agente nocivo: pó de serragem e poeiras com metais pesados.
+Situação fática: trabalho no chão de fábrica, moldando e serrando peças de ferro, sem óculos e máscara.
+Grau de insalubridade: médio (20%).
+Base de cálculo: salário mínimo.
+Reflexos deferidos: férias + 1/3, 13º, aviso prévio, saldo salarial, FGTS + 40%.
+Honorários periciais: R$ 3.900,00, de responsabilidade da reclamada.
+
+VERBAS RESCISÓRIAS
+SENTENÇA
+
+“Superada a controvérsia acerca da modalidade rescisória, tenho que a dispensa sem justa causa é incontroversa e, diante do reconhecimento do vínculo de emprego em todo o período laborado, são devidas as verbas rescisórias correspondentes, observados os parâmetros a seguir :
+• saldo de salário;
+• aviso prévio indenizado;
+• 13º salários de todo o período contratual;
+• férias de todo o período, com 1/3 constitucional, sendo devidas em dobro as férias dos períodos aquisitivos 2020/2021, 2021/2022 e 2022/2023, simples as férias de 2023/2024, além das férias proporcionais; ”
+Assim, condeno a reclamada ao recolhimento do FGTS de todo o contrato, acrescido da multa de 40%, na conta vinculada da reclamante. serem depositados na conta vinculada, e não pagos diretamente à trabalhadora …”
+
+Resumo por tópicos:
+
+Pedido: verbas rescisórias por dispensa sem justa causa em 15/03/2024.
+Situação: reclamada não comprovou quitação; impugnação genérica.
+Decisão:
+Reconhecida dispensa sem justa causa.
+Deferidos: saldo de salário, aviso prévio indenizado, 13º de todo o período, férias em dobro (2020/21, 2021/22, 2022/23), férias simples (2023/24) e férias proporcionais, todas com 1/3.
+Deferido: FGTS de todo o contrato + multa de 40%, com determinação de depósito na conta vinculada.
+
+MULTA DO ART. 477, DA CLT
+
+“é devida a multa do art. 477, §8º, uma vez que restou configurado o atraso no pagamento das verbas rescisórias, cujo prazo legal não foi observado. ”
+
+Resumo objetivo por tópicos:
+Multa art. 477, § 8º, CLT:
+Situação: atraso no pagamento das verbas rescisórias.
+Decisão: multa devida.
+Cálculo: 1 salário (usar maior remuneração ou salário-base, conforme o polo que você representa).
+Multa art. 467, CLT:
+Situação: na primeira audiência não havia verbas rescisórias incontroversas, pois o vínculo era contestado.
+Decisão: multa indevida (não lançar no cálculo).
+
+HONORÁRIOS SUCUMBENCIAIS
+SENTENÇA
+“Devidos, na forma do art. 791-A da CLT, fixados em 5% sobre o valor líquido da condenação.”
+
+ATUALIZAÇÃO MONETÁRIA
+Para fins de cálculo, a sentença fixou um regime misto, em três fases:
+Fase pré-judicial (do vencimento de cada parcela até a véspera do ajuizamento)
+Índice de correção: IPCA-E.
+Juros: juros legais do art. 39, caput, da Lei 8.177/91 (TRD acumulada no período).
+No PJECALC:
+Índice de correção: IPCA-E (fase extrajudicial).
+Juros: TRD (fase extrajudicial), pro rata die.
+Fase judicial até 29/08/2024 (do ajuizamento até 29/08/2024)
+Índice: SELIC (englobando correção + juros).
+Observação importante:
+Devem ser respeitados pagamentos já realizados com TR/IPCA-E + 1% ao mês, sem rediscutir ou compensar diferenças (“vedada a dedução ou compensação de eventuais diferenças pelo critério de cálculo anterior”).
+No PJECALC:
+A partir da data do ajuizamento até 29/08/2024, selecionar SELIC como “correção + juros” (sem lançar juros separados).
+Fase judicial a partir de 30/08/2024 (de 30/08/2024 até o pagamento)
+Correção monetária: IPCA-E.
+Juros de mora: “SELIC – IPCA”, conforme art. 406, parágrafo único, do CC, podendo resultar em taxa 0 em algum período.
+Na prática de cálculo:
+Atualiza-se o crédito até 29/08/2024 pela SELIC.
+A partir de 30/08/2024, passa-se a aplicar:
+IPCA-E como índice de correção;
+Juros de mora calculados pela diferença entre a SELIC e o IPCA-E (conforme orientação da SDI-1/TST e do Manual da Justiça Federal).
+Outros parâmetros relevantes:
+Juros incidem sobre o valor bruto da condenação (Súmula 200 do TST).
+SELIC:
+Utilização na forma simples (não capitalizada mês a mês pelo calculista), pois a própria SELIC já é construída com capitalização interna.
+No mês do pagamento, acrescentar 1% (art. 30 da Lei 10.522/2002), conforme a sentença determinou.
+Em resumo para lançamento:
+Fase pré-judicial: IPCA-E + TRD (art. 39 caput).
+Do ajuizamento até 29/08/2024: SELIC única (sem outro índice, sem juros separados).
+De 30/08/2024 até o pagamento: IPCA-E como correção + juros “SELIC – IPCA”, respeitando a vedação de recálculo de valores já pagos com TR/IPCA-E + 1% ao mês.
+
+IMPUGNAÇÕES SUGERIDAS AOS CÁLCULOS AUTORAIS
+
+DA MULTA DO ART. 467, DA CLT
+
+A planilha apresentada pelo reclamante incluiu indevidamente a multa do art. 467 da CLT, em flagrante desconformidade com a coisa julgada.
+
+A r. sentença foi categórica ao indeferir tal parcela, nos seguintes termos:
+
+“Por outro lado, indevida a multa do art. 467 da CLT, pois, ao tempo da primeira audiência, não havia parcelas rescisórias incontroversas a ensejar o pagamento imediato, já que a reclamada controvertia o próprio vínculo de emprego, afastando o pressuposto de incidência da penalidade.”
+
+Portanto, não há título executivo que ampare a inclusão da multa do art. 467 da CLT nos cálculos do reclamante, tratando-se de extrapolação dos limites objetivos da coisa julgada, o que é vedado na fase de liquidação.
+Assim, impugnam-se os cálculos do reclamante nesse particular, requerendo-se:
+
+a exclusão integral da multa do art. 467 da CLT da planilha apresentada;
+a consequente adequação do valor total da condenação , observando-se estritamente o comando sentencial.
+
+DO AD INSALUBRIDADE
+
+A planilha apresentada pelo reclamante apurou o adicional de insalubridade no percentual de 40%, em desacordo com o comando sentencial.
+
+A r. sentença foi expressa ao limitar o adicional de insalubridade ao grau médio (20%), nos seguintes termos:
+“Assim, diante da constatação de insalubridade em grau médio (20%), em razão da exposição a pó de serragem e poeiras contendo metais pesados, sem proteção individual adequada, defiro o adicional de insalubridade em grau médio, calculado sobre o salário mínimo, com reflexos em férias + 1/3, 13º salário, aviso prévio, saldo salarial e FGTS + 40%.”
+
+Portanto, o título executivo não autoriza a aplicação de 40%, mas apenas de 20% sobre o salário mínimo, com os reflexos ali delimitados.
+Ao utilizar o percentual de 40%, o reclamante:
+extrapola os limites da coisa julgada ,
+majora indevidamente o valor da condenação,
+e gera enriquecimento sem causa, em afronta ao art. 879, § 1º, da CLT.
+
+Dessa forma, impugnam-se os cálculos do reclamante no particular, requerendo-se:
+a retificação do adicional de insalubridade para 20% , calculado sobre o salário mínimo,
+com recálculo de todos os reflexos (férias + 1/3, 13º, aviso prévio, saldo salarial e FGTS + 40%) com base nesse percentual correto.
+
+DA EVOLUÇÃO DO SALÁRIO BASE
+
+A planilha apresentada pelo reclamante apurou as verbas deferidas utilizando, como base de cálculo, o valor fixo de R$ 3.900,00, a título de salário base.
+
+Ocorre que a r. sentença não fixou salário contratual de R$ 3.900,00 como base estática, mas determinou expressamente a evolução salarial com base na variação do salário mínimo, nos seguintes termos:
+
+“Assim, rejeito a tese defensiva de autonomia e julgo procedente o pedido para reconhecer o vínculo de emprego no período de 01/02/2020 a 15/03/2024, fixando como última remuneração o valor de R$ 3.900,00, autorizada a evolução salarial pela variação do salário mínimo.”
+
+Portanto:
+o título executivo vincula a remuneração (ou o adicional) ao salário mínimo ,
+impondo a evolução mês a mês conforme os reajustes legais do salário mínimo,
+e não autoriza a adoção de um salário base fixo de R$ 3.900,00 para todo o período.
+
+Ao utilizar o valor de R$ 3.900,00 como base única, o reclamante:
+desrespeita a coisa julgada ,
+desconsidera a evolução do salário mínimo determinada na sentença,
+e majora indevidamente o valor da condenação.
+Dessa forma, impugnam-se os cálculos do reclamante nesse particular, requerendo-se:
+que seja reconhecido o equívoco na base de cálculo adotada (R$ 3.900,00);
+que os cálculos sejam refeitos, observando-se a evolução do salário mínimo no período contratual, como determinado na sentença;
+que todos os reflexos (férias + 1/3, 13º, aviso prévio, FGTS + 40% etc.) sejam recalculados com base nos valores corretos.
+
+DOS HONORÁRIOS SUCUMBENCIAIS
+
+A sentença arbitrou honorários advocatícios sucumbenciais em favor do patrono do reclamante no percentual de 5% (cinco por cento), nos termos do art. 791-A da CLT.
+Não obstante, o reclamante apurou, em sua planilha, honorários de 10% (dez por cento), majorando unilateralmente o percentual fixado pelo Juízo, o que configura manifesta violação à coisa julgada.
+
+Diante disso, impugnam-se os cálculos do reclamante nesse particular, requerendo-se que os honorários sejam readequados ao percentual de 5%, tal como expressamente determinado na sentença.
+
+CUSTAS
+
+A sentença fixou as custas processuais a cargo da reclamada, no importe de 2% (dois por cento) sobre o valor da causa de R$ 29.895,50.
+Assim, o valor correto das custas é de aproximadamente R$ 597,91 (0,02 × 29.895,50).
+Todavia, na planilha de liquidação apresentada, o reclamante apurou custas no montante de R$ 4.809,35, em flagrante desacordo com o critério estabelecido no título executivo.
+
+Nos termos do art. 879, § 1º, da CLT, a liquidação deve observar estritamente os limites da condenação, sendo vedada a majoração unilateral de custas processuais.
+Diante disso, impugnam-se os cálculos do reclamante nesse particular, requerendo-se que o valor das custas seja readequado para 2% sobre o valor da causa de R$ 75.389,22, totalizando aproximadamente R$ 1.507,78, em estrita observância ao comando sentencial.
+
+DOS HONORÁRIOS DO PERITO
+
+A planilha de liquidação apresentada pelo reclamante não contemplou os honorários periciais de insalubridade, arbitrados nos autos no valor de R$ 3.900,00.
+Conforme decisão de V. Exa., restou fixado que:
+“Considerando a sucumbência da reclamada no objeto da perícia, deverá arcar com os honorários periciais, já arbitrados em R$ 3.900,00 (fl. 154), a serem atualizados na forma da lei…”
+
+Tratase, portanto, de verba expressamente deferida no título executivo, que deve integrar a conta de liquidação
+
+DO FGTS
+
+A planilha apresentada pelo reclamante incluiu os valores de FGTS diretamente no principal devido ao reclamante, como se verba de pagamento direto fosse.
+Ocorre que a r. sentença não condenou a reclamada ao pagamento direto desses valores ao autor, mas sim ao recolhimento dos depósitos de FGTS na conta vinculada, nos seguintes termos:
+
+Assim, condeno a reclamada ao recolhimento do FGTS de todo o contrato, acrescido da multa de 40%, na conta vinculada da reclamante. serem depositados na conta vinculada, e não pagos diretamente à trabalhadora …”
+
+Portanto:
+a obrigação principal é de fazer (recolher/depositar) na conta vinculada do FGTS;
+somente em caso de descumprimento é que se admite a conversão em obrigação de pagar diretamente ao trabalhador, mediante execução específica;
+não há, no título executivo, condenação genérica para somar o FGTS ao crédito líquido do reclamante como se fosse verba salarial.
+Ao lançar o FGTS como valor a ser pago diretamente ao autor, o cálculo do reclamante:
+altera a natureza da obrigação fixada na sentença;
+extrapola os limites da coisa julgada (art. 879, § 1º, da CLT);
+gera risco de duplicidade , pois o mesmo valor poderá ser cobrado como depósito e como pagamento direto.
+Dessa forma, impugnam-se os cálculos do reclamante no particular, requerendo-se:
+que seja reconhecido o equívoco na inclusão do FGTS como parcela de pagamento direto ao reclamante;
+que os valores de FGTS sejam tratados apenas como obrigação de depósito na conta vinculada , nos termos do comando sentencial, com a devida comprovação nos autos;
+que, se mantida a conversão em obrigação de pagar, isso se dê de forma expressa e limitada ao que for efetivamente apurado como não depositado, evitando-se qualquer bis in idem.
+
+DOS JUROS E CORREÇÃO MONETÁRIA
+
+A planilha apresentada pelo reclamante (Id [xxxxxx]) não observou os índices de atualização fixados no título executivo para o período a partir de 30/08/2024, em afronta direta à sentença e à Lei nº 14.905/2024.
+Conforme decidido por V. Exa., restou determinado que, a partir de 30/08/2024, a atualização dos débitos observaria:
+
+- a partir de 30/8/2024, no cálculo da atualização monetária, será utilizado o IPCA-E (que consiste na apuração quinzenal do índice IPCA, na forma do art. 389, parágrafo único, do Código Civil); os juros de mora corresponderão ao resultado da subtração SELIC - IPCA (art. 406, parágrafo único, do Código Civil), com a possibilidade de não incidência (taxa 0), nos termos do § 3º do art. 406.
+
+Ou seja, para o período posterior a 30/08/2024, o comando exequendo é claro:
+Correção monetária: IPCAE;
+Juros de mora: TAXA LEGAL (juros que compõem a Selic, nos termos do art. 406 do Código Civil, com redação da Lei 14.905/24), aplicada de forma simples.
+Entretanto, o reclamante:
+manteve a aplicação de índice diverso (ex.: Selic integral / IPCAE + 1% a.m. / outro critério),
+ou simplesmente não separou correção (IPCAE) e juros (TAXA LEGAL),
+desrespeitando o critério legal e o que foi expressamente fixado na sentença.
+Tal procedimento:
+viola a coisa julgada (art. 879, § 1º, CLT),
+gera duplicidade ou majoração indevida dos encargos,
+e afasta a aplicação correta da Lei nº 14.905/2024, que passou a disciplinar a matéria a partir de 29/08/2024.
+Dessa forma, impugnamse os cálculos do reclamante no particular, requerendose:
+o reconhecimento de que, a partir de 30/08/2024 , devem ser observados, obrigatoriamente:
+IPCAE como índice de correção monetária;
+TAXA LEGAL como juros de mora, na forma da Lei 14.905/24;
+a determinação para que os cálculos do reclamante sejam retificados , com:
+recálculo da correção monetária pelo IPCAE;
+aplicação dos juros de mora exclusivamente pela TAXA LEGAL, de forma simples;
+a consequente adequação do valor total da condenação ao critério fixado no título executivo.
+
+CONCLUSÃO
+
+Diante de todas as impugnações apresentadas resta demonstrado que os cálculos do reclamante superestimam o crédito devido.
+Enquanto a planilha apresentada pelo autor aponta o montante de R$ 245.277,05, os cálculos ora juntados pela reclamada, em estrita observância ao título executivo e à legislação aplicável, apuram o valor de R$ 150.853,03.
+Tem-se, portanto, uma redução nominal de:
+
+R$ 94.424,02 (R$ 245.277,05 – R$ 150.853,03),
+
+o que representa uma redução percentual aproximada de 38% sobre o valor indicado pelo reclamante.
+
+Cálculos do AUTOR:
+
+Nossos cálculos:
+
+Rio de Janeiro,  TIME \@ "d' de 'MMMM' de 'yyyy" 24 de março de 2026
+
+SEU NOME
+SEU DOCUMENTO

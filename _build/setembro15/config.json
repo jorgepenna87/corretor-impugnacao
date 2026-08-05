@@ -1,0 +1,379 @@
+{
+  "exercicio": {
+    "id": "setembro15",
+    "titulo": "Exercício Setembro/15 — Impugnação de Cálculo (Ótica Reclamada)",
+    "processo": "0100681-55.2023.5.01.0248",
+    "otica": "RECLAMADA",
+    "descricao": "Caso GESSI SOARES COSTA (diárias de viagem e diferença salarial por redução unilateral). O aluno recebe o cálculo do autor e deve impugná-lo, refazendo no PJe-Calc."
+  },
+  "tolerancia_verba_percentual": 0.5,
+  "peso_verba": 5,
+  "verba_check": false,
+  "totais_hardcoded": {
+    "totalDevidoReclamado": 347646.29,
+    "brutoReclamante": 291730.85,
+    "multaFGTS": 462.16,
+    "honorarios": 14586.54
+  },
+  "checkpoints_def": [
+    {
+      "key": "dataAdmissao",
+      "dimensao": 1,
+      "label": "Data de admissão",
+      "tipo": "data",
+      "tolerancia": 0,
+      "peso": 1,
+      "dica": "D1 — Período de cálculo: data de admissão"
+    },
+    {
+      "key": "dataDemissao",
+      "dimensao": 1,
+      "label": "Data de demissão",
+      "tipo": "data",
+      "tolerancia": 0,
+      "peso": 1,
+      "dica": "D1 — Período de cálculo: data de demissão"
+    },
+    {
+      "key": "dataAjuizamento",
+      "dimensao": 1,
+      "label": "Data de ajuizamento",
+      "tipo": "data",
+      "tolerancia": 0,
+      "peso": 1,
+      "dica": "D1 — Data de ajuizamento define o divisor de correção/juros (ADC 58 / Lei 14.905)"
+    },
+    {
+      "key": "valorCargaHorariaPadrao",
+      "dimensao": 5,
+      "label": "Carga horária padrão (divisor)",
+      "tipo": "numero",
+      "tolerancia": 0,
+      "peso": 1,
+      "dica": "D5 — Carga horária/divisor impacta horas extras e adicional noturno"
+    },
+    {
+      "key": "sabadoDiaUtil",
+      "dimensao": 5,
+      "label": "Sábado como dia útil",
+      "tipo": "booleano",
+      "tolerancia": 0,
+      "peso": 1,
+      "dica": "D5 — Sábado dia útil altera contagem de DSR e aviso prévio"
+    },
+    {
+      "key": "indiceTrabalhista",
+      "dimensao": 16,
+      "label": "Índice de correção monetária principal",
+      "tipo": "texto",
+      "tolerancia": 0,
+      "peso": 3,
+      "dica": "D16 — Juros e correção: índice correto por ADC 58 (IPCA-E até o ajuizamento)"
+    },
+    {
+      "key": "combinarOutroIndice",
+      "dimensao": 16,
+      "label": "Combinar segundo índice a partir do ajuizamento",
+      "tipo": "booleano",
+      "tolerancia": 0,
+      "peso": 2,
+      "dica": "D16 — ADC 58 / Lei 14.905: IPCA-E até o ajuizamento; a partir daí SELIC (já engloba juros+correção)"
+    },
+    {
+      "key": "outroIndiceTrabalhista",
+      "dimensao": 16,
+      "label": "Segundo índice (a partir do ajuizamento)",
+      "tipo": "texto",
+      "tolerancia": 0,
+      "peso": 2,
+      "dica": "D16 — Após o ajuizamento, a SELIC engloba correção: o índice de correção adicional deve ser 'SEM_CORRECAO'"
+    },
+    {
+      "key": "apartirDeOutroIndice",
+      "dimensao": 16,
+      "label": "Data de início do segundo índice",
+      "tipo": "data",
+      "tolerancia": 0,
+      "peso": 1,
+      "dica": "D16 — Data divisor (ADC 58): deve coincidir com o ajuizamento"
+    },
+    {
+      "key": "fgtsAliquota",
+      "dimensao": 17,
+      "label": "Alíquota FGTS",
+      "tipo": "texto",
+      "tolerancia": 0,
+      "peso": 1,
+      "dica": "D17 — Base FGTS: alíquota padrão 8%"
+    },
+    {
+      "key": "incidenciaDoFgts",
+      "dimensao": 17,
+      "label": "Incidência do FGTS",
+      "tipo": "texto",
+      "tolerancia": 0,
+      "peso": 1,
+      "dica": "D17 — Base FGTS: sobre o total devido ou sobre a diferença, conforme a sentença"
+    },
+    {
+      "key": "multaDoFgts",
+      "dimensao": 18,
+      "label": "Multa do FGTS (40%)",
+      "tipo": "texto",
+      "tolerancia": 0,
+      "peso": 1,
+      "dica": "D18 — Base multa 40%: percentual correto"
+    },
+    {
+      "key": "excluirAvisoDaMulta",
+      "dimensao": 18,
+      "label": "Excluir aviso prévio da base da multa",
+      "tipo": "booleano",
+      "tolerancia": 0,
+      "peso": 1,
+      "dica": "D18 — Aviso prévio indenizado entra ou não na base da multa 40%"
+    },
+    {
+      "key": "aliquotaEmpresaFixa",
+      "dimensao": 21,
+      "label": "Alíquota INSS empresa (20%)",
+      "tipo": "numero",
+      "tolerancia": 0,
+      "peso": 1,
+      "dica": "D21 — INSS empresa: 20% regime geral (ou % diferente se SIMPLES/desonerado)"
+    },
+    {
+      "key": "aliquotaRATFixa",
+      "dimensao": 22,
+      "label": "Alíquota SAT/RAT",
+      "tipo": "numero",
+      "tolerancia": 0,
+      "peso": 2,
+      "dica": "D22 — SAT/RAT pelo CNAE: alíquota correta conforme a atividade"
+    },
+    {
+      "key": "apurarRATPorAtividade",
+      "dimensao": 22,
+      "label": "Apurar RAT por atividade (CNAE)",
+      "tipo": "booleano",
+      "tolerancia": 0,
+      "peso": 1,
+      "dica": "D22 — Se true, o sistema usa a alíquota do CNAE; se false, usa a fixada"
+    },
+    {
+      "key": "apurarImpostoRenda",
+      "dimensao": 20,
+      "label": "Apurar IRPF",
+      "tipo": "booleano",
+      "tolerancia": 0,
+      "peso": 1,
+      "dica": "D20 — IRPF: deve ser apurado pelo regime RRA (rendimentos acumulados)"
+    },
+    {
+      "key": "prescricaoQuinquenal",
+      "dimensao": 1,
+      "label": "Aplicar prescrição quinquenal",
+      "tipo": "booleano",
+      "tolerancia": 0,
+      "peso": 1,
+      "dica": "D1 — Prescrição quinquenal (5 anos)"
+    },
+    {
+      "key": "prescricaoFgts",
+      "dimensao": 1,
+      "label": "Aplicar prescrição específica de FGTS",
+      "tipo": "booleano",
+      "tolerancia": 0,
+      "peso": 1,
+      "dica": "D1 — Prescrição específica do FGTS"
+    }
+  ],
+  "textChecklist": [
+    {
+      "tema": "Período de cálculo — admissão, demissão e ajuizamento",
+      "dimensao": 1,
+      "keywords": [
+        "admissão",
+        "demissão",
+        "ajuizamento",
+        "período",
+        "data de admissão",
+        "data de demissão",
+        "data de ajuizamento",
+        "01/11/2018",
+        "30/11/2021",
+        "18/11/2022"
+      ],
+      "explicacao_curta": "O período deve ser conferido antes de qualquer comparação. No caso, admissão 01/11/2018, demissão 30/11/2021 e ajuizamento 18/11/2022 — esses são os parâmetros corretos do gabarito. Erro no período contamina todas as verbas e índices de correção subsequentes. A data de ajuizamento é especialmente relevante porque define o marco de troca de índice (IPCA-E para SELIC) conforme a ADC 58."
+    },
+    {
+      "tema": "Diárias de viagem — valores devidos por período (coisa julgada)",
+      "dimensao": 2,
+      "keywords": [
+        "diárias de viagem",
+        "despesas de viagem",
+        "valor mensal",
+        "irredutibilidade salarial",
+        "coisa julgada",
+        "acórdão",
+        "14.300,00",
+        "15.605,00",
+        "13.077,88",
+        "remuneração integrada"
+      ],
+      "explicacao_curta": "O acórdão fixou valores específicos de diárias a integrar: R$ 14.300,00 de mar/2020 a jun/2020 e R$ 15.605,00 de jul/2020 até a dispensa. A ré lançou valores reduzidos (R$ 13.405,00 em mar–jun/2020; R$ 13.077,88, R$ 6.538,94 e R$ 6.000,00 após jul/2020), violando frontalmente o título e o princípio da irredutibilidade salarial (art. 468 CLT). O gabarito corrige lançando R$ 13.077,88 como base de referência de jul/2020 em diante, conforme último valor recebido antes da redução."
+    },
+    {
+      "tema": "Diárias de viagem — metodologia de integração (valor integral × diferença)",
+      "dimensao": 14,
+      "keywords": [
+        "integração integral",
+        "valor integral das diárias",
+        "integração parcial",
+        "diferença",
+        "base remuneratória",
+        "natureza salarial",
+        "parcelas salariais",
+        "novembro 2018",
+        "junho 2020",
+        "metodologia"
+      ],
+      "explicacao_curta": "Até junho/2020, o título determinou a integração do VALOR INTEGRAL das diárias pagas como parcela salarial — não apenas das diferenças em relação a um valor de referência eleito pela ré. A ré integrou somente diferenças, reduzindo artificialmente a base remuneratória. O gabarito lança a totalidade das diárias mensais (R$ 13.000,00 nov/2018–jun/2019; R$ 14.300,00 jul/2019–fev/2020; R$ 13.405,00 mar–jun/2020) como rubrica salarial para fins de reflexos."
+    },
+    {
+      "tema": "Diferença salarial por redução unilateral — art. 468 CLT e carga horária",
+      "dimensao": 10,
+      "keywords": [
+        "diferença salarial",
+        "redução unilateral",
+        "carga horária",
+        "180 horas-aula",
+        "art. 468",
+        "clt",
+        "cct 2017/2019",
+        "cláusula sétima",
+        "salário base devido",
+        "10.837,80"
+      ],
+      "explicacao_curta": "O autor ministrava 180 horas-aula mensais; a partir de jul/2020 a carga foi reduzida unilateralmente (81h, 117h, 54h em períodos distintos). A sentença e o acórdão deferiram as diferenças entre o salário-base devido (calculado sobre 220h/mês conforme CCT, cláusula sétima) e o efetivamente pago, de jul/2020 a nov/2021. O gabarito apura salário-base devido de R$ 10.837,80/mês com as deduções dos valores pagos mês a mês."
+    },
+    {
+      "tema": "Reflexos das verbas principais — 13º, férias+1/3 e aviso prévio",
+      "dimensao": 13,
+      "keywords": [
+        "reflexos",
+        "13º salário",
+        "férias",
+        "1/3 constitucional",
+        "aviso prévio",
+        "verbas rescisórias",
+        "acórdão ro",
+        "coisa julgada",
+        "reflexo das diárias",
+        "reflexo diferença salarial"
+      ],
+      "explicacao_curta": "O acórdão RO determinou expressamente reflexos das diárias de viagem e das diferenças salariais em 13º salários, férias acrescidas de 1/3 e FGTS. O gabarito lança: 13º sobre diárias (R$ 7.497,76 bruto), aviso prévio sobre diárias (R$ 9.747,09 bruto) e férias+1/3 sobre diárias (R$ 21.777,16 bruto). A ré omitiu esses reflexos no cálculo impugnado, violando a coisa julgada (art. 879, §1º CLT)."
+    },
+    {
+      "tema": "Atualização monetária — IPCA-E até ajuizamento e SELIC a partir de 18/11/2022 (ADC 58)",
+      "dimensao": 16,
+      "keywords": [
+        "adc 58",
+        "ipca-e",
+        "selic",
+        "taxa selic",
+        "juros moratórios",
+        "correção monetária",
+        "fase judicial",
+        "ajuizamento",
+        "18/11/2022",
+        "lei 14.905"
+      ],
+      "explicacao_curta": "Conforme ADC 58 e a própria sentença, a correção segue IPCA-E até o dia anterior ao ajuizamento (17/11/2022) e SELIC a partir do ajuizamento (18/11/2022), sem cumulação. O gabarito usa 'IPCA-E combinado com SEM_CORREÇÃO a partir de 18/11/2022', pois a SELIC já engloba correção e juros. O índice SELIC não é o mesmo que 'SELIC simples' sem observância do método Fazenda Nacional, e a Lei 14.905/2024 reforça a cisão dos componentes para ajuizamentos posteriores a 30/08/2024."
+    },
+    {
+      "tema": "Base de cálculo dos juros — após dedução da contribuição social (Súmula 200 TST)",
+      "dimensao": 16,
+      "keywords": [
+        "juros de mora",
+        "base de cálculo dos juros",
+        "sumula 200",
+        "tst",
+        "dedução inss",
+        "contribuição social",
+        "antes da dedução",
+        "após a dedução",
+        "art. 39",
+        "lei 8.177"
+      ],
+      "explicacao_curta": "A Súmula 200 do TST e o art. 39, §1º da Lei 8.177/91 determinam que os juros incidem sobre a importância da condenação já corrigida monetariamente, mas o cálculo correto apura os juros APÓS a dedução da contribuição previdenciária cota-parte do empregado. O gabarito reflete essa metodologia no demonstrativo de juros: capital = total de verbas menos contribuição social. A ré calculou juros sobre o bruto antes da dedução, inflando o crédito do autor."
+    },
+    {
+      "tema": "FGTS — base de cálculo sobre as diferenças e reflexos",
+      "dimensao": 17,
+      "keywords": [
+        "fgts",
+        "8%",
+        "diferença salarial",
+        "reflexos fgts",
+        "base fgts",
+        "diárias integradas",
+        "acórdão edro",
+        "incidência fgts",
+        "869,50",
+        "1.155,39"
+      ],
+      "explicacao_curta": "O FGTS de 8% incide sobre a diferença das diárias de viagem (rubrica 1) e sobre as diferenças salariais por redução unilateral (rubrica 2), conforme determinação expressa do acórdão nos embargos de declaração. O gabarito apura FGTS bruto de R$ 869,50 (corrigido R$ 1.155,39 incluindo juros), tomando como base exclusivamente a diferença devida mês a mês, descontados os valores já recolhidos ao FGTS. A ré omitiu o FGTS sobre reflexos expressamente deferidos."
+    },
+    {
+      "tema": "Multa de 40% sobre FGTS — base e exclusão do aviso prévio indenizado",
+      "dimensao": 18,
+      "keywords": [
+        "multa 40%",
+        "indenização compensatória",
+        "aviso prévio",
+        "exclusão aviso prévio",
+        "base multa fgts",
+        "diferença fgts",
+        "347,80",
+        "462,16",
+        "dispensa sem justa causa"
+      ],
+      "explicacao_curta": "A multa de 40% incide sobre o FGTS calculado sobre as diferenças deferidas, excluindo a projeção do aviso prévio indenizado da base (entendimento majoritário). O gabarito apura multa de R$ 347,80 bruto (R$ 462,16 com correção e juros) sobre uma base de R$ 820,81 de FGTS diferença. O título determinou expressamente a multa de 40% no acórdão RO; a ré omitiu ou calculou incorretamente."
+    },
+    {
+      "tema": "INSS — cota empregado com respeito ao teto do RGPS",
+      "dimensao": 19,
+      "keywords": [
+        "inss",
+        "contribuição social",
+        "cota empregado",
+        "teto rgps",
+        "teto contribuição",
+        "duplicidade",
+        "contribuição previdenciária",
+        "alíquota efetiva",
+        "salário de contribuição",
+        "11.286,82"
+      ],
+      "explicacao_curta": "A contribuição previdenciária do empregado deve respeitar o teto do RGPS: quando o salário de contribuição total (pago + devido) supera o teto, a alíquota incide apenas sobre a diferença até esse limite, não sobre o excesso. O gabarito deduz R$ 11.286,82 de INSS do empregado aplicando alíquota efetiva mês a mês. A ré apurou a contribuição sem considerar que o autor frequentemente já atingia o teto via salário pago, gerando cobrança duplicada."
+    },
+    {
+      "tema": "IRPF — tabela progressiva acumulada (art. 12-A da Lei 7.713/1988)",
+      "dimensao": 20,
+      "keywords": [
+        "irpf",
+        "imposto de renda",
+        "tabela progressiva acumulada",
+        "art. 12-a",
+        "lei 7.713",
+        "rendimentos acumulados",
+        "27,5%",
+        "35.458,94",
+        "tributação exclusiva",
+        "anos-calendário anteriores"
+      ],
+      "explicacao_curta": "Verbas trabalhistas pagas acumuladamente, relativas a anos-calendário anteriores ao do recebimento, sujeitam-se à tributação exclusiva na fonte pelo art. 12-A da Lei 7.713/1988, com uso da tabela progressiva acumulada. O gabarito apura IRPF de R$ 35.458,94 sobre base de R$ 188.422,11 (após deducao de R$ 11.286,82 de INSS e honorários), alíquota efetiva de 27,5%. Usar a tabela mensal em vez da acumulada é erro grave que infla o imposto e reduz o crédito líquido do autor."
+    }
+  ]
+}

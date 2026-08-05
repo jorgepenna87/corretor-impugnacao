@@ -1,0 +1,286 @@
+{
+  "1": [
+    {
+      "titulo": "Introdução aos Cálculos Trabalhistas",
+      "link": ""
+    },
+    {
+      "titulo": "Sequência Lógica dos Cálculos",
+      "link": ""
+    }
+  ],
+  "2": [
+    {
+      "titulo": "Tipos de Impugnação",
+      "link": ""
+    },
+    {
+      "titulo": "Checklist de Impugnação - Reclamante",
+      "link": ""
+    },
+    {
+      "titulo": "Pedidos que Alteram a Remuneração Base (Interpretação de Sentenças)",
+      "link": ""
+    }
+  ],
+  "3": [
+    {
+      "titulo": "Impugnação - Desconformidade com Documentos",
+      "link": ""
+    },
+    {
+      "titulo": "Impugnação - Erro de Cálculo",
+      "link": ""
+    },
+    {
+      "titulo": "Checklist de Impugnação - Ré",
+      "link": ""
+    }
+  ],
+  "4": [
+    {
+      "titulo": "Juros e Correção Monetária",
+      "link": ""
+    },
+    {
+      "titulo": "Exercício 8 - SELIC como Juros ou Correção Monetária",
+      "link": ""
+    },
+    {
+      "titulo": "Impugnação - Juros",
+      "link": ""
+    }
+  ],
+  "5": [
+    {
+      "titulo": "Remuneração Base",
+      "link": ""
+    },
+    {
+      "titulo": "Horas Extraordinárias (cálculo com divisor)",
+      "link": ""
+    },
+    {
+      "titulo": "Pirâmide de Penna (estrutura remuneratória)",
+      "link": ""
+    }
+  ],
+  "6": [
+    {
+      "titulo": "Exercício 4 Prata - HE conforme Cartões de Ponto",
+      "link": ""
+    },
+    {
+      "titulo": "Impugnação - Desconformidade com Documentos (cartão de ponto)",
+      "link": ""
+    }
+  ],
+  "7": [
+    {
+      "titulo": "Jornada Extraordinária",
+      "link": ""
+    },
+    {
+      "titulo": "Horas Extraordinárias",
+      "link": ""
+    },
+    {
+      "titulo": "Impugnação - Horas Extras",
+      "link": ""
+    }
+  ],
+  "8": [
+    {
+      "titulo": "Domingos e Feriados Trabalhados",
+      "link": ""
+    },
+    {
+      "titulo": "Video 114 - Considerar Jornada nos Feriados não Trabalhados",
+      "link": ""
+    }
+  ],
+  "9": [
+    {
+      "titulo": "Horas Extraordinárias (quantidade mensal)",
+      "link": ""
+    },
+    {
+      "titulo": "Video 104 - Jornadas Excepcionais (3x2, 4x2, 8x1)",
+      "link": ""
+    },
+    {
+      "titulo": "Video 79 - Lançamento de Jornada 6x1",
+      "link": ""
+    }
+  ],
+  "10": [
+    {
+      "titulo": "Verbas Rescisórias",
+      "link": ""
+    },
+    {
+      "titulo": "Pedidos de Verbas Anuais e Rescisórias (Interpretação de Sentenças)",
+      "link": ""
+    },
+    {
+      "titulo": "Impugnação - Verbas",
+      "link": ""
+    }
+  ],
+  "11": [
+    {
+      "titulo": "Video 44 - Deduzindo Valores Recolhidos de FGTS",
+      "link": ""
+    },
+    {
+      "titulo": "Impugnação - Erro de Cálculo",
+      "link": ""
+    }
+  ],
+  "12": [
+    {
+      "titulo": "Video 88 - Outras Proporções de RSR",
+      "link": ""
+    },
+    {
+      "titulo": "Video 101 - Reflexos Manuais - RSR",
+      "link": ""
+    },
+    {
+      "titulo": "Impugnação - Reflexos",
+      "link": ""
+    }
+  ],
+  "13": [
+    {
+      "titulo": "Video 102 - Tipos de Reflexos",
+      "link": ""
+    },
+    {
+      "titulo": "Impugnação - Reflexos",
+      "link": ""
+    },
+    {
+      "titulo": "Remuneração Condicional",
+      "link": ""
+    }
+  ],
+  "14": [
+    {
+      "titulo": "Impugnação - Desconformidade com a Sentença",
+      "link": ""
+    },
+    {
+      "titulo": "Pedidos de Remuneração por Jornada (Interpretação de Sentenças)",
+      "link": ""
+    },
+    {
+      "titulo": "Tipos de Impugnação",
+      "link": ""
+    }
+  ],
+  "15": [
+    {
+      "titulo": "Férias, Abono e Gratificação",
+      "link": ""
+    },
+    {
+      "titulo": "Video 26 - Férias Contratuais",
+      "link": ""
+    },
+    {
+      "titulo": "Video 99 - Reflexos Manuais - Férias Gozadas",
+      "link": ""
+    }
+  ],
+  "16": [
+    {
+      "titulo": "Juros e Correção Monetária",
+      "link": ""
+    },
+    {
+      "titulo": "Exercício 8 - SELIC como Juros ou Correção Monetária",
+      "link": ""
+    },
+    {
+      "titulo": "Impugnação - Juros",
+      "link": ""
+    }
+  ],
+  "17": [
+    {
+      "titulo": "Video 45 - FGTS sobre Verbas Lançadas",
+      "link": ""
+    },
+    {
+      "titulo": "Exercício 7 - Apurar FGTS a Depositar",
+      "link": ""
+    },
+    {
+      "titulo": "Impugnação - FGTS",
+      "link": ""
+    }
+  ],
+  "18": [
+    {
+      "titulo": "Impugnação - FGTS (multa 40%)",
+      "link": ""
+    },
+    {
+      "titulo": "Video 44 - Deduzindo Valores Recolhidos de FGTS",
+      "link": ""
+    }
+  ],
+  "19": [
+    {
+      "titulo": "Contribuição Previdenciária",
+      "link": ""
+    },
+    {
+      "titulo": "Video 44 - Deduzindo Valores Recolhidos de FGTS (lógica de dedução de pagos)",
+      "link": ""
+    }
+  ],
+  "20": [
+    {
+      "titulo": "IRPF",
+      "link": ""
+    }
+  ],
+  "21": [
+    {
+      "titulo": "Contribuição Previdenciária (INSS, desoneração, regimes especiais)",
+      "link": ""
+    },
+    {
+      "titulo": "Impugnação - INSS",
+      "link": ""
+    }
+  ],
+  "22": [
+    {
+      "titulo": "Contribuição Previdenciária (SAT/RAT por CNAE)",
+      "link": ""
+    },
+    {
+      "titulo": "Impugnação - INSS",
+      "link": ""
+    }
+  ],
+  "23": [
+    {
+      "titulo": "Video 55 - Custas",
+      "link": ""
+    }
+  ],
+  "24": [
+    {
+      "titulo": "Pedidos de Verbas Indenizatórias (dano moral, Súmula 439)",
+      "link": ""
+    },
+    {
+      "titulo": "Juros e Correção Monetária (juros sobre indenização)",
+      "link": ""
+    }
+  ]
+}

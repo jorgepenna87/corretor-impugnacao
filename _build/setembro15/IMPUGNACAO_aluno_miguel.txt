@@ -1,0 +1,97 @@
+MM. JUÍZ DA 1ª VARA DO TRABALHO DE ITAPERUNA
+
+Processo nº 0100387-47.2022.5.01.0471
+
+MIGUEL DE LEMOS NETO, devidamente qualificado na ação em epígrafe, que move em face de SOCIEDADE UNIVERSITÁRIA REDENTOR, vem, por seu advogado, no fim assinado, em atendimento ao r. despacho de V. Ex.ª apresentar manifestação aos cálculos de id. ahjis98, pelas seguintes razões.
+IMPUGNAÇÃO DE CÁLCULOS
+DIARIAS DE VIAGEM – DOS VALORES DEFERIDOS
+
+A planilha da RECLAMADA (ID [xxxxxx]) está em desacordo com o acórdão, que reformou a sentença para assegurar a integração, como parcelas salariais, dos valores pagos a título de “despesas de viagem”, observando-se a irredutibilidade salarial.
+O título judicial fixou, de forma expressa:
+“Reforma-se, ainda, a sentença para condenar a reclamada à consideração na integração das referidas parcelas salariais pagas a fim de cobrir ‘despesas de viagem’ no valor de R$ 14.300,00 de março de 2020 até junho de 2020 e de R$ 15.605,00 a partir de julho de 2020 até a dispensa, em respeito ao princípio da irredutibilidade salarial, uma vez que o reclamante recebeu o valor de R$ 14.300,00 até fevereiro de 2020 e o valor de R$ 15.605,00 no mês de julho de 2020. Se a referida verba é salarial não pode ser reduzida da remuneração do reclamante.”
+
+Não obstante, a ré apurou as diárias/“despesas de viagem” nas seguintes proporções e valores, reduzindo a base remuneratória em flagrante violação ao título:
+R$ 13.000,00 (nov/2018 a jun/2019);
+R$ 14.300,00 (jul/2019 a fev/2020);
+R$ 13.405,00 (mar/2020 a jun/2020);
+R$ 15.605,00 (jul/2020);
+R$ 13.077,88 (ago a dez/2020);
+R$ 6.538,94 (jan/2021);
+R$ 6.000,00 (fev a jul/2021 e set a nov/2021).
+
+Erro 1 – Redução indevida entre março/2020 e junho/2020 O acórdão determinou a integração em R$ 14.300,00 de março/2020 a junho/2020. A ré lançou R$ 13.405,00, reduzindo a remuneração em afronta à coisa julgada e ao princípio da irredutibilidade salarial.
+Erro 2 – Redução indevida a partir de julho/2020 até a dispensa O acórdão fixou R$ 15.605,00 “a partir de julho de 2020 até a dispensa”. A ré apenas reconheceu julho/2020 nesse patamar e, em seguida, reduziu para R$ 13.077,88 (ago–dez/2020), R$ 6.538,94 (jan/2021) e R$ 6.000,00 (fev–jul/2021; set–nov/2021), o que viola frontalmente o comando judicial e a irredutibilidade.
+Erro 3 – Não aplicação dos reajustes salariais normativos O título foi expresso: “Julgo procedente, por fim, o pedido de aplicação dos reajustes salariais aos valores cuja integração fora determinada neste Julgado, na forma das normas coletivas juntadas aos autos.” A planilha da ré desconsidera os reajustes previstos nas CCTs sobre os valores integrados (R$ 14.300,00 e R$ 15.605,00), deixando de majorar a base remuneratória nas datas-base convencionais, o que configura descumprimento direto do título.
+Metodologia correta a observar (conforme o título):
+Mar/2020 a Jun/2020: integrar R$ 14.300,00 por mês;
+A partir de Jul/2020 até a dispensa: integrar R$ 15.605,00 por mês;
+Aplicar, sobre tais bases integradas, os reajustes salariais das normas coletivas nas respectivas datas-base, com repercussão nas competências subsequentes;
+Meses anteriores a mar/2020: manter a remuneração percebida, vedada a redução por diárias inferiores ao padrão salarial fixado, prevalecendo os parâmetros de integração definidos no acórdão para os períodos atingidos.
+
+DIARIAS DE VIAGEM – INTEGRAÇÃO ATÉ JUNHO DE 2020
+
+O acórdão foi expresso ao deferir a integração do valor integral das parcelas pagas a título de “despesas de viagem” (diárias) até junho/2020, e não apenas da diferença apurada:
+“... Assim sendo, considerando os elementos probatórios existentes nos autos, da forma como concedida ao autor, dado o caráter remuneratório das parcelas em questão, razão de se acolher em parte o pedido de integração das mesmas à remuneração do autor, considerando os valores mensais de:
+- R$13.000,00 para os meses de novembro de 2018 a junho de 2019;
+- R$14.300,00 para os meses de julho de 2019 a fevereiro de 2020 e
+- R$13.405,00 para os meses de março a junho de 2020;”
+Não obstante, a ré, em sua planilha (ID [xxxxxx]), integrou somente a diferença entre um valor de referência por ela eleito e o efetivamente pago, deixando de integrar o valor integral das diárias até junho/2020, em flagrante violação ao título.
+
+Erro metodológico
+Título: integração do valor integral das diárias pagas (rubrica de natureza salarial) nos meses até 06/2020.
+Ré: integração parcial, apenas das “diferenças”, o que reduz artificialmente a base remuneratória e afronta a irredutibilidade salarial fixada no acórdão.
+Metodologia correta a observar
+Até 06/2020: lançar/integrar a totalidade das diárias pagas em cada mês como parcela salarial, conforme parâmetros do título e contracheques, e não apenas diferenças.
+Reflexos decorrentes
+A integração integral das diárias compõe a base de cálculo de; 13º; férias + 1/3; FGTS; e horas extras, nos termos dos guias do curso e Súmula 264 do TST (base de HE deve incluir parcelas salariais habituais).
+
+REFLEXOS SOBRE DIFERENÇA SALARIAL
+
+A planilha da ré não apurou os reflexos sobre as diferenças salariais decorrentes da redução unilateral da carga horária (diferenças do salário-base e do DSR nos termos da cláusula sétima da CCT 2017/2019), embora o acórdão tenha deferido expressamente tais reflexos:
+“Entretanto, merece reforma o julgado para deferir os reflexos dessas diferenças salariais decorrentes da redução da carga horária (diferenças do salário base e descanso semanal remunerado, nos termos da cláusula sétima da CCT 2017/2019 - Id. daffac7 - Pág. 3) nos 13º salários, nas férias vencidas e proporcionais acrescidas de 1/3 e no FGTS acrescido da multa de 40%, nos termos da pretensão contida na peça de ingresso.”
+Não obstante, a planilha (ID [xxxxxx]) limitou-se a apurar as diferenças principais, omitindo:
+Diferenças de RSR
+13º salários (vencidos e proporcionais) sobre as diferenças de salário-base e DSR;
+Férias vencidas e proporcionais + 1/3 sobre as mesmas diferenças;
+FGTS 8% + multa de 40% sobre todas as diferenças e reflexos.
+II – METODOLOGIA DE CÁLCULO CORRETA Conforme o título:
+Identificar, mês a mês, as diferenças de salário-base e de DSR decorrentes da redução unilateral (CCT 2017/2019, cláusula sétima).
+Aplicar reflexos:
+13º salários: incluir as diferenças na base do 13º do respectivo ano (proporcional na fração de meses trabalhados).
+Férias: integrar as diferenças nas férias vencidas e proporcionais, acrescidas de 1/3.
+FGTS: 8% sobre as diferenças mensais e sobre os reflexos em 13º e férias; multa de 40% sobre a totalidade do FGTS apurado no período imprescrito, conforme o título.
+
+ATUALIZAÇÃO MONETÁRIA – SELIC FAZENDA
+
+A Ré utilizou a chamada “SELIC simples”, dissociada da metodologia legal dos tributos federais. Ocorre que, conforme o item 7 da ementa da ADC 58/59, na fase judicial a atualização deve observar a taxa SELIC incidente como juros moratórios dos tributos federais, isto é, a SELIC da Receita/Fazenda Nacional, que já engloba correção e juros, vedada qualquer capitalização e vedada a cumulação com outro índice.
+ “7. Em relação à fase judicial, a atualização dos débitos judiciais deve ser efetuada pela taxa referencial do Sistema Especial de Liquidação e Custódia – SELIC, considerando que ela incide como juros moratórios dos tributos federais (arts. 13 da Lei 9.065/95; 84 da Lei 8.981/95; 39, § 4º, da Lei 9.250/95; 61, § 3º, da Lei 9.430/96; e 30 da Lei 10.522/02).”
+
+ATUALIZAÇÃO – LEI 14.905/24
+
+A planilha da ré manteve a aplicação da chamada “SELIC simples” em toda a fase judicial, inclusive após 30/08/2024, quando passou a vigorar a Lei 14.905/2024. Tal lei determinou a cisão dos componentes de atualização: correção monetária pelo IPCA e juros moratórios pela Taxa Legal (publicada pelo Banco Central), vedada a utilização da SELIC como indexador único na fase judicial superveniente.
+JUROS DE MORA – S. 200, DO TST
+
+A planilha da ré (ID [xxxxxx]) calculou incorretamente os juros de mora após deduzir a contribuição previdenciária cota-parte do empregado, como se verifica do demonstrativo anexo.
+Tal procedimento contraria:
+Súmula 200 do TST: “Os juros de mora incidem sobre a importância da condenação já corrigida monetariamente.”
+Art. 39, caput e § 1º, da Lei 8.177/91 (juros sobre o débito trabalhista).
+Portanto, os juros devem incidir sobre a importância da condenação já corrigida, em valor bruto, sem abatimento prévio de INSS ou IRRF.
+
+INSS – COTA EMPREGADO
+
+A planilha da ré apurou a contribuição previdenciária cota-parte do empregado como se devida sobre a totalidade das parcelas salariais deferidas, mês a mês, sem considerar que o reclamante, no período de competência, já atingia o teto de contribuição do RGPS. Assim, houve cobrança indevida/duplicada de INSS do empregado sobre as verbas reconhecidas judicialmente.
+FGTS SOBRE REFLEXOS
+
+Consta do acórdão proferido nos embargos de declaração do recurso ordinário: “Não lhe assiste razão. Com efeito, no acórdão embargado há condenação expressa ao pagamento de diferenças de FGTS mais indenização compensatória de 40% decorrentes das diferenças salariais e dos salários pagos ‘por fora’ reconhecidos, nos termos em que postulados na inicial. Não há omissão.”
+E a petição inicial formulou pedido específico: “Pedido h) à integração das diferenças salariais e reflexos dos pedidos ‘d’, ‘e’, ‘f’ e ‘g’ no FGTS somado à indenização de 40% (quarenta por cento) conforme, e não limitado, ao apurado em planilha.”
+Portanto, o título executivo reconheceu o FGTS não apenas sobre as verbas principais (diferenças salariais e salários “por fora”), mas também sobre seus reflexos expressamente pedidos.
+
+CONCLUSÃO
+Considerando que os cálculos da parte reclamada encontram-se em desacordo com a coisa julgada, requer sejam julgadas procedentes as impugnações apresentadas e homologados os cálculos apresentados ao id xxxxxx.
+
+Rio de Janeiro,  TIME \@ "d' de 'MMMM' de 'yyyy" 15 de setembro de 2025
+
+NOME DO ADVOGADO
+ADV/OAB/XX.XXX
+
+Estrategista Processual

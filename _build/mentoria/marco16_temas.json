@@ -1,0 +1,79 @@
+[
+  {
+    "tema": "Período de cálculo e data de ajuizamento",
+    "dimensao": 1,
+    "dimensao_label": "Período de cálculo",
+    "keywords": ["admissão", "demissão", "ajuizamento", "período", "data de ajuizamento", "data de admissão", "data de demissão"],
+    "explicacao_curta": "Sempre conferir se período (admissão/demissão) e data de ajuizamento estão corretos; são os primeiros pontos da comparação entre cálculos. No caso concreto (Alberto x Sunflow) estavam corretos: admissão 22/03/2023, demissão 30/05/2025, ajuizamento 22/07/2025."
+  },
+  {
+    "tema": "Diferença salarial — evolução do salário do paradigma",
+    "dimensao": 2,
+    "dimensao_label": "Verbas deferidas apuradas",
+    "keywords": ["diferença salarial", "evolução salarial", "salário paradigma", "salário recebido", "salário devido", "histórico salarial", "contracheque do paradigma", "último salário", "salário fixo"],
+    "explicacao_curta": "O reclamante usou o último salário do paradigma como se fosse o valor fixo de todo o contrato, desrespeitando a evolução mês a mês. O correto é respeitar a evolução salarial do paradigma constante dos contracheques, como determinado pela sentença."
+  },
+  {
+    "tema": "Adicional de periculosidade — integração em cadeia não determinada",
+    "dimensao": 2,
+    "dimensao_label": "Verbas deferidas apuradas",
+    "keywords": ["adicional de periculosidade", "periculosidade", "30%", "integração em cadeia", "reflexo em reflexo", "coisa julgada", "determinação expressa"],
+    "explicacao_curta": "A sentença deferiu reflexo da diferença salarial no adicional de periculosidade e deste em férias/13º/aviso/FGTS, mas não determinou integração em cadeia do adicional de periculosidade em outras verbas. Incluir reflexo não expressamente deferido extrapola os limites da coisa julgada (art. 879 §2º CLT)."
+  },
+  {
+    "tema": "Multa do art. 477 — verba não deferida",
+    "dimensao": 2,
+    "dimensao_label": "Verbas deferidas apuradas",
+    "keywords": ["multa 477", "art. 477", "indenização atraso TRCT", "verba não deferida", "coisa julgada", "inovação"],
+    "explicacao_curta": "O reclamante incluiu reflexo sobre a multa do art. 477, mas esta verba não foi expressamente deferida pela sentença. Incluir verba sem amparo no título judicial viola a coisa julgada (art. 879 §1º CLT)."
+  },
+  {
+    "tema": "Honorários advocatícios sucumbenciais — percentual majorado",
+    "dimensao": 2,
+    "dimensao_label": "Verbas deferidas apuradas",
+    "keywords": ["honorários", "sucumbência", "10%", "5%", "percentual", "violação coisa julgada", "honorários advocatícios"],
+    "explicacao_curta": "O reclamante aplicou honorários de 10% quando a sentença fixou 5%. Majorar unilateralmente o percentual configura violação à coisa julgada. A impugnação deve ser direta: corrigir de 10% para o percentual fixado em julgamento."
+  },
+  {
+    "tema": "Honorários sucumbenciais — base de cálculo (bruto × líquido)",
+    "dimensao": 2,
+    "dimensao_label": "Verbas deferidas apuradas",
+    "keywords": ["honorários", "base de cálculo", "bruto", "líquido", "INSS do autor", "valor líquido da condenação", "OJ 341"],
+    "explicacao_curta": "Os honorários devem incidir sobre o valor líquido da condenação, excluído o INSS devido pelo autor, conforme OJ 341 SDI-1. Aplicar sobre o bruto inclui parcela que não é do reclamante e infla a base de cálculo."
+  },
+  {
+    "tema": "Custas processuais — base de cálculo",
+    "dimensao": 23,
+    "dimensao_label": "Custas pagas deduzidas",
+    "keywords": ["custas", "2%", "valor da causa", "base de cálculo das custas", "custas pagas", "valor do pedido"],
+    "explicacao_curta": "As custas são 2% sobre o valor da causa (pedido da inicial), não sobre o valor apurado pelo reclamante. O reclamante pode inflar a base usando valores majorados. Se custas já foram pagas em sede recursal, a impugnação deve destacar isso para dedução."
+  },
+  {
+    "tema": "Juros e correção — Lei 14.905 × ADC 58 (data de ajuizamento)",
+    "dimensao": 16,
+    "dimensao_label": "Juros e correção",
+    "keywords": ["Lei 14.905", "ADC 58", "IPCA-E", "IPCA", "SELIC", "taxa legal", "30 de agosto de 2024", "juros pré-judicial", "fase pré-judicial", "fase judicial", "data de ajuizamento", "correção monetária"],
+    "explicacao_curta": "Quando o ajuizamento é posterior a 30/08/2024 (Lei 14.905), aplica-se IPCA-E como correção e SELIC menos IPCA como juros — somente a partir do ajuizamento. A lei não fixou SELIC para a fase pré-judicial; antes do ajuizamento aplica-se o regime da ADC 58 (IPCA-E + juros TRD). Usar taxa legal antes do ajuizamento é erro impugnável."
+  },
+  {
+    "tema": "Base de cálculo dos juros — antes × depois da dedução do INSS",
+    "dimensao": 16,
+    "dimensao_label": "Juros e correção",
+    "keywords": ["juros", "base de cálculo dos juros", "dedução", "contribuição social", "INSS do segurado", "antes da dedução", "após a dedução", "juros sobre parcela que não lhe diz respeito"],
+    "explicacao_curta": "Os juros de mora devem incidir após a dedução da contribuição previdenciária do segurado (reclamante), não sobre o bruto. Apurar juros antes da dedução dá ao autor juros sobre parcela que vai ao INSS, não a ele, inflando o crédito."
+  },
+  {
+    "tema": "FGTS — base de cálculo e verbas não expressamente deferidas",
+    "dimensao": 17,
+    "dimensao_label": "Base FGTS",
+    "keywords": ["FGTS", "base de cálculo FGTS", "pedido implícito", "Súmula 63 TST", "ex vi legis", "incidência FGTS", "remuneração", "verbas acessórias"],
+    "explicacao_curta": "Pela reclamada: não incluir FGTS sobre verbas não expressamente deferidas. Pela reclamante: Súmula 63 TST e jurisprudência do TST reconhecem o pedido de FGTS como implícito (decorre da lei, não da condenação). Impugnar se o cálculo inclui FGTS sobre verbas ou salários não determinados ou metodologia incorreta (ex: reflexos sobre acessórios sem expressa previsão)."
+  },
+  {
+    "tema": "Férias — apuração em duplicidade (proporcionalização × terço)",
+    "dimensao": 14,
+    "dimensao_label": "Verbas-metodologia",
+    "keywords": ["férias", "terço de férias", "duplicidade", "proporcionalização", "base de cálculo férias", "férias indenizadas", "1/3", "diferença salarial integrante da base"],
+    "explicacao_curta": "O reclamante usou a diferença salarial integral como base para as férias no mês do vencimento E ainda apurou o terço sobre essa base completa — gerando duplicidade. O correto é: ou proporcionalizar a diferença no mês de férias, ou apurar o terço somente quando a diferença principal não integrou integralmente aquele mês."
+  }
+]
