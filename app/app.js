@@ -279,6 +279,20 @@ window.corrigir = async function() {
     ultimoResultado = { resultado, resultadoText, params, totaisAluno, textoImpug };
 
     renderResultado(resultado, resultadoText, totaisAluno, !!textoImpug);
+        // Análise pedagógica por IA: complementar e assíncrona.
+    // Não altera a nota determinística e não bloqueia o resultado se falhar.
+    if (textoImpug && window.CorretorAI?.analisar) {
+      window.CorretorAI.analisar({
+        exercicio: _exSelect.value,
+        textoImpug,
+        resultado,
+        resultadoText,
+      }).catch((error) =>
+        console.warn("IA pedagógica indisponível:", error)
+      );
+    } else {
+      window.CorretorAI?.resetar?.();
+    }
     setStatus("");
     document.getElementById("result").scrollIntoView({ behavior: "smooth" });
 
@@ -748,5 +762,6 @@ window.resetar = function() {
   document.getElementById("result").style.display = "none";
   setStatus("");
   ultimoResultado = null;
+  window.CorretorAI?.resetar?.();
   window.scrollTo({ top: 0, behavior: "smooth" });
 };

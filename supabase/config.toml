@@ -1,0 +1,2 @@
+[functions.analisar-impugnacao]
+verify_jwt = false

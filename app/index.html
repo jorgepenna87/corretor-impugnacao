@@ -30,8 +30,7 @@
 <header>
   <div class="brand">
     <h1>Corretor de Impugnação de Cálculo</h1>
-    <span class="sub">ICIT · correção automática e determinística — sem IA, sem servidor, 100% no seu navegador</span>
-  </div>
+    <span class="sub">ICIT · correção determinística do cálculo + análise pedagógica da impugnação por IA</span>  </div>
 </header>
 
 <div class="container">
@@ -65,13 +64,26 @@
         <small class="hint">Necessário para conferir o <b>resultado</b> (total devido, reflexos). Sem ele, só os parâmetros são conferidos.</small>
       </div>
       <div class="upload-row">
-        <label>Texto da impugnação (opcional, .docx, .pdf ou .txt):</label>
-        <input type="file" id="file-texto" accept=".docx,.pdf,.txt" />
+  <label>Texto da impugnação (opcional, .docx, .pdf ou .txt):</label>
+
+  <input
+    type="file"
+    id="file-texto"
+    accept=".docx,.pdf,.txt"
+  />
+
+  <p style="font-size:12px;color:var(--text-soft);margin-top:6px;">
+    Ao enviar a impugnação, o texto será encaminhado à OpenAI para gerar
+    feedback pedagógico. Evite incluir dados pessoais desnecessários ou
+    informações sigilosas.
+  </p>
+</div>
       </div>
       <button class="btn" id="btn-corrigir" onclick="corrigir()">Corrigir</button>
       <div id="status-msg"></div>
     </div>
   </div>
+  
 
   <!-- Resultado -->
   <div id="result">
@@ -134,8 +146,7 @@
     <div class="card" id="card-diagnostico" style="display:none;">
       <h2>Diagnóstico detalhado <span class="beta-tag">beta</span></h2>
       <p style="font-size:12.5px;color:var(--text-soft);margin-bottom:10px;">
-        Comparação item a item do seu .PJC com o gabarito por um segundo motor.
-        Não altera a nota — é só um mapa extra de onde revisar.
+        Comparação item a item do seu .PJC com os critérios do exercício por um segundo motor. Não altera a nota — é apenas um mapa adicional dos pontos que precisam ser revisados.
       </p>
       <div id="diag-status" style="font-size:13px;color:var(--text-soft);"></div>
       <div id="diagnostico-body"></div>
@@ -157,9 +168,11 @@
 </div>
 
 <footer>
-  Corretor de Impugnação de Cálculo · ICIT — correção determinística do seu <code>.PJC</code> contra o gabarito do professor.
+  Corretor de Impugnação de Cálculo · ICIT — correção determinística do seu <code>.PJC</code> com base nos critérios do exercício.
 </footer>
 
+<script src="ai-config.js"></script>
+<script src="ai-feedback.js"></script>
 <script type="module" src="app.js"></script>
 </body>
 </html>
