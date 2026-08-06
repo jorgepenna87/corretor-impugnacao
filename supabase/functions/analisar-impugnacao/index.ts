@@ -240,6 +240,7 @@ REGRAS OBRIGATÓRIAS:
 8. A nota de qualidade é complementar e vai de 0 a 100; ela não altera a nota determinística.
 9. Responda de forma compacta: resumo com até 500 caracteres; cada item das listas com até 220 caracteres; observação com até 300 caracteres.
 10. Use no máximo 3 pontos fortes, 4 pontos a melhorar e 3 próximos passos. Não use Markdown.
+11. Diferencie rigorosamente problemas encontrados no cálculo/PJC de temas ausentes no texto da impugnação. Não diga que a impugnação omitiu um tema quando o checklist determinístico o marcou como coberto. Um item ausente ou incorreto no cálculo não significa que o texto deixou de abordá-lo.
 `.trim();
 
   const schema = {
