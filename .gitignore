@@ -9,3 +9,5 @@ desktop.ini
 Thumbs.db
 .venv/
 *.tmp
+
+supabase/.temp/
