@@ -30,7 +30,8 @@
 <header>
   <div class="brand">
     <h1>Corretor de Impugnação de Cálculo</h1>
-    <span class="sub">ICIT · correção determinística do cálculo + análise pedagógica da impugnação por IA</span>  </div>
+    <span class="sub">ICIT · correção determinística do cálculo + análise pedagógica da impugnação por IA</span>
+  </div>
 </header>
 
 <div class="container">
@@ -64,20 +65,13 @@
         <small class="hint">Necessário para conferir o <b>resultado</b> (total devido, reflexos). Sem ele, só os parâmetros são conferidos.</small>
       </div>
       <div class="upload-row">
-  <label>Texto da impugnação (opcional, .docx, .pdf ou .txt):</label>
-
-  <input
-    type="file"
-    id="file-texto"
-    accept=".docx,.pdf,.txt"
-  />
-
-  <p style="font-size:12px;color:var(--text-soft);margin-top:6px;">
-    Ao enviar a impugnação, o texto será encaminhado à OpenAI para gerar
-    feedback pedagógico. Evite incluir dados pessoais desnecessários ou
-    informações sigilosas.
-  </p>
-</div>
+        <label>Texto da impugnação (opcional, .docx, .pdf ou .txt):</label>
+        <input type="file" id="file-texto" accept=".docx,.pdf,.txt" />
+        <p style="font-size:12px;color:var(--text-soft);margin-top:6px;">
+          Ao enviar a impugnação, o texto será encaminhado à OpenAI para gerar
+          feedback pedagógico. Evite incluir dados pessoais desnecessários ou
+          informações sigilosas.
+        </p>
       </div>
       <button class="btn" id="btn-corrigir" onclick="corrigir()">Corrigir</button>
       <div id="status-msg"></div>
