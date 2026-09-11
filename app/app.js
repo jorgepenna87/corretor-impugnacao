@@ -293,6 +293,22 @@ window.corrigir = async function() {
     } else {
       window.CorretorAI?.resetar?.();
     }
+
+    // Ordem dos Calculistas do Brasil: só corre se o aluno preencheu o e-mail.
+    // Reenvia o .PJC bruto — a Ordem corrige do lado dela antes de conceder,
+    // não confia na nota calculada aqui.
+    const ocbEmail = document.getElementById("ocb-email")?.value || "";
+    if (ocbEmail.trim() && window.OcbInsignia?.registrar) {
+      window.OcbInsignia.registrar({
+        exercicio: _exSelect.value,
+        email: ocbEmail,
+        filePjc,
+        impugnacaoTexto: textoImpug,
+      }).catch((error) => console.warn("Registro na Ordem indisponível:", error));
+    } else {
+      window.OcbInsignia?.resetar?.();
+    }
+
     setStatus("");
     document.getElementById("result").scrollIntoView({ behavior: "smooth" });
 
@@ -763,5 +779,6 @@ window.resetar = function() {
   setStatus("");
   ultimoResultado = null;
   window.CorretorAI?.resetar?.();
+  window.OcbInsignia?.resetar?.();
   window.scrollTo({ top: 0, behavior: "smooth" });
 };

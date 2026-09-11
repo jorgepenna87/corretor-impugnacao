@@ -73,6 +73,15 @@
           informações sigilosas.
         </p>
       </div>
+      <div class="upload-row">
+        <label>E-mail na Ordem dos Calculistas (opcional):</label>
+        <input type="email" id="ocb-email" placeholder="o mesmo e-mail da sua conta na Curseduca" />
+        <small class="hint">
+          Se você é membro da Ordem e o cálculo estiver correto (nota ≥ 8) com a impugnação cobrindo
+          os temas exigidos (≥ 80%), você ganha a insígnia "Impugnação Correta" no quadro. A Ordem
+          confere o arquivo de novo do lado dela antes de conceder — não é a nota daqui que decide.
+        </small>
+      </div>
       <button class="btn" id="btn-corrigir" onclick="corrigir()">Corrigir</button>
       <div id="status-msg"></div>
     </div>
@@ -167,6 +176,8 @@
 
 <script src="ai-config.js"></script>
 <script src="ai-feedback.js"></script>
+<script src="ocb-config.js"></script>
+<script src="ocb-insignia.js"></script>
 <script type="module" src="app.js"></script>
 </body>
 </html>
